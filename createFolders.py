@@ -23,9 +23,9 @@ for file in fileChild:
 
         names = {}
         for folderName in folders:
-            names[folderName['title']] = 0
+            names[folderName['title']] = folderName['id']
 
-        wanted = ['Quizzes and Midterms', 'Other', 'Homework']
+        wanted = ['Quizzes and Midterms', 'Other', 'Homework and Notes']
 
         for name in wanted:
             if name not in names:
