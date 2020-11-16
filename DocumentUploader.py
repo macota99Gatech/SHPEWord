@@ -42,7 +42,7 @@ class Uploader:
         return file['id']
 
     def getIdMajor(self):
-        fileChild = drive.ListFile({'q': "'%s' in parents and trashed=false" % self.idSHPE_Folder}).GetList()
+        fileChild = self.drive.ListFile({'q': "'%s' in parents and trashed=false" % self.idSHPE_Folder}).GetList()
         for file in fileChild:
             title = file['title']
             arr = title.split(')')
@@ -52,7 +52,7 @@ class Uploader:
                 return file['id']
 
     def insertFile(self):
-        refresh_json = false
+        refresh_json = False
         self.idSHPE_Folder = self.getMainFolder()
         if self.course != 'null':
 
