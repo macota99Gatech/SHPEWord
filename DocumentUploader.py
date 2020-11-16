@@ -50,7 +50,7 @@ class Uploader:
             arr = title.split(')')
             fixed = arr[0][1:len(arr[0])]
 
-            if fixed == self.course.split()[0]:
+            if fixed == self.major:
                 return file['id']
 
     def insertFile(self):
@@ -65,6 +65,7 @@ class Uploader:
                     info = classes[self.course]
 
                 else:
+                    refresh_json = True
                     self.idMajorFolder = self.getIdMajor()
                     info = self.createCourseFolder()
 
@@ -74,6 +75,7 @@ class Uploader:
                     self.uploadDoc(info['Other'])
 
             else:
+                refresh_json = True
                 print("the folder for the major doesn't exist")
                 # create the major folder, check for name, maybe dictionary?
                 # how? if we only got the letters and not the full name
