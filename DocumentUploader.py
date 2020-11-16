@@ -14,23 +14,25 @@ class Uploader:
         self.gauth.LocalWebserverAuth()
         self.drive = GoogleDrive(self.gauth)
 
-        # self.newFiles = jsonNewFiles.newFiles(csvFile)
-        self.data = pd.read_csv(csvFile)
-        self.data = self.data.fillna('null')
+        self.newFiles = jsonNewFiles.newFiles(csvFile)
+        # self.data = pd.read_csv(csvFile)
+        # self.data = self.data.fillna('null')
 
         with open('courses.json') as f:
             self.todo = json.load(f)
 
-
     def initUpload(self):
-        for index, row in self.data.iterrows():
-            for i in range(5):
-                #improve this hardcoded part
-                self.course = row[i]
-                self.prof = row[i+5]
-                self.docType = row[i+10]
-                self.document = row[i+15]
-                self.insertFile()
+        for m, courses in self.newFiles.items():
+            self.major = m
+            for c, typeFiles in courses.items():
+                self.course = c
+                for t, list in typeFiles.items():
+                    self.docType = t
+                    for i in list:
+                        self.document = i[0]
+                        self.prof = i[1]
+                        break
+                    break
                 break
             break
 
@@ -42,7 +44,7 @@ class Uploader:
         return file['id']
 
     def getIdMajor(self):
-        fileChild = drive.ListFile({'q': "'%s' in parents and trashed=false" % self.idSHPE_Folder}).GetList()
+        fileChild = self.drive.ListFile({'q': "'%s' in parents and trashed=false" % self.idSHPE_Folder}).GetList()
         for file in fileChild:
             title = file['title']
             arr = title.split(')')
@@ -52,7 +54,7 @@ class Uploader:
                 return file['id']
 
     def insertFile(self):
-        refresh_json = false
+        refresh_json = False
         self.idSHPE_Folder = self.getMainFolder()
         if self.course != 'null':
 
