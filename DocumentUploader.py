@@ -18,20 +18,21 @@ class Uploader:
     def initUpload(self):
         for index, row in self.data.iterrows():
             for i in range(5):
-                self.course = row[i]
-                self.prof = row[i + 5]
-                self.docType = row[i + 10]
-                self.document = row[i + 15]
+                #improve this hardcoded part
+                self.course = 'AE 3015'
+                self.prof = 'Prof A'
+                self.docType = 'Other'
+                self.document = 'https://drive.google.com/open?id=1ndNpGGgHrUXtoREvOojYBUDcc1WrryP6'
                 self.insertFile()
                 break
             break
 
 
     def getMainFolder(self):
-        file_list = self.drive.ListFile({'q': "'root' in parents and trashed=false"}).GetList()
-        for file in file_list:
-            if file['title'] == 'GT-SHPE Word Dev':
-                return file['id']
+        file_list = self.drive.ListFile({'q': "title = 'GT-SHPE Word Dev' and trashed=false"}).GetList()
+        #this is a bit hardcoded
+        file = file_list[2]
+        return file['id']
 
 
     def insertFile(self):
@@ -44,18 +45,19 @@ class Uploader:
                 self.courseInfo = self.courseFolderExist()
                 self.idCourseFolder = self.courseInfo[1]
 
-                if self.courseInfo[0]:
-                    self.docTypeInfo = self.docTypeExist()
-                    self.idDocTypeFolder = self.docTypeInfo[1]
-                    if self.docTypeInfo[0]:
-                        self.uploadDoc(self.idDocTypeFolder)
-                    else:
-                        print("Error, DocType not Found")
+                if not(self.courseInfo[0]):
+                    self.idCourseFolder = self.createCourseFolder()
 
+                self.docTypeInfo = self.docTypeExist()
+                self.idDocTypeFolder = self.docTypeInfo[1]
+
+
+                if self.docTypeInfo[0]:
+                    self.uploadDoc(self.idDocTypeFolder)
                 else:
-                    self.newFolder_id = self.createCourseFolder()
-                    newFoldID = self.createDocTypeFolder(self.newFolder_id)
-                    self.uploadDoc(newFoldID)
+                    print("Error, DocType not Found")
+
+
             else:
                 print("the folder for the major doesn't exist")
                 # create the major folder, check for name, maybe dictionary?
@@ -73,7 +75,7 @@ class Uploader:
         ind = self.document.index('=')
         idDoc = self.document[ind + 1:len(self.document)]
 
-        file = drive.CreateFile({'id': idDoc})
+        file = self.drive.CreateFile({'id': idDoc})
         string = file['title']
         #manage having the correct name
         file.GetContentFile(string)
@@ -114,12 +116,18 @@ class Uploader:
         folderNew = self.drive.CreateFile({'title': self.course, 'mimeType': 'application/vnd.google-apps.folder',
                                       'parents': [{'id': self.idMajorFolder}]})
         folderNew.Upload()
+        wanted = ['Quizzes and Midterms', 'Other', 'Homework']
+        for name in wanted:
+            fold = self.drive.CreateFile({'title': name, 'mimeType': 'application/vnd.google-apps.folder',
+                                          'parents': [{'id': folderNew['id']}]})
+            fold.Upload()
         return folderNew['id']
 
 
     def docTypeExist(self):
         files = self.drive.ListFile({'q': "'%s' in parents and trashed=false" % (self.idCourseFolder)}).GetList()
         for file in files:
+            print(file['title'])
             if file['title'] == self.docType:
                 return True, file['id']
         return False, None
