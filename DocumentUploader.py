@@ -3,6 +3,8 @@ from pydrive.drive import GoogleDrive
 import pandas as pd
 import sys
 import os
+import jsonNewFiles
+import json
 
 #implement json files so that the process is faster?
 class Uploader:
@@ -12,17 +14,22 @@ class Uploader:
         self.gauth.LocalWebserverAuth()
         self.drive = GoogleDrive(self.gauth)
 
+        # self.newFiles = jsonNewFiles.newFiles(csvFile)
         self.data = pd.read_csv(csvFile)
         self.data = self.data.fillna('null')
+
+        with open('courses.json') as f:
+            self.todo = json.load(f)
+
 
     def initUpload(self):
         for index, row in self.data.iterrows():
             for i in range(5):
                 #improve this hardcoded part
-                self.course = 'AE 3015'
-                self.prof = 'Prof A'
-                self.docType = 'Other'
-                self.document = 'https://drive.google.com/open?id=1ndNpGGgHrUXtoREvOojYBUDcc1WrryP6'
+                self.course = row[i]
+                self.prof = row[i+5]
+                self.docType = row[i+10]
+                self.document = row[i+15]
                 self.insertFile()
                 break
             break
@@ -34,41 +41,43 @@ class Uploader:
         file = file_list[2]
         return file['id']
 
+    def getIdMajor(self):
+        fileChild = drive.ListFile({'q': "'%s' in parents and trashed=false" % self.idSHPE_Folder}).GetList()
+        for file in fileChild:
+            title = file['title']
+            arr = title.split(')')
+            fixed = arr[0][1:len(arr[0])]
+
+            if fixed == self.course.split()[0]:
+                return file['id']
 
     def insertFile(self):
+        refresh_json = false
         self.idSHPE_Folder = self.getMainFolder()
         if self.course != 'null':
-            self.majorInfo = self.majorFolderExist()
-            self.idMajorFolder = self.majorInfo[1]
 
-            if self.majorInfo[0]:
-                self.courseInfo = self.courseFolderExist()
-                self.idCourseFolder = self.courseInfo[1]
+            if self.course.split()[0] in self.todo:
+                classes = self.todo[self.course.split()[0]]
 
-                if not(self.courseInfo[0]):
-                    self.idCourseFolder = self.createCourseFolder()
+                if self.course in classes:
+                    info = classes[self.course]
 
-                self.docTypeInfo = self.docTypeExist()
-                self.idDocTypeFolder = self.docTypeInfo[1]
-
-
-                if self.docTypeInfo[0]:
-                    self.uploadDoc(self.idDocTypeFolder)
                 else:
-                    print("Error, DocType not Found")
+                    self.idMajorFolder = self.getIdMajor()
+                    info = self.createCourseFolder()
 
+                if self.docType in info:
+                    self.uploadDoc(info[self.docType])
+                else:
+                    self.uploadDoc(info['Other'])
 
             else:
                 print("the folder for the major doesn't exist")
                 # create the major folder, check for name, maybe dictionary?
                 # how? if we only got the letters and not the full name
 
-
-    def createDocTypeFolder(self, id):
-        folderNew = self.drive.CreateFile({'title': 'newFolder', 'mimeType': 'application/vnd.google-apps.folder',
-                                      'parents': [{'id': id}]})
-        folderNew.Upload()
-        return folderNew['id']
+        if refresh_json:
+            self.refresh()
 
 
     def uploadDoc(self, id):
@@ -88,49 +97,19 @@ class Uploader:
         os.remove(string)
 
 
-    def majorFolderExist(self):
-        fileChild = self.drive.ListFile(
-            {'q': "'%s' in parents and trashed=false" % (self.idSHPE_Folder)}).GetList()  # returns an empty list
-        for file in fileChild:
-            title = file['title']
-            courseTitle = title.split()[0]
-            alias = title[1:len(courseTitle) - 1]
-
-            indCourseName = self.course.split()
-            aliasCourse = indCourseName[0]
-            if alias == aliasCourse:
-                return True, file['id']
-
-        return False, None
-
-
-    def courseFolderExist(self):
-        files = self.drive.ListFile({'q': "'%s' in parents and trashed=false" % self.idMajorFolder}).GetList()
-        for fil in files:
-            if fil['title'] == self.course:
-                return True, fil['id']
-        return False, None
-
-
     def createCourseFolder(self):
         folderNew = self.drive.CreateFile({'title': self.course, 'mimeType': 'application/vnd.google-apps.folder',
                                       'parents': [{'id': self.idMajorFolder}]})
         folderNew.Upload()
         wanted = ['Quizzes and Midterms', 'Other', 'Homework']
+        id = {}
+        id['id'] = folderNew['id']
         for name in wanted:
             fold = self.drive.CreateFile({'title': name, 'mimeType': 'application/vnd.google-apps.folder',
                                           'parents': [{'id': folderNew['id']}]})
             fold.Upload()
-        return folderNew['id']
-
-
-    def docTypeExist(self):
-        files = self.drive.ListFile({'q': "'%s' in parents and trashed=false" % (self.idCourseFolder)}).GetList()
-        for file in files:
-            print(file['title'])
-            if file['title'] == self.docType:
-                return True, file['id']
-        return False, None
+            id[name] = fold['id']
+        return id
 
 
 if __name__ == '__main__':
