@@ -5,11 +5,14 @@ gauth = GoogleAuth()
 gauth.LocalWebserverAuth()
 drive = GoogleDrive(gauth)
 
+# hardcoded the id of the GT-SHPE word folder
 id = '1b5sxUu2RZQCfs_RdBAfofcFjxX0x3dyn'
 
 fileChild = drive.ListFile(
     {'q': "'%s' in parents and trashed=false" % (id)}).GetList()
 
+
+# normalize all the folders in each courses
 for file in fileChild:
     idMajor = file['id']
 

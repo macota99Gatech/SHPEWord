@@ -3,6 +3,7 @@ from collections import defaultdict
 import numpy as np
 import json
 
+# reads the csv file and transform it into a json file / dictionary
 def newFiles(name):
     data = pd.read_csv(name)
     dic = defaultdict(dict)

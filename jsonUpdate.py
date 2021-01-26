@@ -2,7 +2,7 @@ from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
 import json
 
-
+# updates the json file with the new ids of each folder
 def getCourses(idSHPE_Folder, drive):
     print("\nProcess started\n")
     ToDo = {}
