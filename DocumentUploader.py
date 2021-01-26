@@ -6,7 +6,6 @@ import os
 import jsonNewFiles
 import json
 
-#implement json files so that the process is faster?
 class Uploader:
 
     def __init__(self, csvFile):
@@ -31,8 +30,14 @@ class Uploader:
                     for i in list:
                         self.document = i[0]
                         self.prof = i[1]
-                        break
-                    break
+                        print("major:" + self.major)
+                        print("course:" + self.course)
+                        print("docType:" + self.docType)
+                        print("document:" + self.document)
+                        print("prof:" + self.prof)
+                        # self.insertFile()
+
+
                 break
             break
 
@@ -81,7 +86,7 @@ class Uploader:
                 # how? if we only got the letters and not the full name
 
         if refresh_json:
-            self.refresh()
+            self.courseRefresh()
 
 
     def uploadDoc(self, id):
@@ -114,6 +119,53 @@ class Uploader:
             fold.Upload()
             id[name] = fold['id']
         return id
+
+    def getCourses(idSHPE_Folder, drive):
+        print("\nProcess started\n")
+        ToDo = {}
+        alias = {}
+        fileChild = drive.ListFile(
+            {'q': "'%s' in parents and trashed=false" % (idSHPE_Folder)}).GetList()
+
+        for file in fileChild:
+            temp = {}
+            title = file['title']
+            courseTitle = title.split()[0]
+            code = title[1:len(courseTitle) - 1]
+            alias[code] = [title, file['id']]
+
+            coursesInFile = drive.ListFile({'q': "'%s' in parents and trashed=false" % (file['id'])}).GetList()
+            for courses in coursesInFile:
+                newDict = {}
+                newDict['id'] = courses['id']
+                # this for now
+                docTypes = drive.ListFile({'q': "'%s' in parents and trashed=false" % (courses['id'])}).GetList()
+                for doc in docTypes:
+                    if doc['title'] == 'Homework and Notes':
+                        newDict['Homework and Notes'] = doc['id']
+                    elif doc['title'] == 'Other':
+                        newDict['Other'] = doc['id']
+                    elif doc['title'] == 'Quizzes and Midterms':
+                        newDict['Quizzes and Midterms'] = doc['id']
+                temp[courses['title']] = newDict
+
+            ToDo[code] = temp
+            # go inside the folder and get all the courses numbers
+        return ToDo, alias
+
+    def courseRefresh(self):
+        id_FolderSHPE = self.getMainFolder(self.drive)
+        courses, codes = self.getCourses(id_FolderSHPE, self.drive)
+        data = json.loads(json.dumps(courses))
+        dataCode = json.loads(json.dumps(codes))
+
+        with open('courses.json', 'w') as f:
+            json.dump(data, f, indent=2)
+
+        with open('codes.json', 'w') as f:
+            json.dump(dataCode, f, indent=2)
+
+        print("Courses Updated")
 
 
 if __name__ == '__main__':
