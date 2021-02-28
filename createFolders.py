@@ -36,4 +36,3 @@ for file in fileChild:
                 folderNew = drive.CreateFile({'title': name, 'mimeType': 'application/vnd.google-apps.folder',
                                               'parents': [{'id': coureId}]})
                 folderNew.Upload()
-

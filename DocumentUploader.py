@@ -38,14 +38,11 @@ class Uploader:
                             self.insertFile()
 
 
-
-
-
     def getMainFolder(self):
         file_list = self.drive.ListFile({'q': "title = 'GT-SHPE Word Dev' and trashed=false"}).GetList()
-        #this is a bit hardcoded, depends on the files in your google drive
         file = file_list[2]
-        return file['id']
+        return "1b5sxUu2RZQCfs_RdBAfofcFjxX0x3dyn"
+        # return file['id']
 
 
     def getIdMajor(self):
@@ -64,10 +61,8 @@ class Uploader:
         # gets the id from the GT-SHPE folder
         self.idSHPE_Folder = self.getMainFolder()
         if self.course != 'null':
-
             if self.course.split()[0] in self.todo:
                 classes = self.todo[self.course.split()[0]]
-
 
                 # create a folder with the course if it doesn't exist, otherwise we use the existing one
                 if self.course in classes:
@@ -98,7 +93,6 @@ class Uploader:
 
 
     def uploadDoc(self, id):
-        print(self.document)
         idDoc = self.document
 
         file = self.drive.CreateFile({'id': idDoc})
