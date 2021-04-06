@@ -20,6 +20,11 @@
     }
   },
   "CS": {
+    "CS 1371": {
+      "id": "1Mw80DZg-jDdP1Zdxg0NBYa45dzVsnJj1",
+      "Other": "1pH7TYpJhncz_R2odPTMFDyTungNVeU5p",
+      "Quizzes and Midterms": "13Emyz_LJ6KgmC7gC_rUDCylMqUfTqhjo"
+    },
     "CS 1332": {
       "id": "1ueVuEjtnZqb0Z58shNsOa7UsDYPABTjz",
       "Homework and Notes": "1osHXTovcqwPKmtgVsTd0TVMBINrKpMVO",
@@ -46,6 +51,21 @@
     }
   },
   "ECE": {
+    "ECE 2035": {
+      "id": "1dw_cBRlbgP65We-6-xCYLBUkMCygtfGS",
+      "Other": "1Es6442tEx2tZx-mFYj29K2rzE1nziTZo",
+      "Quizzes and Midterms": "1U5SpQJv4EPRpw3TLDvlzN8D-dj9aTRr4"
+    },
+    "ECE 3555": {
+      "id": "1UPEgqrTwEwgaawpXTeeT0o_GQMrnfBBq",
+      "Other": "1iGvGUvVwqKTbiZMekSk87q580suAOllm",
+      "Quizzes and Midterms": "1jnF5seVpXewLe58eP6gtg2JtUEhoRWeX"
+    },
+    "ECE 2036": {
+      "id": "1ZYat3fSL-1N64QSgTMFPwKGWT2CiyY7T",
+      "Other": "1dWCoeXsvPZtbyUNxDifa0F58B4jwbVG6",
+      "Quizzes and Midterms": "1H0RqngeJTsMUQ-IZlr6fHfeYTlO8aKUg"
+    },
     "ECE 3040": {
       "id": "1yAQ93IeTjRdK8-9Tk3W2GiNSh4bSLI9H",
       "Other": "19vFLFRqTDK5m6_D117jJl_-ygOl2FsNT",
@@ -174,6 +194,26 @@
     }
   },
   "AE": {
+    "AE 1350": {
+      "id": "1ZgquZl_LsrKIClbyB8OQle7hfCN62kui",
+      "Other": "1QlmZC2IEU4Y6xi9slc_e_fr5_rVsjk52",
+      "Quizzes and Midterms": "1N_PqmMDNXaiedgu-QYObsUaxF297lLNb"
+    },
+    "AE 2020": {
+      "id": "1usG4IYRwxmv7cd-xCsC_1xwbAffhHJQ5",
+      "Other": "1fij4cd0NL8ND3rJrf7zqGeMeYU9uOw0P",
+      "Quizzes and Midterms": "1X5ld7ltKrmIYjJfJ34NOAASYudKhyr-k"
+    },
+    "AE 2010": {
+      "id": "1844g8KTwtMumkBgSfHMGtbr7ugk4rhfG",
+      "Other": "1DhPQ2hRr14YbHiZdSSRYRYQ6cwGGRZJC",
+      "Quizzes and Midterms": "1lD2jSbLIcaNq4W6ueFQpH0eHtWWSP51N"
+    },
+    "AE 1601": {
+      "id": "1bJ99iXuRyCQd5116XYhZinIcnkXJsPUM",
+      "Other": "1Lk-fRMljh-vWbmn50KOeebIIKGfVQ2H8",
+      "Quizzes and Midterms": "1rskj3EG7W1apgUZdgGIlSS70NxFn3RP9"
+    },
     "AE 3015": {
       "id": "16t57D88-UqdFqkXOkGLRAXL07i8ZfpSS",
       "Homework and Notes": "1wvhq3UUP5WkPjQV-ye0HFPh3W5leepED",
