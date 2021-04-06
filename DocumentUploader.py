@@ -33,14 +33,13 @@ class Uploader:
                     for i in list:
                         self.document = i[0]
                         self.prof = i[1]
-                        # as of now, we only upload this specific file that we have acces to
-                        if self.document == "1ndNpGGgHrUXtoREvOojYBUDcc1WrryP6":
-                            self.insertFile()
+                        # as of now, we only upload this specific file that we have acces t
+
+                        self.insertFile()
 
 
     def getMainFolder(self):
         file_list = self.drive.ListFile({'q': "title = 'GT-SHPE Word Dev' and trashed=false"}).GetList()
-        file = file_list[2]
         return "1b5sxUu2RZQCfs_RdBAfofcFjxX0x3dyn"
         # return file['id']
 
@@ -77,7 +76,9 @@ class Uploader:
                 if self.docType in info:
                     self.uploadDoc(info[self.docType])
                 else:
-                    self.uploadDoc("id: " + info['Other'])
+                    if info['Other'] == "1e9HWV0TBue1OeUgL5poCytUIgnt1H0ha":
+                        print(info)
+                    self.uploadDoc(info['Other'])
 
             else:
                 refresh_json = True
@@ -93,22 +94,27 @@ class Uploader:
 
 
     def uploadDoc(self, id):
-        idDoc = self.document
+        try:
+            idDoc = self.document
 
-        file = self.drive.CreateFile({'id': idDoc})
-        string = file['title']
+            file = self.drive.CreateFile({'id': idDoc})
+            string = file['title']
+            # get downloads the file into the computer
+            file.GetContentFile(string)
 
-        # get downloads the file into the computer
-        file.GetContentFile(string)
+            # uploads the file into the drive
+            file = self.drive.CreateFile({'title': string,
+                                          'parents': [{'kind': 'drive#fileLink', 'id': id}]})
+            file.SetContentFile(string)
+            file.Upload()
 
-        # uploads the file into the drive
-        file = self.drive.CreateFile({'title': string,
-                                 'parents': [{'kind': 'drive#fileLink', 'id': id}]})
-        file.SetContentFile(string)
-        file.Upload()
+            # deletes the file from computer
+            os.remove(string)
+        except:
+            return
 
-        # deletes the file from computer
-        os.remove(string)
+
+
 
 
     def createCourseFolder(self):
