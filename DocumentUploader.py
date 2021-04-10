@@ -76,8 +76,6 @@ class Uploader:
                 if self.docType in info:
                     self.uploadDoc(info[self.docType])
                 else:
-                    if info['Other'] == "1e9HWV0TBue1OeUgL5poCytUIgnt1H0ha":
-                        print(info)
                     self.uploadDoc(info['Other'])
 
             else:
@@ -112,9 +110,6 @@ class Uploader:
             os.remove(string)
         except:
             return
-
-
-
 
 
     def createCourseFolder(self):
