@@ -1,253 +1,2182 @@
 {
-  "EAS": {
-    "EAS 1600": {
-      "id": "1xchzmfFpVUy9RYpqTD4WrRuXvW2qc_8W",
-      "Homework and Notes": "1GlY2Di2eL7muAZ5tpqND7rtkA148OIh0",
-      "Other": "1fuWELcpJCnCFhdSckJ0k0_T4j6dbnaXU",
-      "Quizzes and Midterms": "15ByqHYMHouTuj1lDo1ePfQZ7aZuqcHSB"
-    },
-    "EAS 1601": {
-      "id": "1oenlGhu16em73x8FB8O_52tdo_7kOlD0",
-      "Homework and Notes": "1_r3Ls6p9dfU5vkvy12If3HARp9gPu3Ke",
-      "Other": "1ZfZcLs9TaU25502cgdvNFesFjZ2dDeyl",
-      "Quizzes and Midterms": "1eNlVBOzMdHMfVU1rvRk4Dn39HYrkT0WI"
-    },
-    "EAS 2600": {
-      "id": "1ttQJCcSA9fXvhl8P5QF5X1Ou5cq-di5o",
-      "Homework and Notes": "1BGWyAmFo202WbwXT_knTNpY8a7s0qIRO",
-      "Other": "1uvUzV9d8_ZrGu_UevR1RXdbvvQzEmBK7",
-      "Quizzes and Midterms": "1RbyuZAJ9ziVATwEaB9NAA6Pl75_AexRt"
+  "SOC": {
+    "SOC 1101": {
+      "id": "1APAC3nQT3JfPs0iKsKgP5rGnnPzSS6oC",
+      "Homework and Notes": "1JKrXmo8bjvH5UB-6xyzN-qyvcQ5A4eRl",
+      "Other": "1Nf6OA2bPJf7l4JNLtbXuGWimrsMKtHiu",
+      "Quizzes and Midterms": "1NNNMb3xZhm3O6J4i9zSYjd-h6Sk2pW71"
     }
   },
-  "CS": {
-    "CS 1371": {
-      "id": "1Mw80DZg-jDdP1Zdxg0NBYa45dzVsnJj1",
-      "Other": "1pH7TYpJhncz_R2odPTMFDyTungNVeU5p",
-      "Quizzes and Midterms": "13Emyz_LJ6KgmC7gC_rUDCylMqUfTqhjo"
+  "MGT": {
+    "MGT 4367": {
+      "id": "10b2T01UGcrIm39-UNEM7xIbWQhI0ehS2",
+      "Homework and Notes": "1HS2l5Um2l2dreRJOqLg_TkCQg_6rvnYj",
+      "Other": "1JyZxiay8ALWB_H3ArgVg6r80gTRt7IMV",
+      "Quizzes and Midterms": "1G2JinhReJSbQHuZVNtpMdAC1YFZwOXXC"
     },
-    "CS 1332": {
-      "id": "1ueVuEjtnZqb0Z58shNsOa7UsDYPABTjz",
-      "Homework and Notes": "1osHXTovcqwPKmtgVsTd0TVMBINrKpMVO",
-      "Other": "1kIesyT9J8aff4a8PlxbvBSflgKFAXq-F",
-      "Quizzes and Midterms": "1qwsx3EyUhbS9s1NxFQCULaZk9DkGdkjR"
+    "MGT 4450": {
+      "id": "1G0MEAX-qIyROGsBQt67ubdvjJ_UkJrDv",
+      "Homework and Notes": "1y1FHNp6F0ufUK5xybF1URkj-S1iT4p4H",
+      "Other": "1GMcc8g3bbWSrK0Tim5Fkm97DkacTnw54",
+      "Quizzes and Midterms": "13nk7xWR5ZVujeUOGq62IG9fjB5UtL7Al"
     },
-    "CS 2050": {
-      "id": "1g10KTREb364Ag6vOQ7wNjg7sYSAqAV6r",
-      "Homework and Notes": "1J38AIoU8f9zSFGr5kFUc8JzIU3ZpcOY8",
-      "Other": "1rPM_OFLmbr42gOby_joS7zG2lbo7X2Dw",
-      "Quizzes and Midterms": "1UY4WL3eLQhrfTr2_iXurLt97l6Be6jiV"
+    "MGT 2250": {
+      "id": "16pI2qphGArM9VRC-bRtxGh4gqvhydUMF",
+      "Homework and Notes": "1UBCa5hoQyaYzGtOHZVbqodcmtl7qmDxm",
+      "Other": "1bYo1nAsuZENQMHQfc_UCqxnsbXBmTYW0",
+      "Quizzes and Midterms": "1AK2dc2p44EICOgNlw0XBmenDKZ-wR22g"
     },
-    "CS 3630": {
-      "id": "1LHUtnpcKfEc5x95DMj690O3No7BaW5lv",
-      "Homework and Notes": "1MiZUGhZ14gvAUWv4urOMP7EsqScg_806",
-      "Other": "1IRFyiPTMcLivvc6GLS9bY01tagBG6_ic",
-      "Quizzes and Midterms": "1zSgRi8dnPl2S5yjMZn0Do6p4_JhdjR_A"
+    "MGT 3102": {
+      "id": "10H3nHzXNcq-c84yOgRb41mexb8oKiByj",
+      "Homework and Notes": "1J2Q6PRBtvqdKh6xmxLc0MmHmxNZEVvWQ",
+      "Other": "12JaT6cAWTvfOqXYeTW_FB9PtUf5XgNo2",
+      "Quizzes and Midterms": "15Bx3gMrRih7D7DMFJz4V6WKBy61Uw3W3"
     },
-    "CS 1315": {
-      "id": "1BbfrFlKTql5EGd0Ut-yZRZ5CIZrJ8vbM",
-      "Homework and Notes": "1qiEmlwLy19uMJAMivxFiTBt_rp5UVDLN",
-      "Other": "1LkERp-_MMzHUaeXDHo4-S8rSEK9C5IGg",
-      "Quizzes and Midterms": "16xJxiJ1UVWr3X9Lw-_cbtX6d9YzCHZNL"
+    "MGT 3101": {
+      "id": "13hMpmT_a4CoYA89oUOjs8ZAS70aMNbj8",
+      "Homework and Notes": "1nCq264rKPSfrXWgJXnWMc8S4X8nHndAj",
+      "Other": "1dvjJuriepfeamxp5OZxEfDweZnwUnVZy",
+      "Quizzes and Midterms": "1a-yOAKrnbq5FFeVGc9ew9uY3lYQOHZQX"
+    },
+    "MGT 3300": {
+      "id": "151tR1LI2WdyCvI4X4eXPQgjK9PZJcwU9",
+      "Homework and Notes": "18QUozfQ4pqXxvKXiddE6ipxYpTbu3ebE",
+      "Other": "1DI_dyK_7Ntr1u0EdsgBbbzGE8moqZYtq",
+      "Quizzes and Midterms": "1DuVZACo5xFREhdCAu9zAlKTUZIfTP3Xm"
+    },
+    "Mgt 3078 mahani exam 1.pdf": {
+      "id": "1Qbdat75EAEP6hbXYjv7u0mLhv0CgnRg1"
+    },
+    "Mgt 3078 mahani exam 2.pdf": {
+      "id": "1sHt55CS6AvcAe9-q_ZQ3n1uhhG-iRZie"
+    },
+    "Mgt 3078 mahani exam 3.pdf": {
+      "id": "1VVrBncXTiZrUwJRFMEvOtskdwkrioXY0"
+    },
+    "Fall2018MGT3000Exam1.pdf": {
+      "id": "1tUUprzdis0bz0nsaHF3L-waMa0XqbY8T"
+    },
+    "HW1 Financial Accounting.docx": {
+      "id": "1tcf9O_V8NSachksiksVyPsb8QYJaMNMP"
+    }
+  },
+  "POL": {
+    "POL 1101 (Government of the United States)": {
+      "id": "0B5c1_0cbw7-UZ2VmbGNjWGptcVk",
+      "Homework and Notes": "11yEwk_2h6VATwVk0H_usRTHRsvV5Qxm7",
+      "Other": "1WvUyMxvI2R2e39P6WWGPSFsmIZcy-0Jv",
+      "Quizzes and Midterms": "1KABIv-o60W6JM6LlvT46gepkHOUrMuAk"
+    }
+  },
+  "NRE": {
+    "NRE 3316": {
+      "id": "0B5c1_0cbw7-UbGMzeWFhY3NqYU0",
+      "Homework and Notes": "1i8RVQRVzj-yUklPNcVIWuTDCnFRHvF69",
+      "Other": "1ua0psWJOcFmvNxFziN7nCslUC5lBkseR",
+      "Quizzes and Midterms": "1zqra1DHDcu0f9REo3oKQThIZQjq6X-_z"
+    },
+    "Intro to Nuclear Engineering.pdf": {
+      "id": "0B5c1_0cbw7-UVXdHMFhJWFdVMFE"
+    },
+    "NRE 3112": {
+      "id": "0B5c1_0cbw7-UY1lLNXlXUTJTNDA",
+      "Homework and Notes": "1spKCPtC97s25iZsb50LWO6wkTrEiSlyq",
+      "Other": "1ohtFM7sx9q_eGymYA_3fkKF-tzlwYRxN",
+      "Quizzes and Midterms": "1PyK5OL7z9yNbgx0QCtraS14egwcj_Hgw"
+    }
+  },
+  "SPAN": {
+    "SPAN 3102": {
+      "id": "0B5c1_0cbw7-UZ1BBRVhPcU5VOE0",
+      "Other": "1vBvb6ITEmGq0Pj_dB0ZTkkmE9AtO0IWD",
+      "Quizzes and Midterms": "11QaaZ_-UdRWIhZMob8Qzm2tmYG_l4IIn",
+      "Homework and Notes": "0B5c1_0cbw7-UZmF1YU9mS1Zta28"
+    },
+    "SPAN 3101": {
+      "id": "0B5c1_0cbw7-UWFdLM3JfMVh0TG8",
+      "Other": "1mm1D1nlQHJE4PiumW-EOsMvugys9v-Ly",
+      "Quizzes and Midterms": "1rst68xGURGBvDjwtWPEEMl_x54tWxCSY",
+      "Homework and Notes": "0B5c1_0cbw7-URmRJYXRHWXNYSW8"
+    },
+    "SPAN 2001": {
+      "id": "0B5c1_0cbw7-UYkdMRk1UbXFvQzQ",
+      "Other": "1tLJPL_b7P0DMZ2MirWFJNhA2hP50hICg",
+      "Quizzes and Midterms": "1MoRrxcMWR6RKuX2KSOOVGKXtwJ-4kpcR",
+      "Homework and Notes": "0B5c1_0cbw7-UbHZvU0tjT0J4d0E"
+    },
+    "SPAN 1102": {
+      "id": "0B5c1_0cbw7-UcEhTTGFrd0pmSVU",
+      "Homework and Notes": "12OkPkrfeYVx5Qg5fATC3Bm7ciDjv9FCJ",
+      "Other": "1-0dLQCkjndeo0M2eek4epSLZC0Yy1YWd",
+      "Quizzes and Midterms": "1uk4FXliuVUNKxbeTRMbY9Wnt1a2C2X0x"
+    },
+    "SPAN 1101": {
+      "id": "0B5c1_0cbw7-UUjJETC1FaEJPOWM",
+      "Homework and Notes": "1VJD7xpvtwaEcFu3iwUymoAOmSs9VHI3W",
+      "Other": "1aJZcpKVzgQ5EYySo71N9VsY6rbdTf69v",
+      "Quizzes and Midterms": "1Cb7f1zhK4Pnq9OSycmM5Dqpf7PuNMxag"
+    }
+  },
+  "PSYC": {
+    "Psychology from inquirty to understanding.pdf": {
+      "id": "0B5c1_0cbw7-UYVdFNzlISV92eU0"
+    },
+    "Psychology by Hockenbury.pdf": {
+      "id": "0B5c1_0cbw7-URGhMU1RyY25fbzg"
+    },
+    "Psychological_Science.pdf": {
+      "id": "0B5c1_0cbw7-URUVxNlJnZXIwRTQ"
+    },
+    "PSYC 3020": {
+      "id": "0B5c1_0cbw7-UcGZZcFFfTzliNXM",
+      "Homework and Notes": "16y-SjHvNa2Re-pGM5CfGT53nPvM5hhg2",
+      "Other": "118Od0jN650_v5_wtpfjqI1rot8hH2KNT",
+      "Quizzes and Midterms": "1TLIaOUJcHCibPvmTulLddy7Q6rl4h_Pf"
+    },
+    "PSYC 2240": {
+      "id": "0B5c1_0cbw7-UYU5kMVBmaWtXems",
+      "Other": "11ECSFDwprRqRzE68umsEfrVz7FKeE421",
+      "Quizzes and Midterms": "1E1NG-ykvdGRCMJqom9dprMNx8yUeU9ec",
+      "Homework and Notes": "0B5c1_0cbw7-UM0pNbF9RRGV0TEk"
+    },
+    "PSYC 2220": {
+      "id": "0B5c1_0cbw7-UZThkZWI0WHFhZUE",
+      "Other": "1CHwYqW5tV0GEyboS3gXP6W-umpaWmI0H",
+      "Quizzes and Midterms": "1_AOBZCHCzpQeCNnuhyaWXZSkQP5FXNtZ",
+      "Homework and Notes": "0B5c1_0cbw7-ULWF3T0hGYkMtNG8"
+    },
+    "PSYC 2015": {
+      "id": "0B5c1_0cbw7-UTFEzSWR5dk9oZXM",
+      "Homework and Notes": "1ldyRucSLq7KZrdm-bVIa77FJYUw2RDfZ",
+      "Other": "1u9MJ0aszKSrHjxhmDNSBr6Xa1dS6T6kG",
+      "Quizzes and Midterms": "1M50YRc7IJqZtniff_6ytCMvy84LlYadG"
+    },
+    "PSYC 1101": {
+      "id": "0B5c1_0cbw7-UWmluV194LWo5UjA",
+      "Homework and Notes": "1WCD9oUz99-nqoqjS2xipJkkbKCZcjoD5",
+      "Other": "1yHym83XoQ_NbYVgU63HaZ-P-RWMK_77R",
+      "Quizzes and Midterms": "1gRInHpo8hXSH5nQ80eYvOY5JWwFhePqP"
+    }
+  },
+  "PHYS": {
+    "PHYS 2212": {
+      "id": "0B5c1_0cbw7-UWk5WOFNXYmt1WHc",
+      "Homework and Notes": "1p4mqaF-o8hiu9xMKXPIjTRaCwu8Cna0W",
+      "Other": "1ggCJ-Hqyu8-cyAvGAuH04OmjpiYg10go",
+      "Quizzes and Midterms": "1o7W78_5qwkaE9a6WmL4YJeOomGqUqScO"
+    },
+    "3020": {
+      "id": "1PSnIwi4XNUOtK8R7RPkxlOLzSNGrm1Yk",
+      "Homework and Notes": "1pNcAyg5a9uAVrvMl11YqP65cFOZlaBM8",
+      "Other": "1SCvx7i_QqvWX7VFHK-wqoMc0x8TTGrFk",
+      "Quizzes and Midterms": "10HxEd4A8PRQX7BSELG8aY8wQhHR_RwLk"
+    },
+    "Paul A. Tipler, Gene Mosca Physics for Scientists and Engineers with Modern Physics, sixth Edition    .pdf": {
+      "id": "0B5c1_0cbw7-UbmJSSHBjSDFYUG8"
+    },
+    "Stephen T. Thornton, Andrew Rex Modern Physics for Scientists and Engineers  2012 (1).pdf": {
+      "id": "0B5c1_0cbw7-UMWxUZ0ppWjJtRFE"
+    },
+    "1207-Matter and Interactions 3rd - Chabay.pdf": {
+      "id": "0B5c1_0cbw7-UekpsdVhCcXRNMG8"
+    },
+    "PHYS 2021": {
+      "id": "0B5c1_0cbw7-UQlJWOHY3Y0kxUVk",
+      "Homework and Notes": "11-XplnTAqwX5jF9-cQ6oc26gpwxNMrVv",
+      "Other": "1l2TFzT5DOOh8H3Z0naWXHI4VxkdIR544",
+      "Quizzes and Midterms": "1mR4AezfkgdfMjuRmsv2gpfqquLSgBm4E"
+    },
+    "[Stephen_T._Thornton,_Andrew_Rex]_Modern_Physics_f(BookFi.org).pdf": {
+      "id": "0B5c1_0cbw7-UQnhqb1ktTlQtTEU"
+    },
+    "PHYS 2213": {
+      "id": "0B5c1_0cbw7-UWmNQdFd5S0trY3M",
+      "Other": "1c66Oz7_0NSGIAL5fNkuQlSoWuFG78au3",
+      "Quizzes and Midterms": "1VbfOLHqKUSFSt-QNgAaBvEIdCCHJCXMF",
+      "Homework and Notes": "0B5c1_0cbw7-Ua3J0YnNYbkNKR2s"
+    },
+    "PHYS 2211": {
+      "id": "0B5c1_0cbw7-UUl9NbU16NXo4NzA",
+      "Other": "1SvIAYQ9ctCMIWN2myIcvTL8mpL57Tqyg",
+      "Quizzes and Midterms": "1qBSsG3aPXBVlD--LWM3y9PhcdbeLSpVh",
+      "Homework and Notes": "0B5c1_0cbw7-URzlGWm5FQ0dnYWs"
+    }
+  },
+  "PHIL": {
+    "PHIL 3127": {
+      "id": "0B5c1_0cbw7-UZlctd20wdHJKVHc",
+      "Homework and Notes": "1Zf5vuZaV7TT-fUbjyg8kz0r-8bvD_Aci",
+      "Other": "1c_LSFgRYHaQmcyVzoFskYdE66P1DNAqX",
+      "Quizzes and Midterms": "1o-bpK-0hXpVAVeNlnvObwaPwwJeg1B3-"
+    }
+  },
+  "MUSI": {
+    "MUSI 3610": {
+      "id": "0B5c1_0cbw7-UdFI1Qnp2U3B6NnM",
+      "Other": "118YsP-e990MFR04C3gyfBaugTmtI5IHy",
+      "Quizzes and Midterms": "1LKidz6mzOWAHJF7ueebDUHlluutLR864",
+      "Homework and Notes": "0B5c1_0cbw7-UNnI0dWFPNUdIQnM"
+    }
+  },
+  "ME": {
+    "ME 6407": {
+      "id": "0B5c1_0cbw7-Ud29hOU9QNGxEd2c",
+      "Other": "1SVncEnX3nVrkUxsnQyPiT3F-VPX96UjT",
+      "Quizzes and Midterms": "1wEbn7t2Mrzv2o5TVr3J0g2a4OemVqNju",
+      "Homework and Notes": "0B5c1_0cbw7-UZzVXT0pBWUdBREk"
+    },
+    "ME 3210": {
+      "id": "0B5c1_0cbw7-UMWRFREpob0hLR0k",
+      "Other": "1zW__-dqpLlQV6cuSrqFk3o37MLo8TKA9",
+      "Quizzes and Midterms": "1L33v0TPY0V1MnOVtl_QVk6gMrMKsEZk6",
+      "Homework and Notes": "0B5c1_0cbw7-UWmkzb1hiRVp4dG8"
+    },
+    "Computing Techniques Solutions.pdf": {
+      "id": "0B5c1_0cbw7-UOEljQ25scEdRT3c"
+    },
+    "Mechanics of Materials 8th Edition, R.C. Hibbeler.pdf": {
+      "id": "0B5c1_0cbw7-Ual9LZGhuMy11WkU"
+    },
+    "ME 4763": {
+      "id": "0B5c1_0cbw7-UQnpmSHFQMGxmcGM",
+      "Homework and Notes": "1IrIzKLK3uqF7c9J4WmHLtXLjRxe9T47f",
+      "Other": "1kAGwYRLnqyY2XE-aJ-D9_61-deU0S9-j",
+      "Quizzes and Midterms": "1TZHPMdApjbdZwizWl-SqNmED98s8LBVg"
+    },
+    "ME 3743": {
+      "id": "0B5c1_0cbw7-Ua05IdV9CNlM3MGc",
+      "Homework and Notes": "1BBwOfiqctArlYGsLM6WaOruuH2NN7VJF",
+      "Other": "1yYjZh98xuEdJ_PWLcq0IVc89BlqpgZWK",
+      "Quizzes and Midterms": "1N5p4wWbS2ineYmz2olJpZQU25dPmu8sF"
+    },
+    "ME 3720": {
+      "id": "0B5c1_0cbw7-UMFRvWkFRYmNxb2s",
+      "Homework and Notes": "1NWEhE7D6tPlIiq9Pn8iSxnPgZ3f5E9XJ",
+      "Other": "1MNhtgfHmqNnPbFGXQJFa_1ojg75KUYV2",
+      "Quizzes and Midterms": "1unlaDio5RqjO5-Cb48omS2wgP3gJvLlE"
+    },
+    "ME 3345": {
+      "id": "0B5c1_0cbw7-UeldDcXA0UW1Ra0U",
+      "Other": "1P96vfXB9_1yL9tfBd5WhMiTHQ6iyjk2e",
+      "Quizzes and Midterms": "1kC0f7dkWfV4j5Ey1Lzq2H7WhQNbVQIgp",
+      "Homework and Notes": "0B5c1_0cbw7-UUUtLWG5UdW1PdG8"
+    },
+    "ME 3340": {
+      "id": "0B5c1_0cbw7-UTnpFRXIwMlN3Z1k",
+      "Other": "1IX_2M9s9SUxVDvF94njQ0FHEeSs4BJyc",
+      "Quizzes and Midterms": "1gkb49nEegw5X0H950pyzCb3w-nVYubh0",
+      "Homework and Notes": "0B5c1_0cbw7-UR2hIc0FlOE1PMlE"
+    },
+    "ME 3322": {
+      "id": "0B5c1_0cbw7-UMFo2ZzdINXlITDQ",
+      "Other": "1TEeiCly7zX1rWs_GTkH4pIVjN3gsBkLD",
+      "Quizzes and Midterms": "1DW5eZYgokqxt96z0WQefkWATmkzXtDgS",
+      "Homework and Notes": "0B5c1_0cbw7-UUXFXOXgwZmFoaW8"
+    },
+    "ME 3180": {
+      "id": "0B5c1_0cbw7-UOThWbHY5MGNrb1E",
+      "Homework and Notes": "1ZrjSmnvzjE9vh5HePvS0hvMCNbfYGxfv",
+      "Other": "1Y7o5esyQuFf07biXfqNNpYCdnrr8QfHP",
+      "Quizzes and Midterms": "1HSNEGJ157Z1UOxIgYsa4ZMsH8SYLxRxI"
+    },
+    "ME 3057": {
+      "id": "0B5c1_0cbw7-UWkxJcDk5bjFVZ0U",
+      "Other": "1zIYUOaRprT5TzxcuLix4wJk46-dn0aLW",
+      "Quizzes and Midterms": "1LPaaZmxQINrnIYQNm-uuaFQZweZM2Tzf",
+      "Homework and Notes": "0B5c1_0cbw7-UTG1vYWRrVk5HTlk"
+    },
+    "ME 3017": {
+      "id": "0B5c1_0cbw7-UR3hHcUN2OWlXaVk",
+      "Homework and Notes": "17xdEdqaAVexB5HEb-QPYFbe-67YO1_-2",
+      "Other": "1ZB_YyHZ-RoLSxWXpognA48AElnm_-ict",
+      "Quizzes and Midterms": "1qCS-2A-9kfEY0AG3eyNRbgt_10LvI4ZL"
+    },
+    "ME 2202": {
+      "id": "0B5c1_0cbw7-UcFF0b3RxR2c5Yk0",
+      "Homework and Notes": "1vbJXYVa1eP2gST7IpfneTfuiBf9zOOKw",
+      "Other": "1ZSWB5iVGJrUoIq68ErMezB_R5xmE3J7i",
+      "Quizzes and Midterms": "1XAEufxh2B8N4UGELplQlcLaZZyGMhAWq"
+    },
+    "ME 2110": {
+      "id": "0B5c1_0cbw7-Ud2tabG05a1FqWGM",
+      "Homework and Notes": "1nsWZBZJGZGJXWAMp-JcLOANQkSXxwHjV",
+      "Other": "1xz54IQHYxQaR_Qr55gzyGuVridbmGZfy",
+      "Quizzes and Midterms": "1hx1CwFSDeAZHylw6yrG-xZuUdfouda5o"
+    },
+    "ME 2016": {
+      "id": "0B5c1_0cbw7-URmFRMjJGTnBGcGM",
+      "Homework and Notes": "1HyKuT0dL6HNkQPB1RlWUV4uDFG9IZX5V",
+      "Other": "1UHodnJwKNgH9oLwNAF9kwadyZKi-lf66",
+      "Quizzes and Midterms": "1Q9ZJVsGdV0UpoKm_AYwqI18i05_De6S3"
+    },
+    "ME 1770": {
+      "id": "0B5c1_0cbw7-UNUwwczZoUVlpdXc",
+      "Homework and Notes": "1yX_WlOkLIEVWRPbVbyzwh5HSGXYOqhkC",
+      "Other": "15O2QmzXsB28zLvqg1nM_7odYPGNJJpvO",
+      "Quizzes and Midterms": "1gsyYIEJjEWlvmOm-Qr8zbE5bjmYq_Zk5"
+    }
+  },
+  "MATH": {
+    "MATH 4305": {
+      "id": "1nwySRb8aSsO9Wot7Y8ggb8ZjqzYr7iep",
+      "Homework and Notes": "1vXZyRxWtlzTIO_Ub60z_DIpibv5S39Fs",
+      "Other": "1726IBB4QGOeWQK792MEvhOAaNTnuqYHK",
+      "Quizzes and Midterms": "1wsNRgWqJioMtj7zytWMGBSzn3SfCzInE"
+    },
+    "MATH 1501 (Old Calc I)": {
+      "id": "0B5c1_0cbw7-UMzdBRGRnTGpGaTA",
+      "Homework and Notes": "1847jJXtUnSgnWGNDhu8Kk5l5AoG2nIgs",
+      "Other": "1bCZYiW2_t3n56Ki08l2lY0Gnm_ArIja6",
+      "Quizzes and Midterms": "1itm3OaCuPUwpVNVu-JVhGSGqsDwHdljD"
+    },
+    "MATH 3770": {
+      "id": "0B5c1_0cbw7-UdlFUSHd5UTlBcHc",
+      "Other": "1Bwj_btV6iJyfxebF8M5LCW94y_eWym8y",
+      "Quizzes and Midterms": "1nMxHg8sQTZdu1Bi8ifuWRJ5eNOPEqvoQ",
+      "Homework and Notes": "0B5c1_0cbw7-UUlRhNTJmWFN5OEE"
+    },
+    "MATH 3012": {
+      "id": "0B5c1_0cbw7-UQmc4WjY3Mk1wMlU",
+      "Homework and Notes": "19ybj8C8JZGbweC8UBUEf6zGcx9-8feut",
+      "Other": "1ucjmFjFtdQPZuo-GXVq-484OwH-bwKk5",
+      "Quizzes and Midterms": "1Vh_OMgR3n_2V3HECn1lRcAaVwT5IYXnT"
+    },
+    "MATH 2603": {
+      "id": "0B5c1_0cbw7-UblByN2lMZV9zcXM",
+      "Homework and Notes": "1l2BAtSolkrNkIWMyGBb5Kdkn4THdBA1K",
+      "Other": "1an9xe87WOa3HKMFUqbURy-j1D9M84GXD",
+      "Quizzes and Midterms": "164nMJPDRw_HOTZNOnxqJ5WFK83RD-Qas"
+    },
+    "MATH 2602": {
+      "id": "0B5c1_0cbw7-UcjloTklaMTlBMVk",
+      "Homework and Notes": "1FKcmEjc-IhCMId7eniSEpc2AXWDzyi2_",
+      "Other": "1_qX56W2oopPW1mcsyjMRN9HXTpjAXLP_",
+      "Quizzes and Midterms": "103t1E6v9Ey2B_lLSRixXiUxebP9u6K08"
+    },
+    "MATH 2552": {
+      "id": "0B5c1_0cbw7-USl9nWmVaR1Bmemc",
+      "Homework and Notes": "1E3UEXdE6rRS30lCg7J76QSijz_UImejC",
+      "Other": "1x9y_uI8hXFNqO6ZVBRMfGGfWsmzRrYVa",
+      "Quizzes and Midterms": "1bGgrFqZ_xMeCV7xZaMmIo72KIDOYUPQW"
+    },
+    "MATH 1712": {
+      "id": "0B5c1_0cbw7-UazlFZVl2UUh5U28",
+      "Homework and Notes": "1X3KBbn9-lR1hasFZOhzLdyABUj18c8xx",
+      "Other": "1ASqSOqteAVVaoKylG8A1XyCKZfbzZQJn",
+      "Quizzes and Midterms": "1q1fzrabKNDVqp5SBAWAm0xB7k0fAJWEF"
+    },
+    "MATH 1502 (Old Calc II)": {
+      "id": "0B5c1_0cbw7-URE9rMkJEb1ZsYmM",
+      "Homework and Notes": "10cai_-AoPTNSmvSOeQ-7HZp6GSFhdNxq",
+      "Other": "1s0iQwHY3Hb_8xsZHjc-9OXHAwEOsBc0j",
+      "Quizzes and Midterms": "176J3vI9nFJHscbpr04L0JNvLrrjAPYdG"
+    },
+    "MATH 1711": {
+      "id": "0B5c1_0cbw7-URVBnZzNXNGZIQjg",
+      "Homework and Notes": "1HIT9Oaw4cVGYSBMMN9MgGfbjcEZKsSj7",
+      "Other": "1IEFTM1eN7TyXdIGxWhfqAX0Xacbmq6BQ",
+      "Quizzes and Midterms": "1PmqrHrG0_zlp08ryIZ3af5VzHsY-ebr1"
+    },
+    "MATH 1553": {
+      "id": "0B5c1_0cbw7-UTnJldUQyczRJUzg",
+      "Homework and Notes": "1bqazXQszMn7lpY9mKBsAfdlBimJcreWU",
+      "Other": "1HqDwHO0GFuLw4ucA-M4pbWRaQD6JUenc",
+      "Quizzes and Midterms": "1sQNLBTjBsyNAdLhbzbnymkwElI7qn2-P"
+    },
+    "MATH 1552": {
+      "id": "0B5c1_0cbw7-UZTNWd2otcHRMUkE",
+      "Homework and Notes": "1AHvOvfa4BCosr5fe6PCKKPG99Qynwcp2",
+      "Other": "108RXj91p__k9kkmbsxRtJ5t3PgFAo1-e",
+      "Quizzes and Midterms": "1tSAswFbv1P0EZuxkrQpLGYf1ztzWSaIq"
+    },
+    "MATH 1551": {
+      "id": "0B5c1_0cbw7-UNWJCaUlkaURpaWc",
+      "Homework and Notes": "14KemQhq5gRE3LFJRhRZG2ZYwYURS0qV4",
+      "Other": "1UngeGKQY7jhlrjTMMTfyCQhkdNEM2H6M",
+      "Quizzes and Midterms": "1fA5_fa4-pYsIX2aiV7lj1vcgTennGRt0"
+    },
+    "MATH 1522": {
+      "id": "0B5c1_0cbw7-UTjVZeUxOUFR5cFk",
+      "Homework and Notes": "11PoViK_m8QaHbKfy0ktpHqIpKZZ_PEpb",
+      "Other": "1nHup-EEotMDnvE5xqPQcjcE9srQZbmAY",
+      "Quizzes and Midterms": "1UvF0quJXN-wVorg0TmqobjghdSz-cOW7"
+    },
+    "MATH 1512": {
+      "id": "0B5c1_0cbw7-UZEstSXoxT2hrTEk",
+      "Homework and Notes": "1yyUXO3b5d_ClSH405tK2QVFVcuC7l5ds",
+      "Other": "1UxNzQ1Xs47O0G8MV8Bt0m0tq1_4IBleF",
+      "Quizzes and Midterms": "1-ATrNO8tFdTRQUXafJ6L533DryLgumCh"
+    },
+    "MATH 1554": {
+      "id": "0B5c1_0cbw7-UeVVWUm1aNnZENzA",
+      "Homework and Notes": "1nfq4LAEst3isk8u4AYhN9CY-NrbNTBcX",
+      "Other": "1CtgnRj_N4O9JjBkDfjiYl7VcQL0-CbRJ",
+      "Quizzes and Midterms": "1-wOi0tAKcruDasBUFXcBpyuG5x1IKsv-"
+    },
+    "MATH 2551": {
+      "id": "0B5c1_0cbw7-USzZKMWZEWFVGZlE",
+      "Homework and Notes": "1cU76idpdcJdIHQW_vuatZ9HcMpoLajZk",
+      "Other": "1Qd9QHnvF0eK4fVPv6UNMy_c25tKFkTsK",
+      "Quizzes and Midterms": "1L_TYT1WZBXu6VWszPVQ0s9JVb2GesuCW"
+    }
+  },
+  "MSE": {
+    "Science and Design of Engineering Materials.pdf": {
+      "id": "0B5c1_0cbw7-UYnpPNHl4Rngxbjg"
+    },
+    "Gerdhardt": {
+      "id": "1vMlEFAPCEPjEVbPYT1IWTXMcvDAcmaYN",
+      "Homework and Notes": "13mOlFyaEdGfQ82b1ng3h3TdCfTuExh4p",
+      "Other": "1MHHXpfxCEur5QD_9VJAF8AhvZvi_UwJA",
+      "Quizzes and Midterms": "1F5gDQDHeSlxLvD9sV_qaJBuvriKIuorl"
+    },
+    "Qin": {
+      "id": "0B5c1_0cbw7-Uc3VYRkNTYXg5NUU",
+      "Homework and Notes": "1MJoSDxm5Yc6mEiXdvy3F2xC4s5OfKU0T",
+      "Other": "1LNF1O4PNew-UCvFIONNQEEelp1Ph3xAs",
+      "Quizzes and Midterms": "1Pl8DWjTvO371RGxq6ObY6ITS-2kLl53a"
+    },
+    "Sander": {
+      "id": "0B5c1_0cbw7-UbGJJYmQwb09kVzQ",
+      "Homework and Notes": "1M-NqUWchyvmI9jdUSE3ZTg_Ftpk3rTXr",
+      "Other": "1Fi4tJubNgXlsqMdu2WHZR34ajPRBF5aJ",
+      "Quizzes and Midterms": "1KhVkNBq4yd9LKfrjZYtENu-FItOlWX79"
+    },
+    "Solutions Science and Design of Engineering Materials.pdf": {
+      "id": "0B5c1_0cbw7-UT2tfMlFYMWk2SFU"
+    },
+    "MSE 2001": {
+      "id": "0B5c1_0cbw7-UU0dHRFJmZVFyV3c",
+      "Other": "1Qy3XFSNkIdCg3XmgO527Ox0Ju53-r30B",
+      "Quizzes and Midterms": "1MdmOqeg2c1ML4W_ZWXqPGYFTyIWFy1Be",
+      "Homework and Notes": "0B5c1_0cbw7-UU0lEQmQya090X2M"
+    }
+  },
+  "LMC": {
+    "LMC 3403": {
+      "id": "0B5c1_0cbw7-UNFRYaXZaZnRESlk",
+      "Homework and Notes": "11xAt5sX-L2yITd-e_UwJDXKg0HJPFfi_",
+      "Other": "1wiPLWU641P0XZmzkzygJPQz-azoLEdX8",
+      "Quizzes and Midterms": "100HMiBhbNj0NpqvxGMDVCRokmFoTyYwK"
+    },
+    "LMC 3254": {
+      "id": "0B5c1_0cbw7-URG1ERWhNdG9TU0E",
+      "Homework and Notes": "1CQMjZN1Mche4N1Bbwd2GqBhiQ4-ekBZt",
+      "Other": "1JZSExhkH_X-leIIWquKHkLDE17L9qQIt",
+      "Quizzes and Midterms": "15Q9YvMk5m_RNWizZXEPPepmD95-4Y0-X"
+    },
+    "LMC 3252": {
+      "id": "0B5c1_0cbw7-UeGMyMjZJMFJaRE0",
+      "Homework and Notes": "1tI6QjAH04G3NGUYKdcMSDpQiKWrgRZGM",
+      "Other": "19s9Y0zotLpG0pmz38rb1Gjofc1gamhEd",
+      "Quizzes and Midterms": "1Tmk6pt_UplwcsNQS5xa09oMPoo7Ih0iC"
+    },
+    "LMC 3102": {
+      "id": "0B5c1_0cbw7-UUUViOUI2SmRHT1E",
+      "Homework and Notes": "1sDt_tIb42qmaLNLblZE9Q1PEwEsnl-Mv",
+      "Other": "1qpzOY2Y4DoL0Jt69siVpqxqGrTdWnSTj",
+      "Quizzes and Midterms": "1NIUoF_ln0aPzOfXGrKBcYdz9ix6vzqX-"
+    },
+    "LMC 2500": {
+      "id": "0B5c1_0cbw7-UWnpKdU5GNmZjcm8",
+      "Homework and Notes": "1L1GQcbfS-I-y2jwUnyfTzSYIGmfTakJH",
+      "Other": "1vdpQUfRv4HQT5X6TcoSUyIRX0nOw4RzX",
+      "Quizzes and Midterms": "1hpwTd43Sbmo-WckOGwQ4o41ppNSMqIwf"
+    }
+  },
+  "INTA": {
+    "INTA 1110": {
+      "id": "1cCdI7QKp0EqzZ3wz2AeobbXQxHH6XvOa",
+      "Homework and Notes": "11ifWesUI9OGgpPTqPg-BM8CrhFwGdGO6",
+      "Other": "10GEo29YFcIgeF5NuXuX3dBPSwQZqAoww",
+      "Quizzes and Midterms": "1oqGxN8YumgSn4XEkqjlSyxwxXagjBJax"
+    },
+    "International-Politics-Enduring-Concepts-and-Contemporary-Issues-8th-Ed.pdf": {
+      "id": "0B5c1_0cbw7-UTlZaYWdseVBjTTA"
+    },
+    "INTA 4803": {
+      "id": "0B5c1_0cbw7-UOWVjVV9ZbHd5dU0",
+      "Homework and Notes": "1obtvp3SEVmcjQkibOSgdpmQahouEsef5",
+      "Other": "17tzAhXodDEcHdUDNP0RLqfE7Q9g4_wYL",
+      "Quizzes and Midterms": "1hxc8YoxXqk1TrwQ5Cxmj-3fF2nQmvpSO"
+    },
+    "INTA 3301": {
+      "id": "0B5c1_0cbw7-UZUVnTnZsRmQybE0",
+      "Homework and Notes": "11bLV6U0DzfVzRU1CAavWjHHTc7v9vmQU",
+      "Other": "1uO_hj3ASDNZkDPtwamY7bU4sd30nZ-me",
+      "Quizzes and Midterms": "1F-2Lg-hPU5CE0_pB8uoJOwaKYeYR5Mn4"
+    },
+    "INTA 2100": {
+      "id": "0B5c1_0cbw7-ULTl0NXZFNzJuM00",
+      "Homework and Notes": "1punefugZFPXROtTSxG6decohIOXvBPbg",
+      "Other": "1edcYUraXOWVye9zSqxhcO5fD2bJ-MXcE",
+      "Quizzes and Midterms": "1-kNptR2Dap3uJNWJJvNV126Edddt85Jq"
+    },
+    "INTA 2030": {
+      "id": "0B5c1_0cbw7-UVU83dzRJb2dHZ3M",
+      "Homework and Notes": "1qblzdWH4SLRva41k1HDy2vWDX5U1A6Jr",
+      "Other": "1BOLi8RhQN7jmsA_6fIkPNEYvtAcAwxwp",
+      "Quizzes and Midterms": "1SE6MdTWzcJTH_3aNKSSmBvQER_cnyFk-"
+    },
+    "INTA 1200": {
+      "id": "0B5c1_0cbw7-UNG1CLXBMQ1RLb1k",
+      "Homework and Notes": "1E0K7leORy03QTXgjLSU57msHnQMMGdi8",
+      "Other": "1MyUhmVXyl7VNe1SDxuGSzdI0e6q67509",
+      "Quizzes and Midterms": "1WD9L_GSubKxa7JQj4HQ7DLhPtgtOA9wd"
+    }
+  },
+  "ISYE": {
+    "ISYE 3030": {
+      "id": "1u5LmVGh1RO7RFx_MGJ_PkzzEeh4wyfcS",
+      "Homework and Notes": "1qOwkBMtetI5eDEVb8IRafnDJfkY1q31a",
+      "Other": "1XpVyProa5lMp32T221Fv1f-suwfpB8DJ",
+      "Quizzes and Midterms": "1-C4-LXsy4gB49e27N9uhXuCDbgL69-GK"
+    },
+    "ISYE 3103": {
+      "id": "0B5c1_0cbw7-Ua1pReldZekZDWWM",
+      "Homework and Notes": "1J4fYn74nhU138vYDKPI35IV_m7VFKlsJ",
+      "Other": "1QcedsV0LweKRifvfomRHUisKoxh4JxP_",
+      "Quizzes and Midterms": "1CNc9jiBZecTmGNa1CkNagDOq9Ni5bAHH"
+    },
+    "ISYE 3039": {
+      "id": "0B5c1_0cbw7-Uc2h6VHhzeW4xeWc",
+      "Other": "17gwPdtGXE2EHlcph4GyqRAcbvqxWF5n7",
+      "Quizzes and Midterms": "1aHjy3x2mNXkJjqpSg9oqIgsrW1_J1zOv",
+      "Homework and Notes": "0B5c1_0cbw7-UTVN5RkZyOE1GWnc"
+    },
+    "ISYE 4803": {
+      "id": "0B5c1_0cbw7-UbGszUFBuMWJGODA",
+      "Homework and Notes": "1oVkqWuKoPa5OiEIjld1EfaSIh1J8ky2E",
+      "Other": "1SgEaM-k-LOMHi5o_TlQJ4SQBtF-9lbbb",
+      "Quizzes and Midterms": "1wKg_4zlLHEjmQztgxt7pnSZy6vw2zsQS"
+    },
+    "ISYE 4301": {
+      "id": "0B5c1_0cbw7-UNWd4cFkyTTlzUTg",
+      "Homework and Notes": "1V4TF4J6MtdCOMyP33hSFXcTpyRFZ26tW",
+      "Other": "1QeWjGi5OTz8ge8t50VRtsbwe_kZp15XR",
+      "Quizzes and Midterms": "1TXVsO7XtYyvAmymscw-tgfmv6R6ObK2h"
+    },
+    "ISYE 4232": {
+      "id": "0B5c1_0cbw7-UbXNMXzVhQVlCcTA",
+      "Homework and Notes": "1ryqbC_4MoSvyzZNdhyDBaXSlcFYpSux5",
+      "Other": "1T0niVSEXfZZYOOi5lbPL3aq3PfMzvJdK",
+      "Quizzes and Midterms": "12z2AvSMbVg61HOx1ADm2_Ynns01WSyko"
+    },
+    "ISYE 4133": {
+      "id": "0B5c1_0cbw7-UQzRxS2c1Tm9tN1E",
+      "Homework and Notes": "1_i1keKSEPfCl_jd5NdwD0Slv_pki0-l6",
+      "Other": "1nZg2uW6RawazWm8KaiEe3Bhn8LXwx2X3",
+      "Quizzes and Midterms": "1xdtT58OPhjLjWKQN7KkfHvxXGlbBOSUU"
+    },
+    "ISYE 4031": {
+      "id": "0B5c1_0cbw7-UYVl5U20wbzRfUlk",
+      "Homework and Notes": "1x-yHaZQtrVjL6amVN1UxU4WXWWudiPSZ",
+      "Other": "1gNUSkhtSlrpHgdxkoxYVtAW0cufVfyaF",
+      "Quizzes and Midterms": "1S0ZRHrm-2oYFMJDwFZXaG2WbfbpAuV2Q"
+    },
+    "ISYE 3833": {
+      "id": "0B5c1_0cbw7-UWnZlUk9pV2hWRTA",
+      "Homework and Notes": "1Yq8tY-g727EkMmw9nm-S0Kc6V3Y-_HPu",
+      "Other": "1LdovxcZEHm9bcPJ945xnLa-sxKhv0Rg5",
+      "Quizzes and Midterms": "13eIiSjY3YK_n6CeKOqBajhUfLffwfS1B"
+    },
+    "ISYE 3770": {
+      "id": "0B5c1_0cbw7-UVm1Ec0ppZ0dtZkE",
+      "Homework and Notes": "1iSXbd6l8PkEiDl9YX8EzFia1kyLYizcv",
+      "Other": "1Q-g8SL8F6fNK3xRlfWT-36GzHwdNQJqd",
+      "Quizzes and Midterms": "1kxGG8Zet6gwwdV11XDkirxOdcwB-h_OW"
+    },
+    "ISYE 3232": {
+      "id": "0B5c1_0cbw7-UNVpzZWFvbkgwMm8",
+      "Homework and Notes": "1buJ8_w1Po5dJAaT_e7PFS0UvXx2SfTZy",
+      "Other": "1pnU41xgWN6ddSHv0Bfq8qAW0r10l4QL9",
+      "Quizzes and Midterms": "1NIWfjvn5H62qS0Hghfq4d2vA-2Z0NNQl"
+    },
+    "ISYE 3133": {
+      "id": "0B5c1_0cbw7-UUmo4TUo0REJ4Wms",
+      "Homework and Notes": "1dP-OoPI4XCJbx85Osox0iWSGyH6tIfOy",
+      "Other": "1xD3ufXFHWfgTaGepgg_BZmhqTV8nnmF_",
+      "Quizzes and Midterms": "1Q7UWNX3AsiK0jHx0b5eU5Eow-ZCovcyB"
+    },
+    "ISYE 3104": {
+      "id": "0B5c1_0cbw7-UQjFrdEF1YmdJM1U",
+      "Homework and Notes": "1r7zwa_nXBkgUIRHs5rUSrQ6fX7sa_4_J",
+      "Other": "1DIvi-pYsCe1JP5xeYTI7A-Jfha6Zyjmz",
+      "Quizzes and Midterms": "1jcMzJz1IisJTaOFwZmEugfs_e0hqQGDO"
+    },
+    "ISYE 3044": {
+      "id": "0B5c1_0cbw7-UU19qd0lhNnNhQ28",
+      "Homework and Notes": "1Oj2TBdHrI4U_noKKxTeRUI4Aw4NEY2PC",
+      "Other": "106fG8akcXUvhzEDKnsCxQyxZtGUR00z4",
+      "Quizzes and Midterms": "1G4zR7UjRQp4ruvOuwyZsdwCqgVbnnP_4"
+    },
+    "ISYE 3025": {
+      "id": "0B5c1_0cbw7-URVBrTDNFdTZuNTg",
+      "Homework and Notes": "1CfD4KL3mSOHCPT4ZL9AcRn_iD6L3IT71",
+      "Other": "1ioLmktqzdJiWCV7oQgkovku1X8SqtdBB",
+      "Quizzes and Midterms": "1EZaEY97_zNff4XxOqxxkg2Wt_sId7I0y"
+    },
+    "ISYE 2028": {
+      "id": "0B5c1_0cbw7-UMUF6Uk1PVGIxWHc",
+      "Homework and Notes": "1qHvfgc5juush7ASI-OrcjvjMN1BgTM8c",
+      "Other": "1fsd9QJ0k1daAi5bLc75Ls3eCL1EVy7nt",
+      "Quizzes and Midterms": "1AgohBBs_bZvqBH5v1xSt35H-CeTsA5Gh"
+    },
+    "ISYE 2027": {
+      "id": "0B5c1_0cbw7-US3hqNmM3TjRjdVU",
+      "Homework and Notes": "12AmVnHwmEMdnEDO0U20AgQeHMiRBP8Es",
+      "Other": "1vT_X5b2bnG_lIJgDlQCNjYyYoT1SZ_tV",
+      "Quizzes and Midterms": "1hvqCJ5NpqOemCHV-jF-k0cQSnkpk19U6"
+    }
+  },
+  "ID": {
+    "ID 2202": {
+      "id": "0B5c1_0cbw7-UdUFTcGZzVW1UZ3c",
+      "Homework and Notes": "1f6OR4d2jjyIdmXNunx5lc5zhlBNEYzNH",
+      "Other": "1wm2riyYFsj47T9SqmFunovY3ubytWoe4",
+      "Quizzes and Midterms": "1P-ygcSdGvKlkYG4Libse3kx8O8n7Duaf"
+    }
+  },
+  "HTS": {
+    "HTS 3063": {
+      "id": "0B5c1_0cbw7-UQXI1ZmJROGFwMHM",
+      "Other": "1RVEZFthaTI-AXLOuZzY_wXdnBWlMa0_g",
+      "Quizzes and Midterms": "1tFU2Mspg9a8NLOCITyF_5WA51ml40nfY",
+      "Homework and Notes": "0B5c1_0cbw7-UMmgwdHVFNjJlaFE"
+    },
+    "HTS 3046": {
+      "id": "0B5c1_0cbw7-USnBKWXYxaERkT2c",
+      "Homework and Notes": "17A6M2aHPwwNwpyK_NvHTXKmPa9q6tG69",
+      "Other": "1qLmFZ7EwX3UJi7MtY7sMh51aFqJHhhgM",
+      "Quizzes and Midterms": "1N4OJ4uh_CIutlziBbnJIS8yH0DH2eFDt"
+    },
+    "HTS 3038": {
+      "id": "0B5c1_0cbw7-UaXlYUjBtUnRmVGc",
+      "Other": "1ZjG4CuWe1uNGjWJ8QdOWJ1i1gKgW_Kg5",
+      "Quizzes and Midterms": "1VRCEBWYXO6vCC6_1QrRiw0ykuSxa9qub",
+      "Homework and Notes": "0B5c1_0cbw7-Ua01KZ0l1b2Y1b0E"
+    },
+    "HTS 3029": {
+      "id": "0B5c1_0cbw7-UT0pMdmxPSFI4cEk",
+      "Other": "1kTCG21d33eMcjmFU0DvdD60XUAEWYuP9",
+      "Quizzes and Midterms": "1JYvTtFy1VfcXZQb2vDaQd5UW1O4HBekS",
+      "Homework and Notes": "0B5c1_0cbw7-URF80aU9GdnBGZGc"
+    },
+    "HTS 3019": {
+      "id": "0B5c1_0cbw7-Ua0JUX3JxZmZpTEE",
+      "Homework and Notes": "1RTwAZjGS_MEOAX5zcuSj6C9DNDK087Ps",
+      "Other": "1BMQimDu0DlxwC2RLq-7CSHgNir8iThgq",
+      "Quizzes and Midterms": "1jcEs7RvZtSww7jsvd4fQ9COPnAeAVT7P"
+    },
+    "HTS 3002": {
+      "id": "0B5c1_0cbw7-UQW5YMmQxUml6cTA",
+      "Homework and Notes": "1wpugme4IrK1BJJC1QsX7_yJzf4_CYvoA",
+      "Other": "1EJz_dnwGbF2rAiByQGN2MQ9rEDuzVgGK",
+      "Quizzes and Midterms": "1AKe1QrSgzAPjjDY-c0b8xebOAmdSBXYD"
+    },
+    "HTS 2101": {
+      "id": "0B5c1_0cbw7-UVkhFeWZ1MEI5RTQ",
+      "Other": "1apOOl5uY1zAtKJkp3FzK8pBPFTgxtWEx",
+      "Quizzes and Midterms": "1oyI1OWuW8YJ4B40QCn_C7rqE9kORYkuK",
+      "Homework and Notes": "0B5c1_0cbw7-USHN5MU1XMGRJbnM"
+    },
+    "HTS 2081": {
+      "id": "0B5c1_0cbw7-UOTYyLWhKV1Ryblk",
+      "Other": "1tBWmh4BtgtSL1fqA7LeFvUMwtjb4mt7a",
+      "Quizzes and Midterms": "1BodzuxuBRYnNS9VHZaVY2LgoyIWN0hQ3",
+      "Homework and Notes": "0B5c1_0cbw7-UeVNoVjNMOE9KNXc"
+    },
+    "HTS 2080": {
+      "id": "0B5c1_0cbw7-URElNUmNTUFZyTjg",
+      "Homework and Notes": "1S95aIw-m3BuDrS1NZTS3qb_FsTOjBtXL",
+      "Other": "1tVRPpwKOGWmVmSyCiani9s6xsLM_zCI0",
+      "Quizzes and Midterms": "1PEEQyYre56rXZ4rNBLHq5QycbN3n_SeW"
+    },
+    "HTS 2036": {
+      "id": "0B5c1_0cbw7-UZWd5X3F5NEhoVmM",
+      "Other": "155SvxiliuMT2dnOgUovM7tC2s4wPfd3K",
+      "Quizzes and Midterms": "1rTwNcAd48elO20XpAr4T6T8MVzfCmgrC",
+      "Homework and Notes": "0B5c1_0cbw7-Ub3Bfbjk2Z21jeW8"
+    },
+    "HTS 1031": {
+      "id": "0B5c1_0cbw7-UbmxtU3h0SzdLaVU",
+      "Homework and Notes": "1RanOsFjsjX-UORaGQU5HwQx49JSBh0K5",
+      "Other": "1otjzVsmvrYPNKNIeo8VD_IYKUuCSt7Jm",
+      "Quizzes and Midterms": "1EvJDhlz4cWuOH-7hXs5h4Q5_CvUij1jh"
+    }
+  },
+  "HIST": {
+    "HIST 2112": {
+      "id": "0B5c1_0cbw7-UdW5WdlRmaTZ6NDA",
+      "Homework and Notes": "123km2S08GeG_-wE5pvOvnFrJt9AcjD3n",
+      "Other": "1EL1fWOx12bGUOV4WVS5YNvXwfnOhJSD_",
+      "Quizzes and Midterms": "1hj1LkALrxX_gQcoyUDxSsWKwD-CS09lu"
+    },
+    "HIST 2111": {
+      "id": "0B5c1_0cbw7-URzFJVmJtWFNGbTg",
+      "Homework and Notes": "1Bo18sSj0ND4Mf7S-NyFDUrlkTDvE9c49",
+      "Other": "1DGlUdLQHd3TFn7RSyg9T_iHTMNFS3hpG",
+      "Quizzes and Midterms": "1GwtLepAM4XsgWVrKVVBk14Mbti6tJLiq"
+    }
+  },
+  "GRMN": {
+    "GRMN 1002": {
+      "id": "0B5c1_0cbw7-UY1ljWURxUGZadXM",
+      "Other": "1Coyn8_YEQZiOSjL194YF8YedzRZPRkz5",
+      "Quizzes and Midterms": "1P7Xpsbpl70ebFHmY3aHlrOAmVGhVKvtT",
+      "Homework and Notes": "0B5c1_0cbw7-UeFl2Z0V4UkhqZ0U"
+    },
+    "GRMN 1001": {
+      "id": "0B5c1_0cbw7-UWUt3RTFsLWg2Y28",
+      "Homework and Notes": "1nWUI119uG58JQChaSKHVADlIdqMfsE5S",
+      "Other": "1DnZ8zIFIWmDDMBeBr8ymaRS8grn9XSoG",
+      "Quizzes and Midterms": "1Ig21zU_7tXRyRUD67NfZBgk40M1Mj0a4"
+    }
+  },
+  "GT": {
+    "GT 1000": {
+      "id": "0B5c1_0cbw7-UWkVCZmltZUFMa28",
+      "Other": "1HPOkpwyULmcq18rp0S2PzEB2umecO_m1",
+      "Quizzes and Midterms": "16-J1tATsz79SWJSvn49C61vJFKw5GxCV",
+      "Homework and Notes": "0B5c1_0cbw7-UR01oRkZFYzFKWkE"
+    }
+  },
+  "FREN": {
+    "FREN 1001": {
+      "id": "0B5c1_0cbw7-UTml4dUtYZUVxdEk",
+      "Homework and Notes": "1SUGenfCQ6ih-WWOdYuBK5hrGIAYcXAkv",
+      "Other": "1mCm4DmnfOWHxZos341rccZ7KCgd7Ecpt",
+      "Quizzes and Midterms": "1XIThSIkg6-26-VpySbyJPDLSJC4pZ6d_"
+    },
+    "FREN 1002": {
+      "id": "0B5c1_0cbw7-UQktiQnYzZHVYcWM",
+      "Homework and Notes": "1A7tGFgk4TYgCdfSu5KdvVUBahbB4UsVm",
+      "Other": "10XdCvqDXWBldNl8qwT4ncIQMcEaFtkEG",
+      "Quizzes and Midterms": "1nGizETXqWt3GLdHCvfEQuVxG-Dqq52cp"
+    }
+  },
+  "ENGL": {
+    "woventext.pdf": {
+      "id": "1R5WsDaZ0-venjlFUgskOUpymRLPbfVSv"
+    },
+    "ENGL 1101": {
+      "id": "0B5c1_0cbw7-UQUtSRGxQUFp1OGc",
+      "Homework and Notes": "1c1FjYet3xxrN-n7z0rVYhFXdj_uy_l0u",
+      "Other": "1l_pGKtOhg8lLLmuY7LaR_L1ooTRJMFok",
+      "Quizzes and Midterms": "1SJYo6-oY3EdWmPLnrfWw9REus1CoPIyx"
+    },
+    "ENGL 1102": {
+      "id": "0B5c1_0cbw7-UbzNReGROcVRVamM",
+      "Homework and Notes": "1aW83V9dTvKIrKT50qqW6AGTJgstrnFHn",
+      "Other": "1jGBr538KCrFP_0XjIP_7wAAZv-OHIbJl",
+      "Quizzes and Midterms": "1ozvkffoIhOeIaKFtGH0hXM6mVnc7TUMt"
     }
   },
   "ECE": {
+    "ECE 3710": {
+      "id": "0B5c1_0cbw7-URjEyZlA1Y2VTZ3M",
+      "Other": "1WlRhvPaS96QpCOqYydoUUlmti-pKGySV",
+      "Quizzes and Midterms": "1rS-_TELG_eWuh7wRIXKpAN0SmYG39TX0",
+      "Homework and Notes": "0B5c1_0cbw7-UdkxWSDRWVkUxYUk"
+    },
+    "ECE 4560": {
+      "id": "0B5c1_0cbw7-UUlBkSjZ3MkUtVE0",
+      "Other": "109RxpvmB6DgjhtGVBrMBG2kHtVn4nhg3",
+      "Quizzes and Midterms": "1n9G0z0ZeI9A3Xfvcce1cCYQ0OE8IY0ie",
+      "Homework and Notes": "0B5c1_0cbw7-UeVhva0NtXzZSeVU"
+    },
     "ECE 2035": {
-      "id": "1dw_cBRlbgP65We-6-xCYLBUkMCygtfGS",
-      "Other": "1Es6442tEx2tZx-mFYj29K2rzE1nziTZo",
-      "Quizzes and Midterms": "1U5SpQJv4EPRpw3TLDvlzN8D-dj9aTRr4"
+      "id": "0B5c1_0cbw7-UUmw4OE43cm9KemM",
+      "Homework and Notes": "1Wx_5_HSfkTFCcEokUfgW0C3JLrK4Ih8I",
+      "Other": "19AN2pQFmw4iCB-yW58MhGIHmu6ZICBnO",
+      "Quizzes and Midterms": "1C_zhWfa5CV4kCZ2zlc7to77ANj9v5XPl"
     },
-    "ECE 3555": {
-      "id": "1UPEgqrTwEwgaawpXTeeT0o_GQMrnfBBq",
-      "Other": "1iGvGUvVwqKTbiZMekSk87q580suAOllm",
-      "Quizzes and Midterms": "1jnF5seVpXewLe58eP6gtg2JtUEhoRWeX"
+    "ECE 4606": {
+      "id": "0B5c1_0cbw7-Ud2ZxQWJORi1MQ00",
+      "Homework and Notes": "10w4wxfd6u32jUvCj5ho7c-g4gTwShXt2",
+      "Other": "1wLqDgDT9o4CHSLRl5rp7U_0osh8b3TJc",
+      "Quizzes and Midterms": "1zhhiNz7kgfAFfIfMf-ZhWcnztFlbHs-F"
     },
-    "ECE 2036": {
-      "id": "1ZYat3fSL-1N64QSgTMFPwKGWT2CiyY7T",
-      "Other": "1dWCoeXsvPZtbyUNxDifa0F58B4jwbVG6",
-      "Quizzes and Midterms": "1H0RqngeJTsMUQ-IZlr6fHfeYTlO8aKUg"
+    "ECE 4415": {
+      "id": "0B5c1_0cbw7-UamRwMk1YZkNQaU0",
+      "Homework and Notes": "1yCFYTqmgTzI3yBhSWNPrzj4kQX7E-Qgr",
+      "Other": "1WWREJWvxrU787b2wK-nrgbILUIEpTVE-",
+      "Quizzes and Midterms": "15S1ciS_4UwDzVMAZHZnPRjfcFLXMUGpR"
+    },
+    "ECE 3065": {
+      "id": "0B5c1_0cbw7-UOUd3b1hFOW8yRzg",
+      "Other": "1WaqEz38pAb5houcOBqMba4iHzZk5GlNj",
+      "Quizzes and Midterms": "1xnEGe6_xz0aQmT3kkCzIq-Bw2p_kPfDP",
+      "Homework and Notes": "0B5c1_0cbw7-UZmFYeGlCU3lEVEE"
+    },
+    "ECE 4823": {
+      "id": "0B5c1_0cbw7-Ua3ViWFF5NkxwNzg",
+      "Other": "1GOfxwVbOeeVey782-U67pZlup5JSGe2G",
+      "Quizzes and Midterms": "1UFpGDToGjYLWJs7ZbDYJcHKLBL0GVIie",
+      "Homework and Notes": "0B5c1_0cbw7-UZFBwQ3AxR2J6NTg"
+    },
+    "Feynman Lectures on Computation.pdf": {
+      "id": "0B04l-XMi07VKZ3VzMFZ4V2xoUFk"
+    },
+    "Electricity and Magnetism, 3rd ed - Purcell, Morin.pdf": {
+      "id": "0B5c1_0cbw7-Ua216NldTRVNjVUk"
+    },
+    "Digital Logic Design, 4th ed - Holdsworth.pdf": {
+      "id": "0B04l-XMi07VKUF9CU2hiWnRPaEE"
+    },
+    "Crystalline Silicon Solar Cells - Goetzberger, Knobloch, Voss.pdf": {
+      "id": "0B5c1_0cbw7-URENiNy1ud2xrN3M"
+    },
+    "Cracking the PM Interview - McDowell, Bavaro.pdf": {
+      "id": "0B5c1_0cbw7-UckZXRzdOd2g1ZW8"
+    },
+    "Computer Organization and Design, 5th ed - Patterson, Hennessy.pdf": {
+      "id": "0B04l-XMi07VKZnZmMWJSRFpkLVk"
+    },
+    "Clean Electricity from Photovoltaics - Archer, Hill.pdf": {
+      "id": "0B04l-XMi07VKbnBYVTlHbV9Vcmc"
+    },
+    "Applied Photovoltaics - Wenham, Green, Watt, Corkish.pdf": {
+      "id": "0B04l-XMi07VKZVVIZ2JoYWVVMFU"
+    },
+    "The Physics of Semiconductors_ with applications to optoelectronic devices - Brennan.pdf": {
+      "id": "0B5c1_0cbw7-UeDhLdWdqQk9uNzQ"
+    },
+    "Modern VLSI Design_ IP-Based Design, 4th ed - Wolf.pdf": {
+      "id": "0B5c1_0cbw7-UV2dDWnJFQXZFZk0"
+    },
+    "Microsystem Design - Senturia.pdf": {
+      "id": "0B5c1_0cbw7-UejcyXzgtTmRtQzg"
+    },
+    "Mathematical Methods and Algorithms for Signal Processing - Moon, Stirling.PDF": {
+      "id": "0B04l-XMi07VKQVJ1VHBHeW5ILWM"
+    },
+    "Foundations of Computer Science_ C Edition.pdf": {
+      "id": "0B5c1_0cbw7-UN0VZc2lVTmhCSjA"
+    },
+    "ECE 4752": {
+      "id": "0B5c1_0cbw7-UZzR1QlJhX1JpRHM",
+      "Homework and Notes": "1t7wE9DIHTGzYibPQC8Dk_AseWKD5SpMD",
+      "Other": "1s91U0kZIA6cBto0YkoHJaqu1ZSsxhNM-",
+      "Quizzes and Midterms": "1dThNk72R0ICyQoqZjiuHqhJ_CBpAQqsu"
+    },
+    "ECE 4550": {
+      "id": "0B5c1_0cbw7-UeU9pSTY3VVZoZDg",
+      "Other": "1zDv677boROc4zCHJ1V6QlrHbqF_spiJX",
+      "Quizzes and Midterms": "1CVxw6SgcwmdsI1Xx73jpb3Emh-50e_at",
+      "Homework and Notes": "0B5c1_0cbw7-UTXY1YTcyUV9HT1U"
+    },
+    "ECE 4445": {
+      "id": "0B5c1_0cbw7-UdnJ1ZFdPWndDcjA",
+      "Other": "1DMSiOsZu0J1wRcZnlVdXwIJpJtx5EOQO",
+      "Quizzes and Midterms": "1e3luF-c1oYmhnDCyaIDh_u029oSzJobu",
+      "Homework and Notes": "0B5c1_0cbw7-UdG5uRld0NHlISkU"
+    },
+    "ECE 4605": {
+      "id": "0B5c1_0cbw7-Uam13MWZnWnpvQlU",
+      "Other": "1yMCAVIGbh_TK5S2m4bv5xuo-rPo6SLav",
+      "Quizzes and Midterms": "1VpFkrHPzEOj3U40_Rk2qekzTeq5k-a_d",
+      "Homework and Notes": "0B5c1_0cbw7-UUG5tNkxvcUJjS0U"
+    },
+    "ECE 4502": {
+      "id": "0B5c1_0cbw7-UODI4ZGpwS3VwNG8",
+      "Other": "1ZlcTR402ZZ1J6ypCCCmt7SddcIIuksZB",
+      "Quizzes and Midterms": "1sKIa06o6jXIDasgF3Ikj9vwbz3cVl8BK",
+      "Homework and Notes": "0B5c1_0cbw7-UMlhobkNEUXpPWFU"
+    },
+    "ECE 4435": {
+      "id": "0B5c1_0cbw7-UeVBEUUpoeHlLWFU",
+      "Other": "1WwU9YJJnhu2sbY9GRvF4MNpDCBbieZpM",
+      "Quizzes and Midterms": "1yoYptiUu0mwFdlWy5x4x1_3GukzJrw8j",
+      "Homework and Notes": "0B5c1_0cbw7-UQzQ2RDJrQVNMbUE"
+    },
+    "ECE 4370": {
+      "id": "0B5c1_0cbw7-UdjJkY1hhQVRsb1U",
+      "Other": "1s_ZBAkum3l5R5Meawv0YwcKRV2flS7hS",
+      "Quizzes and Midterms": "1NHb_GON5shHBgUdavKFMBDX6kB8qLARx",
+      "Homework and Notes": "0B5c1_0cbw7-URjBUTUJvVVh6eTg"
+    },
+    "ECE 4270": {
+      "id": "0B5c1_0cbw7-UVU9VNmlCYUZlOE0",
+      "Other": "1QDnVSXmWS7Gxvj1kGtxLl7mrEvSd9PhJ",
+      "Quizzes and Midterms": "1Dxw88HpG2yY15l-wiWHoJbYhJIqwEsya",
+      "Homework and Notes": "0B5c1_0cbw7-USGpfcnpyVVdGTms"
+    },
+    "ECE 4260": {
+      "id": "0B5c1_0cbw7-UUHFFSUZRZ1gtMW8",
+      "Other": "1bQELtiyr2Mmo02wT00iuNGHdgx0ncWTz",
+      "Quizzes and Midterms": "1_TtuNUn351OFZdpN4nWpqSYR-6L3HTyN",
+      "Homework and Notes": "0B5c1_0cbw7-UZk5heTRhNnNfX2s"
+    },
+    "ECE 4043": {
+      "id": "0B5c1_0cbw7-UREFkeVhnTXZuUjA",
+      "Homework and Notes": "1wsmRf6TGr1SRgBOC1QohZgp13pFERaMd",
+      "Other": "1o0KuOt4g18owSID50s79IiKcSFDyUH5m",
+      "Quizzes and Midterms": "1PMopXPoo57CchwjLh0SDSyxBzLIcGxaz"
+    },
+    "ECE 3400": {
+      "id": "0B5c1_0cbw7-Ub1RrTElMMENNazg",
+      "Other": "1ng_4kVSblTzhOdNJqZklAZTqFz5R-LBo",
+      "Quizzes and Midterms": "1QYHoh5oF07W0g0u9saPlA9UCgqdgFc7G",
+      "Homework and Notes": "0B5c1_0cbw7-UUk51aTRFV2FjclE"
+    },
+    "ECE 3600": {
+      "id": "0B5c1_0cbw7-UZXRIZDM1aTU4NFk",
+      "Other": "1FWaEAVWAyt_Qj3kF7R0aqEhNGChwGg-B",
+      "Quizzes and Midterms": "1I18J-DZUKP9nFtinqN0gQaFQDZinHOYs",
+      "Homework and Notes": "0B5c1_0cbw7-URC1IUS0ycnpobjg"
+    },
+    "ECE 3300": {
+      "id": "0B5c1_0cbw7-UZWZJeldlUmZtR28",
+      "Other": "1UiSyV6rOZpXz5JqsmFb7Hismt3DzBbei",
+      "Quizzes and Midterms": "1m1r3PFvCYeKc5oYQlLPlqhiDITCpgS-J",
+      "Homework and Notes": "0B5c1_0cbw7-UQVlTbXUtaHQ1UGM"
+    },
+    "ECE 3450": {
+      "id": "0B5c1_0cbw7-UZGtQRnAyOTI4ckk",
+      "Homework and Notes": "11t6Mz_5iHdzobKG5yOLR6Y1tFVlwhCuI",
+      "Other": "1U1O_k9olUHcq3oyJR8d8gukjNtznBSLV",
+      "Quizzes and Midterms": "1j4ODL8V8oGnsIr0Zdv0ut3otkDbaa3K8"
+    },
+    "ECE 3077": {
+      "id": "0B5c1_0cbw7-UVmp4aUNGZEIxSnc",
+      "Other": "12Bxg3jtMb55yC478vIc6Y7r04apUmj9a",
+      "Quizzes and Midterms": "1lcG6sP9zDskBfS25ubHXIspYFtx1SjfS",
+      "Homework and Notes": "0B5c1_0cbw7-UOXZlOGdlTjdiQ1k"
+    },
+    "ECE 3085": {
+      "id": "0B5c1_0cbw7-UVU5BbEg4ZVU2SGM",
+      "Other": "1x1CE0jDbXreQkHAI8z4y1j5P5O6a43k2",
+      "Quizzes and Midterms": "1x5bDe2MzRH_b38pY20HTf66jCIA5o7hI",
+      "Homework and Notes": "0B5c1_0cbw7-UZm5Tcm1nOU9wcU0"
+    },
+    "ECE 3550": {
+      "id": "0B5c1_0cbw7-URlhNcjlKZkx1cXM",
+      "Other": "1NMb69rT9btxBNu0Ge_Ai9Wxutea9aqBU",
+      "Quizzes and Midterms": "1jB4kGqpPaJYTzjkDHJ1_PD5fjgJeNs9i",
+      "Homework and Notes": "0B5c1_0cbw7-UY3o3TlcwblRPVDg"
+    },
+    "ECE 3084": {
+      "id": "0B5c1_0cbw7-UMzRXdTBBcmZwRG8",
+      "Other": "157Ebeh33sGn-2VbC1ecOwRg2XcVKyu9m",
+      "Quizzes and Midterms": "1FSyJM8iIVrXUkUKW7PXm5lZjxl95ECNy",
+      "Homework and Notes": "0B5c1_0cbw7-UWDhXd1VScnB3WFE"
+    },
+    "ECE 4011": {
+      "id": "0B5c1_0cbw7-UMGRJbzlQNFhERVE",
+      "Other": "11_rBqs8IvMX97-TMiUBnHhuRWmEVEAom",
+      "Quizzes and Midterms": "1PthFsrpAlyGcY-VJbbpWURyn5UfoWsB_",
+      "Homework and Notes": "0B5c1_0cbw7-UUHFZZ3hmV0ltVzQ"
     },
     "ECE 3040": {
-      "id": "1yAQ93IeTjRdK8-9Tk3W2GiNSh4bSLI9H",
-      "Other": "19vFLFRqTDK5m6_D117jJl_-ygOl2FsNT",
-      "Quizzes and Midterms": "1mUG_7CJrM7Iosr38lTVYG_SES57R2lLG",
-      "Homework and Notes": "1kSUxnLNowZVCUf8BJpP6Rv0V5ZilkhXf"
+      "id": "0B5c1_0cbw7-UeFhGeTYxOGZIS1E",
+      "Other": "1zCcGvNKO19vs4pzyOYsI6T5bLlkV5vWT",
+      "Quizzes and Midterms": "168dunI-EMb7BbqCkPI_SP_JTWkBg6LWg",
+      "Homework and Notes": "0B5c1_0cbw7-URmJVdWM2VHpOelE"
     },
-    "ECE 2031": {
-      "id": "1vUAkzJpiExmJfKPC2p3xeBIbS6A95dqT",
-      "Other": "1NZ7cgLN5_8Q3waies2neKenBzew1AQmM",
-      "Quizzes and Midterms": "1ZkB1BI8yb-e4R2DMINZ2qo0PygJRrjDE",
-      "Homework and Notes": "1ILXu_oO8-OM_3YGzMBLwd4fyVmygfRTG"
+    "ECE 3056": {
+      "id": "0B5c1_0cbw7-UdVJyaHpHVDU4bjg",
+      "Other": "1H8kGxpP1XCnK2-zvp-0eDDW3s3hRNOX-",
+      "Quizzes and Midterms": "1o9h9v-jy9WskwMG70u70LwGkKZhUkw9m",
+      "Homework and Notes": "0B5c1_0cbw7-UejVuS2lkbjJsRzQ"
     },
-    "ECE 2040": {
-      "id": "1eJKdrygkY7HhX1JULWD7WwPBzdrWfcES",
-      "Other": "1qk354D4mkgbDDGXhaVuTrzkTBicEGE6b",
-      "Quizzes and Midterms": "1UfoIfmRWVLdNoPyLWmoZg8jyDZD2UTD2",
-      "Homework and Notes": "1mD9Itbl7wS0MPRaUgO4_LGgYP_3waxNa"
+    "ECE 3030": {
+      "id": "0B5c1_0cbw7-UczM1cEE2R2JyQWc",
+      "Other": "106UKBmYWEl4S_ZVEPFD0fHOsOi_hyrxK",
+      "Quizzes and Midterms": "1NUIkMAmorfo6U88vktNjUG1-b35fjXWA",
+      "Homework and Notes": "0B5c1_0cbw7-UYmhmRWJzV3pHTDQ"
+    },
+    "ECE 3043": {
+      "id": "0B5c1_0cbw7-URWlzWE1lelFiWUE",
+      "Other": "1BMlGCN3LBxsCHb27UTJJ3iGf90FdToBH",
+      "Quizzes and Midterms": "1UOWp3vQLu4wSiePZYzBRPNhDr2KZEM1g",
+      "Homework and Notes": "0B5c1_0cbw7-Udld4aGZLaGc4VEk"
+    },
+    "ECE 4894": {
+      "id": "0B5c1_0cbw7-URTBZeHlOdUcwQ0E",
+      "Homework and Notes": "1fheyi3y2gquxVIBMNbmWBDDEvmsGTQMC",
+      "Other": "1lEnjIIVfo1gG1o3Y6owf-64Pv-koeOAR",
+      "Quizzes and Midterms": "1cHNIWHJH5rPl-w8dlI72fO3x2RcuJTwf"
+    },
+    "ECE 3025": {
+      "id": "0B5c1_0cbw7-ULWR6OHg0VnFNeDQ",
+      "Other": "1SKPbrLSMo4WtJb76a1nVdFdDHcJSYr4D",
+      "Quizzes and Midterms": "1TBReD3Wb8jK5w2LQp3mkyFJrFtXUgLQ1",
+      "Homework and Notes": "0B5c1_0cbw7-UQUROQnFkZTJuQzg"
     },
     "ECE 3020": {
-      "id": "1zjrqgboiellu1DOsEl4xfQzhIkFtHzrf",
-      "Other": "1d_y1KHSyMXC5l7-PZjiIW6ZBfly72NXD",
-      "Quizzes and Midterms": "1wleUTZFClK5kYSe413N53QfXHI8Cjg1A",
-      "Homework and Notes": "1VpLKOOg-kcrre1s3_-L7MmdBLC4RyuH3"
+      "id": "0B5c1_0cbw7-UeGtmZlUya290Ymc",
+      "Other": "16lzyaj8bncE7vvUAzmlX1Jz-9vnaqnAt",
+      "Quizzes and Midterms": "1oz1C9QELDy6fHY8-FI6zeJAqfhD_ygtA",
+      "Homework and Notes": "0B5c1_0cbw7-UM3dtQ3dBZ3hWcmc"
+    },
+    "ECE 2040": {
+      "id": "0B5c1_0cbw7-UblNRZ1AwVlpZZEk",
+      "Other": "1rIgaznmRlReM28li7QasO6UOfmGX1eqT",
+      "Quizzes and Midterms": "1YuedxnyIMk-cvqFKOKhzy60yUdFsVurx",
+      "Homework and Notes": "0B5c1_0cbw7-UMlJGSkJOak1oeGM"
+    },
+    "ECE 2036": {
+      "id": "0B5c1_0cbw7-UUG5ld0dnWDZQckE",
+      "Homework and Notes": "1WU2cRzefJ9ZWVy3AvXi2kg7FNtZBg32a",
+      "Other": "18tvDH6x4C4pU68KehacX085SQG23STA8",
+      "Quizzes and Midterms": "1vX3OW_NkulnAcLpvKLTswzaZk9MdCvgp"
+    },
+    "ECE 2031": {
+      "id": "0B5c1_0cbw7-UN3JpazZyeTlWb1U",
+      "Other": "1JUN1Czhl5zAI5TIn0CZx7bV-U-tjJq8j",
+      "Quizzes and Midterms": "1ipYeCTiijhNquLFlY61fMMa7dSK6LGkg",
+      "Homework and Notes": "0B5c1_0cbw7-UUEV5RWNwT2g2OW8"
+    },
+    "ECE 2026": {
+      "id": "0B5c1_0cbw7-UTEFoSWhIWW9NRGM",
+      "Other": "1P8doMYXKerv-IyL5jVvz8dgAdcs_le6I",
+      "Quizzes and Midterms": "1Upuh3ppgCEbg1vjat4JPcJCnNEm6iv-p",
+      "Homework and Notes": "0B5c1_0cbw7-UX3pQdURHNFEzYVk"
+    },
+    "ECE 2020": {
+      "id": "0B5c1_0cbw7-UM1VDYjhXMFlqZlk",
+      "Other": "1iwP5VveQOpbQS7BTl3oYY3tC17YJKT3q",
+      "Quizzes and Midterms": "16OVbtRpXtJXHV9S0mlMnDn7VmMG3ZKqV",
+      "Homework and Notes": "0B5c1_0cbw7-UWXBsVjFIN0IydUU"
+    },
+    "Network Security: Private Communication in a Public World, 2nd ed - Kaufman, Perlman, Speciner.pdf": {
+      "id": "0B04l-XMi07VKOEFTMlBGclZHUm8"
+    },
+    "Energy Systems Engineering: Evaluation and Implementation - Vanek, Albright.pdf": {
+      "id": "0B04l-XMi07VKcUs3ZEhoWTdub1k"
+    },
+    "The Physics of Semiconductors: with applications to optoelectronic devices - Brennan.pdf": {
+      "id": "0B04l-XMi07VKWXFIcTRZSzhscjA"
+    },
+    "A First Course in Digital Communications - Nguyen, Shwedyk.pdf": {
+      "id": "0B04l-XMi07VKTFZsbW9LcTM3YnM"
+    },
+    "Bioelectricity: A Quantitative Approach, 3rd ed - Plonsey, Barr.pdf": {
+      "id": "0B04l-XMi07VKeXU1X081cTdVQ00"
+    },
+    "The C Programming Language, 2nd ed - Kernighan, Ritchie.pdf": {
+      "id": "0B04l-XMi07VKTk1oV3RHYV9FVVE"
+    },
+    "Computer Networking: A Top-Down Approach Featuring the Internet - Kurose, Ross.pdf": {
+      "id": "0B04l-XMi07VKR0tXdjFMZmlFbG8"
+    },
+    "Electromagnetic Compatibility Engineering - Ott.pdf": {
+      "id": "0B04l-XMi07VKM2hja3NtZEY5VWc"
+    },
+    "Event-Based Neuromorphic Systems - Liu, et al.pdf": {
+      "id": "0B04l-XMi07VKZGo3NHBfYWtGeGc"
+    },
+    "Foundations of Computer Science: C Edition.pdf": {
+      "id": "0B04l-XMi07VKN3k4cjJWU19VQ0U"
+    },
+    "Foundations of Analog and Digital Electronic Circuits - Agarwal, Lang.pdf": {
+      "id": "0B04l-XMi07VKbVNINWdaYTRpQWs"
+    },
+    "Fundamentals of Engineering Design, 2nd ed - Hyman.pdf": {
+      "id": "0B04l-XMi07VKcmYxX19FT1pSY3M"
+    },
+    "Digital Systems Testing and Testable Design - Abramovici, Breuer, Friedman.pdf": {
+      "id": "0B04l-XMi07VKSk1Md2FkQXEzZDA"
+    },
+    "Renewable and Efficient Electric Power Systems - Masters.pdf": {
+      "id": "0B04l-XMi07VKVUU0dE9qckJGbnc"
+    },
+    "Modern VLSI Design: IP-Based Design, 4th ed - Wolf.pdf": {
+      "id": "0B04l-XMi07VKc0lkRGtYV1ZzckE"
+    },
+    "Strategy: An Introduction to Game Theory, 3rd ed - Watson.pdf": {
+      "id": "0B7P6ZRWrsHNfV1hwV0RySWpfeUE"
+    },
+    "Design with Operational Amplifiers and Analog Integrated Circuits, 4th ed - Franco.pdf": {
+      "id": "0B04l-XMi07VKTEhMRDR3OHB6eXM"
+    },
+    "Analysis and Design of Digital Integrated Circuits_ISBN0072283653.pdf": {
+      "id": "0B04l-XMi07VKSkdYeTdxWG1oMGM"
+    },
+    "ECE Electives Info (Outdated - 2013).pdf": {
+      "id": "0B04l-XMi07VKQU9zQWFWU3Z1NEU"
     }
   },
-  "CHEM": {
-    "CHEM 1211": {
-      "id": "14XTqhC8KVg9cNXZB6vprc3jGUcS2Iwn7",
-      "Homework and Notes": "1KCkN3R-hkmr4jtdOWSe_XY5u_u-BA5LR",
-      "Other": "1oCbaqknkl-d8qA938wz3U9kMDffJp0S4",
-      "Quizzes and Midterms": "1GCOEo6RihSbeuNijIr9yZiHfgOnXTwTY"
+  "ECON": {
+    "ECON 4803": {
+      "id": "0B5c1_0cbw7-UQVdLYnMwUFNHVG8",
+      "Homework and Notes": "1zBnTiKgWB3-7fK-n8JE5BE3sVm7aY4IR",
+      "Other": "1pFheYLHDeDtF5Q95gbC0ByZMGrb-XjHs",
+      "Quizzes and Midterms": "1USjAfCvDHrYHxC3j0nf3cqiaZ7Lm6X4X"
     },
-    "CHEM 1310": {
-      "id": "1gF_elp9v6N_ppAXPRcs16LqLiS9iNAng",
-      "Other": "1ZEtGdLX-xb_PZayuKMYFA8zpLB6n6VNp",
-      "Quizzes and Midterms": "168alp7meLEVyVAG6hkT-1MoBcz3zUm13",
-      "Homework and Notes": "1C-yIXaaR34SCZJVRLTbjYKO6qvfUJkhw"
+    "ECON 4300": {
+      "id": "0B5c1_0cbw7-UaGFGRTBNa2pGeTQ",
+      "Homework and Notes": "1LO1DHVZxEYLv3FUkY0GWQZoFgJV5qz0w",
+      "Other": "1FKTOpqrQp7xbCebgGivGgF_iO2z_gKa-",
+      "Quizzes and Midterms": "1OUqOEyThPUWCvvNE2Qq1-9osZumX4aQu"
     },
-    "CHEM 1212": {
-      "id": "17inaGz40bdU9Xcr52PiQSbBMlfv0d_sg",
-      "Homework and Notes": "1HvPR72co6EQKdM6DN8ycbeMnDetDMde_",
-      "Other": "1CdiTEsakt8R9WbAjkLJsbMnevLKtzC5A",
-      "Quizzes and Midterms": "1BSYDTQYcvILZYIrGU96LRWcnLRYSxf8c"
+    "ECON 4060": {
+      "id": "0B5c1_0cbw7-UblB6MWVMZFRwYzQ",
+      "Homework and Notes": "1yiwotUENMWFictuo6EPCdDfGkH03xLvP",
+      "Other": "1SsuDMKeJ1BSxI0I3YI2OatqThG4LrXsA",
+      "Quizzes and Midterms": "1-Dc4wYMCg_081z6KcJTSkZCqVuUidrjL"
+    },
+    "ECON 3300": {
+      "id": "0B5c1_0cbw7-UekpmZk96dEViVzg",
+      "Homework and Notes": "1r8wpx-BWw4fc_kCu29mZYbgADAvFZPu2",
+      "Other": "1VQJaeQIJCldy9Ypyx9_UYkULaghX5wjK",
+      "Quizzes and Midterms": "14xULirUZKsSdoL19tXFqQwIqORbsTuIy"
+    },
+    "ECON 3150": {
+      "id": "0B5c1_0cbw7-UVzZoNUo2cWlpUFE",
+      "Homework and Notes": "1xF4mJCMCtvWxSe0u227AXnI-He0GGpLh",
+      "Other": "12qtmQrC78jZjakrZNUgSPCejnVi6VBqt",
+      "Quizzes and Midterms": "17RjLYes3pfdKkdlZSkoV9XmH4FMJ3y-c"
+    },
+    "ECON 3120": {
+      "id": "0B5c1_0cbw7-UM0YtTmdXbDhIZTQ",
+      "Homework and Notes": "1KPKeEWAorsdc1G3pQcQXR9avgqJ842nz",
+      "Other": "1mrVpzZQal4couxolHV1VPvE2wnDdu-ZX",
+      "Quizzes and Midterms": "1ucijgQ3xuvYewW-90YzDagANj7cF8vQS"
+    },
+    "ECON 3110": {
+      "id": "0B5c1_0cbw7-UaDlETFVpbXI0Rzg",
+      "Homework and Notes": "1cYNHy66LApv727vcuSTnDYA0mnru8H3v",
+      "Other": "1nrscXpSJUIB_QIg-55nYSKxmImOuSl5j",
+      "Quizzes and Midterms": "1t0blQUdDhil5lPqPyFy4wZpKVbyqe5RD"
+    },
+    "ECON 2106": {
+      "id": "0B5c1_0cbw7-UdThqeEs3V1R4RzQ",
+      "Homework and Notes": "1ksUzLUvbEdXiTpKIr_IGFOa1fSmB0QC5",
+      "Other": "10iHy0hBr_K8H2TdHhE2gywwV8un7IMOl",
+      "Quizzes and Midterms": "1csO2Ku0DoO1WrDWc9y3BYkRm1IfS73oK"
+    },
+    "ECON 2105": {
+      "id": "0B5c1_0cbw7-US2lHOVppRDYtajA",
+      "Homework and Notes": "1oTt6Mk2xTXFF-KC24Ho5AZcP-cKorLbU",
+      "Other": "1jvuU9VMmnbP6eeHsVxYQ3UotM7Ld5WNl",
+      "Quizzes and Midterms": "1U_czYqHZo8IEhK1jyUVgmcgcA0gx2Z8K"
+    },
+    "ECON 2100": {
+      "id": "0B5c1_0cbw7-USkIxSXNHcWVqQ0E",
+      "Homework and Notes": "12vGGKcpqPjG154VZGkFzgUj-XU2eDNZx",
+      "Other": "1dYif19u9wPJZ65GmHvMhC5yAxgjYoyqW",
+      "Quizzes and Midterms": "1OZKwCz7P_uFjxyFoMPLW2A0lI5DxMbxr"
     }
   },
-  "CHBE": {
-    "CHBE 2120": {
-      "id": "1w-bQx6dAtJzCqrvVgkcs4aCKUhbX4sye",
-      "Homework and Notes": "1Z5sSChYJl5qsdN3_gwKubYWFcZmHiu8P",
-      "Other": "17JJ6lPXZfddiAgyQuXpGvXvM-fV2QP3H",
-      "Quizzes and Midterms": "1XgBpcOBRbv39RmfWrfCLTx8WMxvk6KuQ"
+  "EAS": {
+    "EAS 4350": {
+      "id": "0B5c1_0cbw7-UaHk2UzlybXZDWmM",
+      "Other": "1Wv1_L1ARCbk912KiYUEWxrJ8ny88iJ6b",
+      "Quizzes and Midterms": "1BhqpsLvuwRC9rPqwYLu9Qwf7-3fErvwY",
+      "Homework and Notes": "0B5c1_0cbw7-UZWpvRE1Sd21rSGc"
+    },
+    "EAS 3110": {
+      "id": "0B5c1_0cbw7-UMG9Bb251NW9Nd1k",
+      "Homework and Notes": "1xcvQ65ZGAkgV3dAZuCuqpPHUIbbupAGL",
+      "Other": "1-YqbRZI0_hnZJnUI6hpspYpJIveigOg2",
+      "Quizzes and Midterms": "1_spHOgRQd0ULTVOZcCPbuxRXw_u6FGVe"
+    },
+    "EAS 2750": {
+      "id": "0B5c1_0cbw7-UbXVyVUlmZ19IZ3c",
+      "Other": "1uaJ5Irnx8pcjBEYFAVWSdzTVGH7CmLF3",
+      "Quizzes and Midterms": "1FD1zdko-6BrelFaby_XE7neoYougmqVs",
+      "Homework and Notes": "0B5c1_0cbw7-UeXlzMTAtdkdBbXM"
+    },
+    "EAS 2600": {
+      "id": "0B5c1_0cbw7-USS05bWtRSEliR3c",
+      "Homework and Notes": "1blsTt5hORCsITK2pX9c2HikyJOhqtETX",
+      "Other": "1dO7P2OHW9F9PVCtJ73yOucgV0fnxgQp8",
+      "Quizzes and Midterms": "1AMNVp_1ZmluLkPY-XxCEmBmf3lJCY17i"
+    },
+    "EAS 1601": {
+      "id": "0B5c1_0cbw7-ULTluX0czQ3lneGM",
+      "Homework and Notes": "1b923D2sbALhDOYrpfOVmcvMKdTmB1rm2",
+      "Other": "1RTP441_T84Tnhdo42Y6zYIHGqwHmMo5H",
+      "Quizzes and Midterms": "1ib10N8BuGDGVSWJeLZoZl4ZxjdKhbmzo"
+    },
+    "EAS 1600": {
+      "id": "0B5c1_0cbw7-UTmtZUXJtVXlKLTA",
+      "Homework and Notes": "1HkGESHinJ8T_80SnWc_dvUb4EbIu8Dce",
+      "Other": "1n7fN0xVO9s42e-frvZmFIw1HkcMyhbTI",
+      "Quizzes and Midterms": "1aV02AVxqSXpudiIDDLtBtrD9AF_nFxKt"
+    }
+  },
+  "CS": {
+    "CS 1331": {
+      "id": "0B5c1_0cbw7-USXdFYnJXUUZONGs",
+      "Homework and Notes": "1ERowRzkhZiMBsRe1M2ipb3PITQRbaeb2",
+      "Other": "16-EiP67sdF4L7_gHhruTbGpWFIYzinsu",
+      "Quizzes and Midterms": "1K0lZmYHX_iRQB9zP1urH5IA4Nyq3EYhv"
+    },
+    "CS 2340": {
+      "id": "17gD7VTDXjVDJU9XwVcncNDQc89Yyp_od",
+      "Homework and Notes": "1JgMCLlyQKpfh_9W3HrGyNklq_TbuL-5C",
+      "Other": "1PtsrPQkIouhKLJBsuSaKdTN1ir9-Y0cO",
+      "Quizzes and Midterms": "1-WsBlGQ9463Kto_Oo3Nl1uNueCiqkURl"
+    },
+    "CS 4641": {
+      "id": "0B5c1_0cbw7-UYXUwbUxtN2ZZNXM",
+      "Other": "1q-v_8FVEztxUSvWnBUHAs6UFkTvnrqBS",
+      "Quizzes and Midterms": "10kRazvyvVLz5tmUkygv3ex1XtfYQCHOy",
+      "Homework and Notes": "0B5c1_0cbw7-URVhZSVJzQlBNeTg"
+    },
+    "CS4510-Introduction to the Theory of Computation - 3rd Edition.pdf": {
+      "id": "0B5c1_0cbw7-UX0I5TXgtMllMWkU"
+    },
+    "CS4476-Computer Vision-Alogrithms&Applications.pdf": {
+      "id": "0B5c1_0cbw7-URWJnVW1lOGQzUnc"
+    },
+    "CS3251-Computer Networking- A Top-Down Approach.pdf": {
+      "id": "0B5c1_0cbw7-UVXg3Skh1c1JNdDg"
+    },
+    "Artificial Intelligence - A Modern CS3600-Approach 3rd ed - S. Russell, P. Norvig.pdf": {
+      "id": "0B5c1_0cbw7-Uel94VTJWSG1uaWc"
+    },
+    "Java Software Solutions_ Foundations of Program Design (7th edition).pdf": {
+      "id": "0B5c1_0cbw7-UUDRQbk9SUURaWlk"
+    },
+    "The C Programming Language - 2nd edition.pdf": {
+      "id": "0B5c1_0cbw7-UMnBSQmtjRXIzOWc"
+    },
+    "CS 4460": {
+      "id": "0B5c1_0cbw7-UczBrY1NfYXJKTE0",
+      "Homework and Notes": "12dd17tLP8c1B44bq6MVv6pgMhIl2ztAs",
+      "Other": "1P2QJ6QiaVUnOCXEQrD1_HMpG9Ju9P4yK",
+      "Quizzes and Midterms": "1_M51fk67ov2u8ay09Mu2VvliN1vBwamx"
+    },
+    "CS 4400": {
+      "id": "0B5c1_0cbw7-UUHFaX3BtaUc3SVU",
+      "Homework and Notes": "11eyRkMwxXhsA0lvqG_Hz_Hwlvkk_0dR8",
+      "Other": "1MiMmfDMNuqSAv3qOvnjPQfJMGYOibygU",
+      "Quizzes and Midterms": "1qYObkrp1Dq2wBPbUAzSNk8MtialrNyBN"
+    },
+    "CS 4235": {
+      "id": "0B5c1_0cbw7-UYXpsb1dzYVY2cnM",
+      "Other": "1XDo0vJrhdafLKcodO2oWR1i9DlQabJiz",
+      "Quizzes and Midterms": "111ynCaL9kVwGryF7kRYWuNfOr9U-TQyx",
+      "Homework and Notes": "0B5c1_0cbw7-UZnRDUXl3WlRJOGM"
+    },
+    "CS 4010": {
+      "id": "0B5c1_0cbw7-UakN6LW9FT2RlY0E",
+      "Other": "1qPkg3FugJ2_95XkhooqILLZdRIpx4SgA",
+      "Quizzes and Midterms": "1tPC-kU_-WzkWsvEJOje6YnuZ032BWCzj",
+      "Homework and Notes": "0B5c1_0cbw7-UWjFRdnl5eUVXRUE"
+    },
+    "CS 3750": {
+      "id": "0B5c1_0cbw7-USURldmxPZHc4dHM",
+      "Homework and Notes": "1DLqGSxjDD_9XJGn9lrbX3ypC9ArOyd_4",
+      "Other": "1MXGw89iBy-lVswzmLbO6z8OXy1pwiAKr",
+      "Quizzes and Midterms": "1caQ1_CtIYvC7LNLJA7vuvT9SzjIxn7tn"
+    },
+    "CS 3630": {
+      "id": "0B5c1_0cbw7-UZkpsNWdBTWh3ZGs",
+      "Homework and Notes": "1CNB3tFVb3wOjih_0lcD_qWb_9FSgE2vU",
+      "Other": "14oiLEcotYUi2hKYCWZsObZfLqo7m_ton",
+      "Quizzes and Midterms": "1PeDLZTN9oWaBZgrPoVZJ4edQ3g9Q9HpP"
+    },
+    "CS 3600": {
+      "id": "0B5c1_0cbw7-UWUZNQXdSRzZNLVU",
+      "Other": "1pzksrCf4w5WzE1Nf2WIqqoHHAfeRwtzG",
+      "Quizzes and Midterms": "1We3cVCnP6k8GeG9kcE9DleDIORXYZk-P",
+      "Homework and Notes": "0B5c1_0cbw7-UMFpSckk2aWJ5VHc"
+    },
+    "CS 3240": {
+      "id": "0B5c1_0cbw7-URUF2bnlJNXVMRms",
+      "Other": "10grgKgusv61cTfFeylHJ6Y8T8Hikdmzm",
+      "Quizzes and Midterms": "1Oh66PDvPIb51MmNH_G5rramRawb0jfWx",
+      "Homework and Notes": "0B5c1_0cbw7-UOUVDdjNJQ080MWc"
+    },
+    "CS 2316": {
+      "id": "0B5c1_0cbw7-UTzhzcGFLdDU0Z2M",
+      "Homework and Notes": "1TaPJPMASv29_gGDWfl9_WCB9JLRdg0jX",
+      "Other": "1H5CcKIC3wTNgoDbEwWtdbV8JHf1MHCml",
+      "Quizzes and Midterms": "1ygBB_9OpQGV5R6iNJIEy695kv8_gOHFX"
+    },
+    "CS 2200": {
+      "id": "0B5c1_0cbw7-UODJ3WEtjanRKN0k",
+      "Homework and Notes": "1jAS5cqOQimidzFDmsc16clbddRa3eTOu",
+      "Other": "1-rXLvs8raI7F7BkDnc9AKU94W_jbOWy2",
+      "Quizzes and Midterms": "1zod5n7ak029W8nTttVMx6XxPWZ3VgGts"
+    },
+    "CS 2110": {
+      "id": "0B5c1_0cbw7-UOGhhaGdCaGtVWlE",
+      "Homework and Notes": "10Lh9tfgwrky2AAIRdgmjYm3Depq6RJZJ",
+      "Other": "18HRqmFiAZQv7R9ojKmobragQCXchOQ87",
+      "Quizzes and Midterms": "1zikkPUtOZAVsvIntfLHKA69YIQ3KpW4D"
+    },
+    "CS 2050": {
+      "id": "0B5c1_0cbw7-UR0JGUE5sTS1KOUU",
+      "Homework and Notes": "1xflEghtS9_GnXBgMMWfLZeK080GQL1mh",
+      "Other": "10tF8vFHk3N5Ki5R63BEZBLw--WUEuSo2",
+      "Quizzes and Midterms": "1W15AWIg3GZ0Gvs4LMoG3uINL1m7JiOn-"
+    },
+    "CS 1372": {
+      "id": "0B5c1_0cbw7-UWV9EcENfTVYwRGc",
+      "Other": "1uSmOvu0xlms0ExHXxfLMLiRb9aQwppK4",
+      "Quizzes and Midterms": "1LtwfAtxzhS1xusMzxi7MQsoMkila1G42",
+      "Homework and Notes": "0B5c1_0cbw7-UVTBLekxlckxLTVE"
+    },
+    "CS 1332": {
+      "id": "0B5c1_0cbw7-URjZHcUxxVnNRd00",
+      "Other": "1YPdLJlcXPxJKhedIVU_nH9RbMjxK9Hlo",
+      "Quizzes and Midterms": "1R2YA_-uoHpRJ5MyEdOddJ-kcRXxt6ErK",
+      "Homework and Notes": "0B5c1_0cbw7-UV19HSEIwaWYxUFE"
+    },
+    "CS 1316": {
+      "id": "0B5c1_0cbw7-UR2xQSnZZY0V6aFU",
+      "Homework and Notes": "1V6Pj9esJrq-a0Q0Wu0dHZtB46rrK0uol",
+      "Other": "1EHvbTzQPMnz14O1b9VfSXdHD8D0OsJbh",
+      "Quizzes and Midterms": "1zDT9m5fiIWCsx4Zk6xCD24lPj11rVtYg"
+    },
+    "CS 1315": {
+      "id": "0B5c1_0cbw7-UT3pNVnYzeXJ2aTg",
+      "Homework and Notes": "1doaXlYk5YpCOlznXuOsZ-xmqeW6Uxgul",
+      "Other": "1ksDqyKqtlP7EbR1baDO-FM1cWoAPbBx0",
+      "Quizzes and Midterms": "1yO3SqGUGNh11WHzqS_J7vWabv7gZgnKy"
+    },
+    "CS 1301": {
+      "id": "0B5c1_0cbw7-UcmdyaG1HTU94b3c",
+      "Homework and Notes": "1TgWP0-sjFEWBbDVIzr9Br1_OE4glRL5y",
+      "Other": "1qv_bBlg-8YjKYdn7gWHco7cxc22YxfDQ",
+      "Quizzes and Midterms": "17dH862uf4s-WypnekYiWrATraouZ-gth"
+    },
+    "CS 1050": {
+      "id": "0B5c1_0cbw7-UXzN0T2x6SnhCOFE",
+      "Homework and Notes": "1Aley9ydGcjWCI9TRpHO-2-ghqdCb_FxX",
+      "Other": "1cvEMy2IbNEPcsvb7l7QLds9EpWU_uZmM",
+      "Quizzes and Midterms": "1jAgFy1enPu-xHcNnbU_os82B1-SCYLPk"
+    },
+    "Absolute Java.pdf": {
+      "id": "0B5c1_0cbw7-UMV9RVGtIaXN1UVU"
+    },
+    "CS 1371": {
+      "id": "0B5c1_0cbw7-UWnlhczdRTFFOdGs",
+      "Other": "1lG5ORmiZ4hrMHD6_Y_LQzqvrimnlGod2",
+      "Quizzes and Midterms": "1BLlI4Djh6fPGbt5Ls4RwR47w3MCKJ132",
+      "Homework and Notes": "0B5c1_0cbw7-UbDNfMjh0Skl6dmM"
+    }
+  },
+  "COE": {
+    "COE 3002": {
+      "id": "0B5c1_0cbw7-UWVBRY3BQUGZDTUU",
+      "Homework and Notes": "1DxU6pHGgYdmHrDDfpXjUEFg2XnNaUIqh",
+      "Other": "1oJ6fLf8fwAO3-8fLK2V28jH_E6qbOMs4",
+      "Quizzes and Midterms": "1WsSzP86ZOi360Ol0eJ6DdKi3CimbkU6v"
+    },
+    "COE 3001": {
+      "id": "0B5c1_0cbw7-US3E0T0dpQ3h4VE0",
+      "Homework and Notes": "1-XL9rDUm-w1BKRoyBxVgScrTe0419rpk",
+      "Other": "1RAaR8hX_LE9EFyl7bV0lap0OxAUuVqnZ",
+      "Quizzes and Midterms": "1A0fWoTTrVp-Ms5vV1ygWXMcqqK9yBpmc"
+    },
+    "COE 2001": {
+      "id": "0B5c1_0cbw7-ULThfeDRnYjNNRHc",
+      "Homework and Notes": "18FvROV1gIWcA7tLQupa8cslUqvx_R8O8",
+      "Other": "1x71mnr95_o6uyynTjmYsII9VotSweY7y",
+      "Quizzes and Midterms": "1ktQ230RoBCSSiPi5lLv8VXoV3d5gYpHC"
+    }
+  },
+  "COA": {
+    "COA 2242": {
+      "id": "0B5c1_0cbw7-UMXpacnpiVTRseDA",
+      "Homework and Notes": "1iuViFKeQoKHF4SjzzOdkCITPVleODrF3",
+      "Other": "19TBudAvXY99Hby0xCaj63xIPXES_7exU",
+      "Quizzes and Midterms": "1onrW19jirAEv9Hlu1ylg_Q-3ogS5sLhL"
     }
   },
   "CEE": {
-    "CEE 4600": {
-      "id": "1uTcgd3ka4nceAFZvlU4LKH0ig5cS8YJb",
-      "Homework and Notes": "1gYFHyWvtbFus7_swqSNaU5Yz2-MMVdL9",
-      "Other": "1RHXIjpwgHQqnfr-wmDA_Ramb3xGF7AUi",
-      "Quizzes and Midterms": "1Ak_vftkR8bedSqnV1vRrtSD_VawtX62y"
-    },
-    "CEE 2300": {
-      "id": "1P_PX8G_KRnp4CMybmC4KPYoJt56oUc1N",
-      "Homework and Notes": "1aWW7pLw9ntfg5d4bE6-FE7q164hIjfoF",
-      "Other": "1BNaIhBSTXjH_3BwsPSFG5tQwe1extFO-",
-      "Quizzes and Midterms": "1rrj7olC7eWgN2LzbxhhqfXnS5s897NmP"
-    },
-    "CEE 2040": {
-      "id": "1JDHLHMPkZpQL7-xcPtmqkzrgTXS6KcGB",
-      "Other": "1dULiM3Id3OQ0ASQfdec9EOns2WMX-GxM",
-      "Quizzes and Midterms": "1wscXsny1ApM_L6N1uGKoFuzib35YmXRV",
-      "Homework and Notes": "16pwqft05_wkLOGkTFeS3TpuK-6vUs1J5"
+    "CEE 3001": {
+      "id": "1EgDlnPrDabjndkWu0Zd-77mNffpl3LFY",
+      "Homework and Notes": "1ORH37kzn9G1pSFWljIbRZygIJaCEtESX",
+      "Other": "1M0KlKJDGGwfCfoAKv-MSOvG70WkxK10L",
+      "Quizzes and Midterms": "1cVhAJU9JbgC_jiIXjYLX0G1vBPV3gbDt"
     },
     "CEE 3020": {
-      "id": "14TUGlOf1GqhUH7nV23tuVWEWhL1eDIuw",
-      "Homework and Notes": "11gmbGOzuQd2E5AJwfVsJnbu3CZFOPgYt",
-      "Other": "1AC9V2HmE_ICma0xMPnJOi31jfuatKRUh",
-      "Quizzes and Midterms": "1svXSD3Fw_k5cOn0kXNvSYrzKAP8m8A1O"
+      "id": "0B5c1_0cbw7-UQWhORU44dkVINmc",
+      "Homework and Notes": "1b0F9IBdRQJ0m54uMwaLMeO0wyCa0pLNH",
+      "Other": "1Vnx6KSmGOGasKMY2y_c0y_RaWAb2PUe7",
+      "Quizzes and Midterms": "1nmrRHhaeCpzYHmxCcNBKyzfH66cgMLp8"
+    },
+    "CEE 2040": {
+      "id": "0B5c1_0cbw7-UbVpaUzBZa3NaWFE",
+      "Other": "1nhm_c89oA8nZMjtEHWUbyGz9YQTku_cx",
+      "Quizzes and Midterms": "1zSs05Tr66WCCPQtyHGPCrhL6RZFIjLAK",
+      "Homework and Notes": "0B5c1_0cbw7-USHZlSDV4R05aSG8"
+    },
+    "CEE 4350": {
+      "id": "0B5c1_0cbw7-UZDRVSEt2TDIwVFU",
+      "Other": "1HjS0oYu2R2Q239YyJytYH66KlC_kaa5j",
+      "Quizzes and Midterms": "1jkOTRJpd3Tn7enbREPvw6EEUzEkjRpD3",
+      "Homework and Notes": "0B5c1_0cbw7-UWW1nZnE3LXRIMTQ"
+    },
+    "CEE 4210": {
+      "id": "0B5c1_0cbw7-UZ1lVekllMlhyVWc",
+      "Other": "1px1KLKkogOyMBE2FtJvwH_P-zUDfVOoc",
+      "Quizzes and Midterms": "1hAuOQZsDOR9dQYAiWy7iMNb9OnjLtXQC",
+      "Homework and Notes": "0B5c1_0cbw7-UTklBMHRXVmdOZ1E"
+    },
+    "CEE 4620": {
+      "id": "0B5c1_0cbw7-UZGtjM2x2WklLRm8",
+      "Other": "140m9l42-XcaEQFIXitxuVh1C4TOT8IoE",
+      "Quizzes and Midterms": "1z0QCgkEwJIWviRhE5kYhsm6ueVP844y0",
+      "Homework and Notes": "0B5c1_0cbw7-UWjRhVVI4SEo5QWs"
+    },
+    "CEE 6527": {
+      "id": "0B5c1_0cbw7-UUGtkbUJvMERNbmM",
+      "Other": "1bPi1Xvtwt3jDXN0WcMwUrg0scAp_T9Df",
+      "Quizzes and Midterms": "1VoQkpwNOJ2OczqBwpbIceGNCO9-edeYh",
+      "Homework and Notes": "0B5c1_0cbw7-UQzB0WHVCY2toLW8"
+    },
+    "CEE 6521": {
+      "id": "0B5c1_0cbw7-UUGtieEJHVkhSNG8",
+      "Other": "1fDwnpvuQjeIhgtg_u5dfPIeUswvS_zJA",
+      "Quizzes and Midterms": "1RsbvyDByvwtktJ6rIiWr5sP-IiKZAPrj",
+      "Homework and Notes": "0B5c1_0cbw7-USGgtcHNvUG9RVVk"
+    },
+    "CEE 4803": {
+      "id": "0B5c1_0cbw7-UNFVFUUNoTW9Nd2c",
+      "Other": "1681SAsDRNdScjPCmr5tOT71h77A5q-1T",
+      "Quizzes and Midterms": "1dlpTysaP7iAxW074J8al7U13WG2eCTQ4",
+      "Homework and Notes": "0B5c1_0cbw7-UdnJXUlJ6SlFieU0"
+    },
+    "CEE 4610": {
+      "id": "0B5c1_0cbw7-UU3dHbThUdVotaGs",
+      "Other": "15F6DpE5DXZ_hI4Uvo1RqeYVTNxzWNXEX",
+      "Quizzes and Midterms": "1ASFJddTJEFNybrk_X-XrtKIJH9SsMhC8",
+      "Homework and Notes": "0B5c1_0cbw7-UYW45VTNGOWRCMWM"
+    },
+    "CEE 4600": {
+      "id": "0B5c1_0cbw7-USFVrX3BMajlsaVU",
+      "Homework and Notes": "1NS-2a5PgAqowM1GKEG93dU4eRVvFOTiP",
+      "Other": "1Ef0rRYRzZ-WvQ0P1DYXF17PIVV6rXMDh",
+      "Quizzes and Midterms": "1PcwaKwG4qZHCkJ8MJSP4837z3WFgQcmi"
+    },
+    "CEE 4530": {
+      "id": "0B5c1_0cbw7-UYVAxRjFnblZhMDA",
+      "Other": "11m2y6oIQs0m5Lh7IhEPri_HNYo9z3X4p",
+      "Quizzes and Midterms": "1dzhAQYAmjgRaEvRY-QSNPai6piNUOH3v",
+      "Homework and Notes": "0B5c1_0cbw7-UUl9rM3BTQU1Tb2s"
+    },
+    "CEE 4520": {
+      "id": "0B5c1_0cbw7-UVXVzN2tKMndXRVE",
+      "Other": "1KsewsvpUpO7aqVKfGeW7JOf5cSbBJAmA",
+      "Quizzes and Midterms": "1-F04NApS_9KdxXQu0MVuQMJ8z9SiHMPI",
+      "Homework and Notes": "0B5c1_0cbw7-UWFlXRVdtN1kxUWM"
+    },
+    "CEE 4510": {
+      "id": "0B5c1_0cbw7-UNUhWeXVMRTVoSUE",
+      "Other": "1Nn8ye7WJoldh94wLhP35jyI2yDzG4ZHb",
+      "Quizzes and Midterms": "1pPOkxe42p0UPm9w2l43o2PTQULZIosjQ",
+      "Homework and Notes": "0B5c1_0cbw7-UZVlWRG9ZSHRwSmc"
+    },
+    "CEE 4405": {
+      "id": "0B5c1_0cbw7-USm5MWG5GcW9sRXc",
+      "Other": "1n_94pT7L-Ig4u4Hs1tEReBLZqnCtABva",
+      "Quizzes and Midterms": "1GG-PKY19vBor9tgcbjOI1aZpZPboVSUo",
+      "Homework and Notes": "0B5c1_0cbw7-ULTJBY0Vjc1ZTU2s"
+    },
+    "CEE 4400": {
+      "id": "0B5c1_0cbw7-UWm9aNnUtSklXNlk",
+      "Other": "1FOPk_q3hzCSPBLB2-_j1h_qayLsH6m-b",
+      "Quizzes and Midterms": "12ShaD6QwI2Uv0hRjIHG5fZnHTIVYu5GG",
+      "Homework and Notes": "0B5c1_0cbw7-UNmoyQzFqMTI2TFE"
+    },
+    "CEE 4330": {
+      "id": "0B5c1_0cbw7-UN0x6M3Myck1TSDQ",
+      "Other": "1reCslVph5TRgcr7hT-oQ8v1DDe9X2zzn",
+      "Quizzes and Midterms": "1RYX0ynvXiVANcIb0dS1Fc45ziyFKckAf",
+      "Homework and Notes": "0B5c1_0cbw7-UNHBiak1lYUVMbkE"
+    },
+    "CEE 4300": {
+      "id": "0B5c1_0cbw7-UTjR2Q3BicjhNM2c",
+      "Homework and Notes": "1ALut-9gRQMd178ouZJra79GDFzi0lk5W",
+      "Other": "12zu92o4WVi-gVhXPl6jkoNa6CW8NTSWg",
+      "Quizzes and Midterms": "1QCDPH9lA0t0TXjF33kGTsclNM1bIWHt2"
+    },
+    "CEE 4200": {
+      "id": "0B5c1_0cbw7-UcjVxeEJOM3hkNEE",
+      "Homework and Notes": "1IzjJFRvV2BFscxxD8dDYIuWbn7215lR8",
+      "Other": "12w2G6AcFUO6A5QpsqY4t-ygSknV7UnBa",
+      "Quizzes and Midterms": "1HbKou1UrmvZmKNaxSmmPaoPrjQxYeKZQ"
+    },
+    "CEE 4110": {
+      "id": "0B5c1_0cbw7-UQ25yTS1NZ1E5VEU",
+      "Other": "1p5VTvLnnkreuhrFzQEiJO7kyz5HM8y1P",
+      "Quizzes and Midterms": "1pzK271dIB-1Rfm_bIAZqXdYQcAOtTa55",
+      "Homework and Notes": "0B5c1_0cbw7-USlBpQnQ4XzZsbUE"
+    },
+    "CEE 4100": {
+      "id": "0B5c1_0cbw7-UejF1TU1aVm9mS1E",
+      "Other": "1NTmJLwzhjDsaeV-t0gsCu_PHBds_bsJ0",
+      "Quizzes and Midterms": "1CZWAc3YIj31VdUz58zI_o77sUQiHBozW",
+      "Homework and Notes": "0B5c1_0cbw7-UZngxdHdGT1hXZlU"
+    },
+    "CEE 3055": {
+      "id": "0B5c1_0cbw7-USVRISmZ0eHZ0N3M",
+      "Other": "1YBbor5dZln9eA-z9LBpxK4JPSmDJvn5c",
+      "Quizzes and Midterms": "11wOzOUv6FNVUJSibvwSQ2S5KvetCkxxG",
+      "Homework and Notes": "0B5c1_0cbw7-UWVlKNkU0YWRSZmc"
+    },
+    "CEE 3040": {
+      "id": "0B5c1_0cbw7-URGwyZjBKQlVHczA",
+      "Other": "1TcvnNp-vpcsRm7_1PqWOtPdY0SA4--Yv",
+      "Quizzes and Midterms": "1gTSvfTrWCXuEnia4yLY05WnVRlrN3myU",
+      "Homework and Notes": "0B5c1_0cbw7-UbkkzcE8yQWYxSms"
+    },
+    "CEE 3030": {
+      "id": "0B5c1_0cbw7-UdHd4SUo2RG5ucU0",
+      "Homework and Notes": "1JFnLAJOOX4y4mmLoZo9JVU5T-ZGXBzZ4",
+      "Other": "1noUAg576nK0lk23PKfNY_nM1G5uJizYc",
+      "Quizzes and Midterms": "1tNm6Ea3xhBgdTUhjmHGLuPHJxvLn8NFI"
+    },
+    "CEE 3010": {
+      "id": "0B5c1_0cbw7-UbnBtcENWdUhDT28",
+      "Other": "1SFjeaGaZBSkjNooas44MOVeN3FSQXCr4",
+      "Quizzes and Midterms": "1n1GU1H5X8QmCboACbYvLwYr3yneSBoEQ",
+      "Homework and Notes": "0B5c1_0cbw7-UMXg4MzhsblRwSGc"
+    },
+    "CEE 3000": {
+      "id": "0B5c1_0cbw7-URVRIT2hvQ2Q5QlE",
+      "Other": "1k-b24kPz5kUPeLtq9tw44bNtq1fK_FOn",
+      "Quizzes and Midterms": "1oaetm4qeP2HwSv6Nt0PBLkWwbOGfATcd",
+      "Homework and Notes": "0B5c1_0cbw7-Ub0VBWU1RSHM5eFU"
+    },
+    "CEE 2300": {
+      "id": "0B5c1_0cbw7-UeU1URWhfR00wdDA",
+      "Homework and Notes": "10siC_K0dURSvz-PjK_7M7sgBeJN7jeQZ",
+      "Other": "17KVsk2UqwKKCV_GVWi4NdQ1n5fEREltn",
+      "Quizzes and Midterms": "1-8Os1VPjF7nLEsrBINlqjj2zClAz9aMa"
+    },
+    "CEE 2020": {
+      "id": "0B5c1_0cbw7-ULXU1WlliRGxUdWs",
+      "Other": "1ur9TM5AtmlEjcGeXQODVub9C4JEq7lZb",
+      "Quizzes and Midterms": "1Y20dWO8Szj0WW41j-mToYdsFz0jz6Cbd",
+      "Homework and Notes": "0B5c1_0cbw7-UV0VpR3NlZDRXcUU"
+    },
+    "CEE 2010": {
+      "id": "0B5c1_0cbw7-URm5FS19yV20zcVE",
+      "Other": "1wwDYR1RgYSNy_dx2RklFPfRsaE2gakl2",
+      "Quizzes and Midterms": "11VEhI2sGEIqqESqlaJP7TBShKN4Y9iWl",
+      "Homework and Notes": "0B5c1_0cbw7-UVVVvS3hnOUs1Rlk"
+    }
+  },
+  "CHEM": {
+    "CHEM 3211": {
+      "id": "1yynEj4UWNqQv5vUJ5Y4vFL5A2Vsry87m",
+      "Homework and Notes": "1GSRPSzmQ1KBKf9X9LO5f13LIx_cIxAlh",
+      "Other": "1yd7FY5pXzk2XkiHpIQpKXEDIyNvD7Wph",
+      "Quizzes and Midterms": "1-kc18GNCpPqgen5z2h3QvAnE32FO2add"
+    },
+    "CHEM 4512": {
+      "id": "0B5c1_0cbw7-UQUl4Y3M0dXdEY1E",
+      "Homework and Notes": "1BXza3j3lvay0niRl1Z7ei_GCAWjwLTW3",
+      "Other": "19Ddek2hgwHN55TMzYR1wi2oRPmslMPMK",
+      "Quizzes and Midterms": "17hFzCQazfKwI57XSQ17639yGI14o3W10"
+    },
+    "CHEM 4511": {
+      "id": "0B5c1_0cbw7-UUjd2bG44SzkxUzg",
+      "Other": "1cqnaxfgDfwpRQCuUzLaqOl9Qhq6PYb39",
+      "Quizzes and Midterms": "1oGTBKjDFZto6giV3VPH7dcZ8UrufIabN",
+      "Homework and Notes": "0B5c1_0cbw7-UT1hGVllXS3VqVFU"
+    },
+    "CHEM 3511": {
+      "id": "0B5c1_0cbw7-UZU1aSGplMTlfWmM",
+      "Homework and Notes": "1fpUlZORDsVAcT5284AZ_GnUxlzZTU8mK",
+      "Other": "1Xcl4JSS0vquPeN4AzoaAtXPLzpLIFDxT",
+      "Quizzes and Midterms": "1I0phnHl6tNw9J22AjIhLL0tHtUgfd9uY"
+    },
+    "CHEM 3371": {
+      "id": "0B5c1_0cbw7-UMXE1ZnZuNDhWN0k",
+      "Homework and Notes": "1lGx5Lc_TLo3pE-tqtlWnxqHj1CDWRgg0",
+      "Other": "1y-g_Ab9Z2tjhLe0qVcR7ehx2JGynzePM",
+      "Quizzes and Midterms": "1IRu7CjN9bi6f9Ol0OKpY8TNQr0sobda4"
+    },
+    "CHEM 2380": {
+      "id": "0B5c1_0cbw7-UYzY3aWlQNlpnSWc",
+      "Other": "1_nIOzTMNh8a4YLC2wkzoeJR7MrylOV6q",
+      "Quizzes and Midterms": "1VPmY2oOPrRoqJuEuJswrUEBUBEyb9xf0",
+      "Homework and Notes": "0B5c1_0cbw7-UUlVZLWxHNEtxNms"
+    },
+    "CHEM 2312": {
+      "id": "0B5c1_0cbw7-UYkFZVVBpTjBFblE",
+      "Homework and Notes": "1OtCFnLZdMunuKzPMLg6Mkky8iq4vwQfm",
+      "Other": "1mCrXTZXga-neC1uuSA1AbMMo4RT_hFoR",
+      "Quizzes and Midterms": "1jnRH4aAqmZ7Yusx8XTLmjHFCGPSjd2vs"
+    },
+    "CHEM 2311": {
+      "id": "0B5c1_0cbw7-UbTdqcEZvUWF6TTg",
+      "Other": "1Z6uaYVh_nYBAc-mpETSANHWGJqgGl0Tp",
+      "Quizzes and Midterms": "1M4j14kp0Cies2OEbuSLAnGYvmVm0o9E8",
+      "Homework and Notes": "0B5c1_0cbw7-Ud2hkWTAzVldLaGM"
+    },
+    "CHEM 2211": {
+      "id": "0B5c1_0cbw7-UdTh1cWhmWWNqZWc",
+      "Homework and Notes": "1lt77AhStC--NbeyWnG2gL2l5o1Q9KUiF",
+      "Other": "1t1NvHr-DOorU3nA9UcpjrK8iL9iG93hX",
+      "Quizzes and Midterms": "1dSxbWZ0ow5QN6ETPFP1vkw8KNbgQMGL6"
+    },
+    "CHEM 1315": {
+      "id": "0B5c1_0cbw7-UTm1CRDBTeEhiU2s",
+      "Homework and Notes": "1BBl716WaCrvcDQ5aKXCOjvJJPNBRQQd4",
+      "Other": "1uYT8ffsIs3sho64gGvmjsNKWKDsqtbJ1",
+      "Quizzes and Midterms": "1nOH8yQ9FGXq37xxrNFRlbM1O6UA8xwV-"
+    },
+    "CHEM 1312": {
+      "id": "0B5c1_0cbw7-UeGtKWGxvbGJuNXM",
+      "Other": "1tcOdByvyb0crmR5rHixqRt89Z_egiSTE",
+      "Quizzes and Midterms": "1pkbf-pR34A2Pmd96Bt29_AkJ6VLVZTkc",
+      "Homework and Notes": "0B5c1_0cbw7-UZGdIb09UaGZkXzA"
+    },
+    "CHEM 1311": {
+      "id": "0B5c1_0cbw7-UMVhkbzE4YlFuLW8",
+      "Homework and Notes": "10uJBoYUFUV6npFgKrMBseCDJt1L4o3bW",
+      "Other": "1ogXpq237nf8Gq62u3O5xDzElsAqBSbed",
+      "Quizzes and Midterms": "1yZNgqcQhvrMasFggsNbKy8V1pHGqmFy0"
+    },
+    "CHEM 1310": {
+      "id": "0B5c1_0cbw7-UZFhpQVEzRndQWW8",
+      "Other": "1ClXJ1yoIqGkn1sWyJ0zGWThKjUyzks_N",
+      "Quizzes and Midterms": "152vyz4ZiguqtwDBdWw3F8tZWy7NIhmS1",
+      "Homework and Notes": "0B5c1_0cbw7-UMDFydkl0TXdkM28"
+    },
+    "CHEM 1212": {
+      "id": "0B5c1_0cbw7-UeFlLM3NvVFRqazQ",
+      "Other": "1WiB8K3CXquhsDSEN-MxHDMUsa2O9WvFc",
+      "Quizzes and Midterms": "19oucmPzujFMO3hxZD_dW3aXzfM4MY1Cp",
+      "Homework and Notes": "0B5c1_0cbw7-UZzdobHRQcTIxczQ"
+    },
+    "CHEM 1211": {
+      "id": "0B5c1_0cbw7-UaWU4MzFNS0lBbTQ",
+      "Other": "1JJgqS6c0tdgaxle9HxyMOlQSWUrCbRxs",
+      "Quizzes and Midterms": "1jJzl1ulWec7GqGH8qRU5vIetgi9g1dPa",
+      "Homework and Notes": "0B5c1_0cbw7-UOTU4X1RKRDdpTG8"
+    }
+  },
+  "CHBE": {
+    "CHBE 4411": {
+      "id": "1FmXo-IlC2a63DNfY7dXGbWeIngwzkMkm",
+      "Homework and Notes": "1m7ySuwtx6Hati2trPv-EpbOLKHYz3HfS",
+      "Other": "1dF30uIFVkvBC6lib6EWuncG4VorjZs5-",
+      "Quizzes and Midterms": "1asconGt6kNWY5toX496rpOoamRTHiTVG"
+    },
+    "Richard M. Felder, Ronald W. Rousseau, Lisa G. Bullard - Elementary Principles of Chemical Processes. 4-Wiley (2015).pdf": {
+      "id": "1f_jGyXEbH1E9NYG3ubMGqNXsQihc3KyF"
+    },
+    "CHBE 4511": {
+      "id": "0B5c1_0cbw7-UczBaaVJqZ1VhcXM",
+      "Homework and Notes": "1ZM6LCuTPY3hF27Ee6HvAdw-hXHvFTP4T",
+      "Other": "10DVPspPg8I4T4cTYnyE2e4pc82SIQsS6",
+      "Quizzes and Midterms": "1g2OciqKeA-H27-9vy4Bw1KbC_J0_UpM5"
+    },
+    "Elementary Principles of Chemical Processes.pdf": {
+      "id": "0B5c1_0cbw7-UOVJHRWZTbHA1ckk"
+    },
+    "Solutions - Fundamentals of Momentum, Heat, Mass Transfer 5e by J. Welty, C. E. Wicks, G. L. Rorrer, _ R. E. Wilson.PDF": {
+      "id": "0B5c1_0cbw7-UczNFT1VzOHRiZTQ"
+    },
+    "Fundamentals of Momentum, Heat and Mass Transfer, 5th Edition.pdf": {
+      "id": "0B5c1_0cbw7-UOHAwalU3U3J1MUk"
+    },
+    "CHBE 4535": {
+      "id": "0B5c1_0cbw7-UYjFiWkNaalBuZ2M",
+      "Other": "1do1IXaE_s5yfLn7ORmLPDKjg2njOPT-V",
+      "Quizzes and Midterms": "1lqZdCqCXWA-CThHpaGIxuIoslzMzpcAu",
+      "Homework and Notes": "0B5c1_0cbw7-USEFlZTZSVVJXY28"
+    },
+    "CHBE 4510": {
+      "id": "0B5c1_0cbw7-UVVRJQlY0MmJjZ2s",
+      "Other": "1jxjpjtzWqh-B3R94A1eMX27e4qIMYXzt",
+      "Quizzes and Midterms": "1Hsszrwb06i4eLrfn_vFdSRI7ZEetwQIM",
+      "Homework and Notes": "0B5c1_0cbw7-UTEZyb3BzNncwdlE"
+    },
+    "CHBE 4300": {
+      "id": "0B5c1_0cbw7-UdENKTW9aZkFaYUU",
+      "Homework and Notes": "19DDrEWa8yvgt3tSCU7CvN7v5PK7BsMza",
+      "Other": "1XP45FeuOcJ8aGkS72FL4NicCYdxM35AJ",
+      "Quizzes and Midterms": "11OBhWm1MfqBWvWVaYEmshqYMM8cd98IB"
+    },
+    "CHBE 4200": {
+      "id": "0B5c1_0cbw7-UWTNPaEdVWUlMN0U",
+      "Other": "1UI6oL3Fdn36ICVCdJpz6ct6yyJSbpakm",
+      "Quizzes and Midterms": "1wcdDmCtPs4dUi4p-WGpAds4M1nMmei4b",
+      "Homework and Notes": "0B5c1_0cbw7-UUGN0LTFDU2RTdTg"
+    },
+    "CHBE 3225": {
+      "id": "0B5c1_0cbw7-UcWJhWVRlS1J4SkE",
+      "Homework and Notes": "1Ul3rJfXWI8FHoVEgh9tfGXbGURhwNqgG",
+      "Other": "1o-W_JC5qu8KrmDirxRE6LB9uuEUi8RNu",
+      "Quizzes and Midterms": "137pxwjac1q96VAclyebBwfIlbbAeZF7A"
+    },
+    "CHBE 3210": {
+      "id": "0B5c1_0cbw7-UcWw5bTNlT29ORjg",
+      "Homework and Notes": "12VhtSisrOtWH3E5kOHs4JBChBRf8clWi",
+      "Other": "1OOaM_xTipDcjtuCV0nrJ4_wNRyvL5J7e",
+      "Quizzes and Midterms": "10yqFTBInD_ggKZGu6uzLlHdJ8NeWZVIT"
+    },
+    "CHBE 3200": {
+      "id": "0B5c1_0cbw7-UOVBFZlh6WkFPQjA",
+      "Homework and Notes": "1tKPMHcfkdjQupD7j8qttu6-1UhKlBwLZ",
+      "Other": "19St-cE4elXUpSVOMDvv2_lRMKPbM2Pt6",
+      "Quizzes and Midterms": "1yRBmEwSr4j2wa1-m0KztMHaF7FZn_kIk"
+    },
+    "CHBE 3130": {
+      "id": "0B5c1_0cbw7-USUpjM212R0hPREU",
+      "Homework and Notes": "1rSD6sC5r3ssLyCUEpwZiZDXmOXK7JL8R",
+      "Other": "1BOv2zXfPDER74H5K0wRyfbPwI34zjxYT",
+      "Quizzes and Midterms": "1tq6dgkIti69knmqsnDHlS5xXKyDg4mAl"
+    },
+    "CHBE 3110": {
+      "id": "0B5c1_0cbw7-URUUtNUh5OE10dEk",
+      "Other": "10g_WamzYFfev0g-5RIQ3iUApVYad70As",
+      "Quizzes and Midterms": "1rXX7DC2pYWfScQsLqfKitEMw0VwrSzTM",
+      "Homework and Notes": "0B5c1_0cbw7-UWFFtbkc0TkZfVk0"
+    },
+    "CHBE 2130": {
+      "id": "0B5c1_0cbw7-UY3JhMVdXM2FOY28",
+      "Homework and Notes": "1dp8dJmFqbLwDhbCWs9aY_Ff9ETJeglTj",
+      "Other": "145CkMlJPN7bCIVbXDn3j_isHgL1EZD_x",
+      "Quizzes and Midterms": "1fGd5eL5vZ9gGFgLPmVREa_ZVnaLMjxar"
+    },
+    "CHBE 2120": {
+      "id": "0B5c1_0cbw7-UTE92allCZ0FxZE0",
+      "Homework and Notes": "1acIZKDOdKJU1VwQB7dVDkMY7IAJuxEcs",
+      "Other": "1ZWX7q7qPYCJU2p6qiC79tWTDa5pNxQFs",
+      "Quizzes and Midterms": "1Mn8DK1kr5HSPY9dofFmzBjE_uI4dxvMZ"
+    },
+    "CHBE 2110": {
+      "id": "0B5c1_0cbw7-USmlOSExRT1AzNHc",
+      "Other": "1QG85RDTSrg1G6df1OiCF1EQjLAdwBwuT",
+      "Quizzes and Midterms": "1JyulsOWZiJobCp-yKZz4xbM99qIUXjtS",
+      "Homework and Notes": "0B5c1_0cbw7-Ud3ZxamwxVGs2dUk"
+    },
+    "CHBE 2100": {
+      "id": "0B5c1_0cbw7-UVENVdlBOQWtSc0E",
+      "Other": "1S-HRR6935EQ9Ilnd_ylXWjG-tusmoZ7K",
+      "Quizzes and Midterms": "1erINl6_yAGyEEArBYcgLoqh5UgTfTdEC",
+      "Homework and Notes": "0B5c1_0cbw7-USXluYXM1QkNnWHc"
     }
   },
   "BMED": {
-    "BMED 2210": {
-      "id": "1pZUdY1MaJwn71ZAEzRRsmrr85Ja-LvAu",
-      "Homework and Notes": "1sKMy2Pcu42bx-bgbFqLBwJvfbzUFor4n",
-      "Other": "103b00qF-jVtRyI7pn7w5TBrFXLyoqx2P",
-      "Quizzes and Midterms": "1TBggHS_Y-7nHoz2RohxKZpHwc5mp8C9Y"
+    "BMED 1000": {
+      "id": "1YNDYhCWnfuhNbjfDdGkt5JYM7si3z-7P",
+      "Homework and Notes": "1M9l4ezx5jWxr78bMk3wvGqKgI__0JCsA",
+      "Other": "1S0XivyrRftcoj3OMbeXKhufwabF3n6is",
+      "Quizzes and Midterms": "17y1c-FPVjBs-_9Qs9ggb_O3jFrsr9-vd"
     },
-    "BMED 2250": {
-      "id": "1_MuvsKvZJUOZTO1whvmQMWkgbMckf1Eg",
-      "Homework and Notes": "1RRlQ3_z1SpOiRljpvl1Nqsb0S0t0vXjz",
-      "Other": "1yrOG2RtiNqZIn84dlRi6-31rEcLv7snU",
-      "Quizzes and Midterms": "1xmI-okPylUDp-vzWmLBTBIaPjKIRslDY"
+    "BMED 3600": {
+      "id": "0B5c1_0cbw7-UWkdLczhJMDNOZzQ",
+      "Homework and Notes": "1lshNEMdyNrR8aEQJfCrRKRdoJ9KO87Ww",
+      "Other": "1k1QZip_CJLWpBtPJuJZMR_iZV2vOYh6-",
+      "Quizzes and Midterms": "1TAnUKVVpvNyAj8YhLSbVrH7yz4o_l70K"
+    },
+    "BMED 6042": {
+      "id": "0B5c1_0cbw7-UblVXcHZOSVIySzg",
+      "Homework and Notes": "1USidH7aWDJjoKz9gA8LEtIxRzpe63i_D",
+      "Other": "1h0XTuIxGe2NcEODOvUG0utDVKohdtPhC",
+      "Quizzes and Midterms": "1igQqcLbDlovqhU4A8b8KI2snr2mSyhL1"
+    },
+    "BMED 4803": {
+      "id": "0B5c1_0cbw7-Ua3MxaUpfdzlFYzQ",
+      "Homework and Notes": "1xD4nVXuotvYMbSRg8bivT3F1o6vB3SWn",
+      "Other": "1kcZAO0PEFhXBSifYPYyEIku5y7A56mfv",
+      "Quizzes and Midterms": "1pOYjqwmkQ0IsuQ7QovbmweF98ofK3qw1"
+    },
+    "BMED 4751": {
+      "id": "0B5c1_0cbw7-UN1NXc3lDNHZETms",
+      "Homework and Notes": "1kn9Pw-rSh13fA9Y05lnaIcBYldIUCb40",
+      "Other": "1EU2JSR4PfXCK-HGyVk_jyjjlL7bBgfkT",
+      "Quizzes and Midterms": "1097qDtw6CfCmTSSelcA0OL-BfVa45kLU"
+    },
+    "BMED 3510": {
+      "id": "0B5c1_0cbw7-UeDJLWFB5X3VOSUE",
+      "Homework and Notes": "1dY65VRokjeUCivjYKi1Hhw2v3yUpzx4g",
+      "Other": "1y53AxDNW8QCkZoWSYhxFUNrwhvV1o8f5",
+      "Quizzes and Midterms": "13xVk52J8VBzprw6bR5wn27LFhj_8fQV2"
+    },
+    "BMED 3400": {
+      "id": "0B5c1_0cbw7-UQ3Y4a28xUXNVVlU",
+      "Homework and Notes": "1rlr9UkJ2YkaRxNjvFUUr2j1RVzKoNwms",
+      "Other": "1mQgJQtU2y2pHPJqrqFWRJFYJsLcKEAkw",
+      "Quizzes and Midterms": "15d-qAj9eXJ04QqrW0zZ5o5jWSZoNrEB1"
+    },
+    "BMED 3310": {
+      "id": "0B5c1_0cbw7-UcGQ0LW1pOWIwd2s",
+      "Homework and Notes": "1SwUWjHDzhtBenIgw1zwJvTbXdAoPwE03",
+      "Other": "1fAis4QMBgzbUQ6ZUGRwJne5FTjQV9uN1",
+      "Quizzes and Midterms": "1tvWASuVqOumbrvYE7sWlqid0OvhEa1DY"
     },
     "BMED 3300": {
-      "id": "1pLYNPZ_WumgdvGUovDerhqsZhJHZ8DGw",
-      "Homework and Notes": "1ooZumNPZV-DF7Tvji7EniyeXn21LjpHJ",
-      "Other": "1SW7M7xWwKA_VTWMvvO_isJhN5GSRGU7G",
-      "Quizzes and Midterms": "1gWavujoOrZtprPg7VcJ8ubsueGaX3I8G"
+      "id": "0B5c1_0cbw7-Ua05QbVlzZGJOTVU",
+      "Homework and Notes": "1Ltrldm_z0zmVfJDCyFTJSZ_YBShyvDw7",
+      "Other": "1Ce5EUkvPBJl4rp34x2qFn_Do0mP86krZ",
+      "Quizzes and Midterms": "1TtHHAzZOHPG_Pr6C2jz_0NyqDja1p6NG"
+    },
+    "BMED 3100": {
+      "id": "0B5c1_0cbw7-UN0tyR0pEc21rMTQ",
+      "Homework and Notes": "1NBXvaKr4csgumGX5iAryIraePPKyp9oG",
+      "Other": "1vur7m5LTJN2xRugRcYJiwniypP6opYbm",
+      "Quizzes and Midterms": "1tXnvL7gAsSIlFAWBtG5kWP2S-wKdR8tR"
+    },
+    "BMED 2400": {
+      "id": "0B5c1_0cbw7-URzBQYWJpbWhMQ2c",
+      "Homework and Notes": "1DID0jLIFaszaFzNZcdT73Wczhi08Tzoe",
+      "Other": "1r2pvDii8JwyCvKyhTPt2q1JWLIIWdV_r",
+      "Quizzes and Midterms": "1_ox1wGc2cS83zN5HQIZyi-N4KqZ2Npvl"
     },
     "BMED 2300": {
-      "id": "1_wqHsKQOH0s-5ziuHZKo4_e7-5lk1vzb",
-      "Other": "1hs01Gx-DiJoKGlBSk4D4xFQwvsjISF-o",
-      "Quizzes and Midterms": "1WRbR5ZDLsg7YwyT6HOMw_i_0kE5oUcGQ",
-      "Homework and Notes": "1JcXam5BlRJQIhCYQwQEuA7Kx90aFTgEi"
-    }
-  },
-  "ARCH": {
-    "ARCH 3135": {
-      "id": "1RNrKIbYOMSYp8F_oe_k7obYHJWvzoaog",
-      "Homework and Notes": "1rtGDYXKt4Jxb3J7u9UtBN6h2tjlA0q0S",
-      "Other": "1BzRaZaC743c0ccKSCZhktZD_uelgUKAj",
-      "Quizzes and Midterms": "1RcFWjEhQlmWawzwvDVUfswzA9jtPF9w7"
+      "id": "0B5c1_0cbw7-UNk5kNVhjU2pwX3c",
+      "Other": "1UcUfAvtgFBmSSbL-t438bAGdZBhB5Nth",
+      "Quizzes and Midterms": "1gSWXyzyScX0m4BZB40xaKAjm1K9nx2K8",
+      "Homework and Notes": "0B5c1_0cbw7-UemFxanYySVdkYVU"
+    },
+    "BMED 2250": {
+      "id": "0B5c1_0cbw7-UUmt0aWRTY0RaQ3M",
+      "Other": "1zA8Bq4VMqMEPSTWHgmOTkQ1MuXMJOvOO",
+      "Quizzes and Midterms": "1PYzxymuZPNYLeVoLTSmR_WorQwt7Sbb7",
+      "Homework and Notes": "0B5c1_0cbw7-UYmUzdjNLSkZraFk"
+    },
+    "BMED 2210": {
+      "id": "0B5c1_0cbw7-UYlVPd05qVDdfNGc",
+      "Homework and Notes": "1mAWEtsC9Zbtf5531pLFLjorr6pQaUK14",
+      "Other": "19MRuwJIIfspaN0YTWzpk6oEVZycY6SBV",
+      "Quizzes and Midterms": "1XQYibBetLa7ZZ8kEOUM6NJwY8-ITsqDo"
     }
   },
   "BIOL": {
-    "BIOL 1520": {
-      "id": "1a_GthXnimUPKg4Lzv3fluWiMZUXOeMGm",
-      "Homework and Notes": "105oS60YMnnaHcyb6CUA3FR_2cGMn6XF3",
-      "Other": "1UOltGzwmdQEuElzpi5RGtsvXB-N8szVu",
-      "Quizzes and Midterms": "1AtyVL-lr2RENJVmlMkKPfZBkM5D1se5e"
+    "Biological Science, 5e.pdf": {
+      "id": "0B5c1_0cbw7-UakNGNkpSRFJhQ0U"
+    },
+    "Molecular Biology of the Cell - 5e by B. Alberts, A. Johnson, J. Lewis, M. Raff, K. Roberts, P. Walter.pdf": {
+      "id": "0B5c1_0cbw7-UUktTNjFXdjVGUVE"
+    },
+    "Essential Cell Biology - 3e by B. Alberts, D. Bray, K. Hopkin, A. Johnson, J. Lewis, M. Raff, K. Roberts, P. Walter.pdf": {
+      "id": "0B5c1_0cbw7-ULWNJcDZHMWJyN28"
+    },
+    "BIOL 4570": {
+      "id": "0B5c1_0cbw7-Uc3p0NFJmX1JMeXc",
+      "Homework and Notes": "1bo5Ta5hoR09N1AGZ5kcHyOEt7RhR57WZ",
+      "Other": "1mNgfhocsVTbOc13Y4BVMLvP5yfStIn85",
+      "Quizzes and Midterms": "14U0udXDUU4WQ5ZuAJCtfqLh-QCvb5af1"
+    },
+    "BIOL 4464": {
+      "id": "0B5c1_0cbw7-UdkZSVVlhYUhzR0U",
+      "Other": "17WFJA7CmDwERgjldOTrk7aUi8EAPwmt5",
+      "Quizzes and Midterms": "1ggua-_tBISaRqok04fZqTpzvw4fkQ_I2",
+      "Homework and Notes": "0B5c1_0cbw7-UNjVxTFZCb2EwQ2M"
+    },
+    "BIOL 4450": {
+      "id": "0B5c1_0cbw7-UZDY2aXJGZ1l3Nm8",
+      "Other": "1TwE1SmtWsHFS4feNMEopQ3VK2pGMbLbJ",
+      "Quizzes and Midterms": "1SCWLEaf-32IF1Tb2M_9APZz_gVOIZH7v",
+      "Homework and Notes": "0B5c1_0cbw7-UZEFFQnVMNFdJd3M"
+    },
+    "BIOL 4418": {
+      "id": "0B5c1_0cbw7-UeU5xWlJsLXJ3WWc",
+      "Other": "1fHY4KpvE9lscAFMCDRBm4t9rYbslyMOb",
+      "Quizzes and Midterms": "1BccHg3axBR78wh091ZrGCSxDSofaNEi4",
+      "Homework and Notes": "0B5c1_0cbw7-USC1Vak01TjlMUms"
+    },
+    "BIOL 4390": {
+      "id": "0B5c1_0cbw7-UQ0lBRFNVZnZyaW8",
+      "Other": "1y4mcT-yq0HnPCIeDf5XQ4fYJRDVqIPKj",
+      "Quizzes and Midterms": "1qTvHvretHUWeb8cJaRdthVLh3LgxJ6mz",
+      "Homework and Notes": "0B5c1_0cbw7-UV1ZZVUF2azc5QzQ"
+    },
+    "BIOL 4340": {
+      "id": "0B5c1_0cbw7-UVkxxTjJjMFJ3cUk",
+      "Other": "118UxpfYHo0SdKO5ZsGc1YaZ4yTJKEGGi",
+      "Quizzes and Midterms": "1t11zdqK6jNXqaDc73O7sea9YvPlLJ5Lc",
+      "Homework and Notes": "0B5c1_0cbw7-UellsU0tobFBrUFk"
+    },
+    "BIOL 4220": {
+      "id": "0B5c1_0cbw7-Ucy1SclJpNUJiOTA",
+      "Other": "1H5-XQExBtttqo598tjcSFGtuhbz9R0Ri",
+      "Quizzes and Midterms": "1dL55K6SSk0PeuNTj1-_vWGRbmWfmqboj",
+      "Homework and Notes": "0B5c1_0cbw7-UaHlMMkNDY240bDA"
+    },
+    "BIOL 4015": {
+      "id": "0B5c1_0cbw7-UR2hPN1FNa2l5clk",
+      "Homework and Notes": "1qC8F95XvFw-OW6WnYYNGKWRvPF8kcw81",
+      "Other": "1KkhEHBhzhgBPvYoArC6Obx91vjbCSJ-V",
+      "Quizzes and Midterms": "1IFP7Z9KTsZMR-nN3onLvzow5UeCfKt7P"
+    },
+    "BIOL 3813": {
+      "id": "0B5c1_0cbw7-UU0lEVE5kdzhhLXc",
+      "Homework and Notes": "1jD0ZKNeL2b-JLNGK2B4is9cakeYSLbsf",
+      "Other": "1JTHaF4ylvo2VW8jZwrkNHvboUVfXla_3",
+      "Quizzes and Midterms": "1fc4lHOdIN37OUL7Wlx3UlDV5zUY8HiEn"
+    },
+    "BIOL 3751": {
+      "id": "0B5c1_0cbw7-UVE1BZ05Iam83LVk",
+      "Other": "1avQcCEv2eRkk145s8KPsp5PYK69y-o4C",
+      "Quizzes and Midterms": "1Y6xHassE_LcFCqepV7eAF_CQ03XLsqCX",
+      "Homework and Notes": "0B5c1_0cbw7-UUUVoVC1ocjdtSzQ"
+    },
+    "BIOL 3450": {
+      "id": "0B5c1_0cbw7-UU0lpX0U5N2pyb2s",
+      "Homework and Notes": "16PUVBnD-uYZoxD1mZ6CFyR0-wmDr7zSa",
+      "Other": "15Jv_UlG-0AR1CSvBJLzcBZGH_uUIS4vf",
+      "Quizzes and Midterms": "1rL405oLrnjdQ2xlZ_ZwwkcfMsLNJM0Y0"
+    },
+    "BIOL 3341": {
+      "id": "0B5c1_0cbw7-UN3M3U3NvM01scXM",
+      "Homework and Notes": "12S6-p3YxwYia_MXYHFCILd9JDbub4AUJ",
+      "Other": "1Mfel5jKJHjgC_YndHbRqqGtvnllVz-qJ",
+      "Quizzes and Midterms": "1DLAJ4DV0nAwanK08RBh4YrLl3zJXmlnI"
+    },
+    "BIOL 3332": {
+      "id": "0B5c1_0cbw7-UX2JRRFJiT3YzVW8",
+      "Other": "1rHr6Thn1w2HTzb8XGXBAv8uL--t_G5uG",
+      "Quizzes and Midterms": "1-ZhNNbzWCXjzv1Qy4Kwk9Mo69NSAgo2p",
+      "Homework and Notes": "0B5c1_0cbw7-UcXBfTlAtV05SRjg"
+    },
+    "BIOL 3310": {
+      "id": "0B5c1_0cbw7-UUXVTZElvVFg1TEU",
+      "Other": "1tLKMUD0OTFw_obaX006QrVCkExvQXAfF",
+      "Quizzes and Midterms": "1XhYJ9vt836sQkuaaBK6Iv1vJo2SdN0QW",
+      "Homework and Notes": "0B5c1_0cbw7-UQWFaR3VScFpUZ2M"
+    },
+    "BIOL 3100": {
+      "id": "0B5c1_0cbw7-UQ1oycGFTRmdHaG8",
+      "Other": "1dTg0hfEsXkHnT_5u9LKIlDIRpvMWgyH6",
+      "Quizzes and Midterms": "1RUX0OymkbX9HiOsoXS5_2o7rOiyL3_Mo",
+      "Homework and Notes": "0B5c1_0cbw7-UdG40UjgwTnF0VTg"
+    },
+    "BIOL 2813": {
+      "id": "0B5c1_0cbw7-UNk9IanppMEVab0k",
+      "Homework and Notes": "10xd88LrMf8zRD5OnYORP6HlRXpC8aj_R",
+      "Other": "1xVawPuS10tgnnh5zsKRg7khCc3s40hqL",
+      "Quizzes and Midterms": "13A5ziVJBgxMmDzByzUWUvh-UyS3N9TbK"
+    },
+    "BIOL 2345": {
+      "id": "0B5c1_0cbw7-USnN4c2hZTk5ONEk",
+      "Homework and Notes": "1E3c1r1UfkavmoFPuycust-5AHstyT6eS",
+      "Other": "1Y-jBXA8V2-c9mMDnKBbVh0j12Eun-7NR",
+      "Quizzes and Midterms": "1ujohsainKAEOrwVgatQZLjIYjEBbaJVR"
+    },
+    "BIOL 2344": {
+      "id": "0B5c1_0cbw7-UamZRck52azYxZEE",
+      "Homework and Notes": "1pVD1_l52sMd-pHCqLnxSzmRov_e0WiIj",
+      "Other": "14ULCw3jPiw6cHS_qFf5qLSjqjH5fSRv4",
+      "Quizzes and Midterms": "1W8KASxpAfludVEXgFgTDwOlxLDtIKjSe"
+    },
+    "BIOL 2337": {
+      "id": "0B5c1_0cbw7-UZHJlNFJMaFFhQzQ",
+      "Other": "1LZhYGYPpeJ64ZHLebxbHqnpkrqZxVXaR",
+      "Quizzes and Midterms": "11V5XaeRr_cLanhL_JWi68XqDIy65lhf7",
+      "Homework and Notes": "0B5c1_0cbw7-UTW1HZWNabzI4LTA"
     },
     "BIOL 2335": {
-      "id": "1hszNG2vJmVF1F09VWhv07pb0XnGNJQNq",
-      "Homework and Notes": "1Q5xoau4C_PbXtkr34lEoVYP0TY9tRLFP",
-      "Other": "1560CA4t0mpYFEp-FeYRwvHydSYSbkT36",
-      "Quizzes and Midterms": "1jgR-l4ytgu9WCb6DRI7cF0YqywC6_AEj"
+      "id": "0B5c1_0cbw7-UOS1SYzNBaERQSWc",
+      "Homework and Notes": "1trBHzeb71PzxznrAWW7vmFjt1QXI_1ci",
+      "Other": "1-wBuryRdWJBGObJwU9-zrK6mLGtPg2LO",
+      "Quizzes and Midterms": "1NqQ8bSrStlVm44FTFL2m2HRAHS5O7v8m"
+    },
+    "BIOL 2334": {
+      "id": "0B5c1_0cbw7-UT2lFMmRuTUd5V1U",
+      "Other": "1Mlt6-IvCZ2UcRlNRCOUkloPGDbHJhO5L",
+      "Quizzes and Midterms": "1ZmPpNhP5JUSzta6QXlJkoheB9iUcGh2y",
+      "Homework and Notes": "0B5c1_0cbw7-UaU5mSDk3RWFhTjg"
+    },
+    "BIOL 2240": {
+      "id": "0B5c1_0cbw7-UazZjcGtndkJMd00",
+      "Other": "1veQHObPSmkreSRcFNfLIdAQD9dRGgJGI",
+      "Quizzes and Midterms": "1AVnBP7HoWQzCoU6AW8GSmCDyx4_ZMq7m",
+      "Homework and Notes": "0B5c1_0cbw7-UT1FsbFgzUTQ4TGM"
+    },
+    "BIOL 1521": {
+      "id": "0B5c1_0cbw7-UZnhLQUJ5YTNzVXc",
+      "Homework and Notes": "1zlugvqzzo1FD8z2OW-YWuKR5i63AVg2l",
+      "Other": "1_qREiIeavId2fr6NyX8-hoi-b2-xh4Ie",
+      "Quizzes and Midterms": "1bHUOpQtoI1LjcVf2vJ1Fe9OKVuqCL-eg"
+    },
+    "BIOL 1520": {
+      "id": "0B5c1_0cbw7-URVljdnVjMGZhT3c",
+      "Other": "1uIo11Ugj4Utr2gJqFPEHHDdTw5_ezwMI",
+      "Quizzes and Midterms": "1-ABBpUBbMCqkxhhHy7e5z4mhn0gCzqN0",
+      "Homework and Notes": "0B5c1_0cbw7-UX0ZObUlUekZXbUE"
+    },
+    "BIOL 1510": {
+      "id": "0B5c1_0cbw7-URzhpMTNvS3E2dm8",
+      "Homework and Notes": "1U3uiOkx1Zp4XVCfrHFBTnT6ayD9rRLOb",
+      "Other": "1JaJWKGDpGxErKEb4ojkJaUZ1d8Pd6ckd",
+      "Quizzes and Midterms": "1mSuuA0TTxULWn_ontfJYBkxZVR1KPuAE"
     }
   },
-  "AE": {
-    "AE 2020": {
-      "id": "1usG4IYRwxmv7cd-xCsC_1xwbAffhHJQ5",
-      "Other": "1fij4cd0NL8ND3rJrf7zqGeMeYU9uOw0P",
-      "Quizzes and Midterms": "1X5ld7ltKrmIYjJfJ34NOAASYudKhyr-k"
+  "ARCH": {
+    "GRANDS-PROJETS-140627-red.pdf": {
+      "id": "0B5c1_0cbw7-URnktcGI2UGJvZWs"
     },
-    "AE 2010": {
-      "id": "1844g8KTwtMumkBgSfHMGtbr7ugk4rhfG",
-      "Other": "1DhPQ2hRr14YbHiZdSSRYRYQ6cwGGRZJC",
-      "Quizzes and Midterms": "1lD2jSbLIcaNq4W6ueFQpH0eHtWWSP51N"
+    "ARCH 4151": {
+      "id": "0B5c1_0cbw7-UMDhOeHFhem5ia00",
+      "Homework and Notes": "11tNWVpFDgHe0SynP3Mu78kF-T8EUODmd",
+      "Other": "1h4nEg7NG3wYP5YbDCBI-w7PC5fNR3cYv",
+      "Quizzes and Midterms": "1LVtKlAIPTyFrSPAv1-I6QV3MG_uOUHWM"
     },
-    "AE 1601": {
-      "id": "1bJ99iXuRyCQd5116XYhZinIcnkXJsPUM",
-      "Other": "1Lk-fRMljh-vWbmn50KOeebIIKGfVQ2H8",
-      "Quizzes and Midterms": "1rskj3EG7W1apgUZdgGIlSS70NxFn3RP9"
+    "ARCH 4128": {
+      "id": "0B5c1_0cbw7-UdTMxWENiV3NoRTg",
+      "Homework and Notes": "1-2_ueI1ENkscjAsbG_9JwdSmDZomParN",
+      "Other": "1TwOOuC5Qtl3gjpcZEU1O83ozLhMhpLK0",
+      "Quizzes and Midterms": "1I3u6lYNMCr2lYGrAJ_q-I0Veq6sbuGRI"
     },
-    "AE 3015": {
-      "id": "16t57D88-UqdFqkXOkGLRAXL07i8ZfpSS",
-      "Homework and Notes": "1wvhq3UUP5WkPjQV-ye0HFPh3W5leepED",
-      "Other": "1vhjEOhPKglV85z8ZAtjh0AQ-cjyXokWT",
-      "Quizzes and Midterms": "1EoCtjOPvrW8sUzkdyA-YLiJhRayxV_L6"
+    "ARCH 3231": {
+      "id": "0B5c1_0cbw7-URE5laTB3eGJHaGs",
+      "Homework and Notes": "1Uahg_m-5WvwDiveVYwX6TMNGbyMZsNwx",
+      "Other": "1-h4nTZhjiQ720z07qNGjHgrrhkgQ1B0O",
+      "Quizzes and Midterms": "1-sMQP_kI33sSCJfBjKc6j7f49Ye_HV6k"
     },
-    "AE 3012": {
-      "id": "1BKH-SZ2eYrC7fF8lHerRnyMz2pZR-wqb",
-      "Other": "17DSW4f1LafMiDl-YB9epw2_bvWctJSLT",
-      "Quizzes and Midterms": "1BHnRhhEJCynrI4r0zBgbro0Is_D4wZMw",
-      "Homework and Notes": "1hOA8iSj19YiXG1d05Bm2f34cxDr8Dy_0"
+    "ARCH 3135": {
+      "id": "0B5c1_0cbw7-UU3d3cU1fOUFSNE0",
+      "Homework and Notes": "1pD4hOoJKDoW18pM23d5HUoVnD8TFDs0R",
+      "Other": "15GYZjo3qV-Xfj5EY74H-a_HoQUkoXPUT",
+      "Quizzes and Midterms": "1rSB-cJ_9yiDEUYuj388U5G31gucB4J4F"
     },
-    "AE 1350": {
-      "id": "1EUUcyJdjDPk7ruG5FyPh_PLjhvmc3xq5",
-      "Quizzes and Midterms": "1ria47vaTwkJeXRRM14T3LiTIAG6_QOtW",
-      "Other": "1D1JBG6Gyti6NqgLZqOH4QGP5HoWWEWWK",
-      "Homework": "1JihdU0AhOUhjwkOAi7EaQ8yYN1IcT0l2"
-    }
-  },
-  "ACCT": {
-    "ACCT 2101": {
-      "id": "1FN63_Bx3ffc8oqOyCAQar2xd5BderBbB",
-      "Homework and Notes": "1Em3uuH_AkpEoz4M5waAbesvslZr0IJ7r",
-      "Other": "1rjkrGH1N1Z9-3GFDld0SAszsA-GIKqTe",
-      "Quizzes and Midterms": "1XEfRoAO1YOAXjQwLt22_nwgLXsA5yg8x"
+    "ARCH 2211": {
+      "id": "0B5c1_0cbw7-ULTNidmxDQ3luYkU",
+      "Homework and Notes": "15cMaAs22PfkebWYM4knbpEetnWkbB6RR",
+      "Other": "1HYRX-Jk4ccyNO1NMusZB4QxGCa9VqU0p",
+      "Quizzes and Midterms": "1a_vvLDV1IofnAghamalxazh4hFJqxNTI"
     },
-    "ACCT 2102": {
-      "id": "1Hr-bu-hw_fc1v32ZFnpUGX1sOvA8FC_Y",
-      "Homework and Notes": "19ps1KmGN54sQ3FW040cgQ0xdurcHmdfd",
-      "Other": "1nsvyBWsErJvYNBeWSaiY9XN0rfVp7HRG",
-      "Quizzes and Midterms": "1F4Jnp09F6rHqZRZIHRTKlZdF7zP-w0PY"
+    "ARCH 2115": {
+      "id": "0B5c1_0cbw7-UWWI5Rlc5dU5DWjQ",
+      "Other": "1_QOLXm99gi84OTQ4xY-ebKibdPlfE-Io",
+      "Quizzes and Midterms": "15gR1rzm42BPIgaCFjZo4lYfImW9mOfAT",
+      "Homework and Notes": "0B5c1_0cbw7-UVkwtMDFlZk04WjA"
+    },
+    "ARCH 2112": {
+      "id": "0B5c1_0cbw7-UZzJyN1JqR3p1SGc",
+      "Homework and Notes": "1tEqQQHAkaiBbcC4EhIRbVhfq6CovmVyD",
+      "Other": "1jm5OswGp0LxcMEarcF7KkaPDLQhw_Y9t",
+      "Quizzes and Midterms": "1CSyV4mU9TBrCR-xXqQaNethY3b0h6t00"
+    },
+    "ARCH 2111": {
+      "id": "0B5c1_0cbw7-UZDc3em9mVEZFOTg",
+      "Homework and Notes": "1EG_cmI1Mg_0_d0JHQJgKhMg71lRaDlf9",
+      "Other": "1c1ejZP8HW282mwxjZ_FmHWUxmQue_at6",
+      "Quizzes and Midterms": "1fHAR61ejTimu0Zybk1GP96W7Dr0MHGV8"
     }
   },
   "APPH": {
+    "APPH 4600": {
+      "id": "0B5c1_0cbw7-USFYyNlFsekZQcHc",
+      "Homework and Notes": "1DQp8IN1tGqCMOMimZn4q6lkQN0NoQAPb",
+      "Other": "1TDLYDubQKu0HvyMtBZpRzcs6UYYS6YiD",
+      "Quizzes and Midterms": "1idKCZ10-IGfQp1y_oq1RxuETCdpcSlwv"
+    },
     "APPH 1040": {
-      "id": "158IU9HJ9q3d-Mz9Tx0MoCnVPLO1jygGK",
-      "Homework and Notes": "16xMXPdLwvcw6vOucorDnLuMT7l6niG7m",
-      "Other": "1cLiAMDHlc_R0tQsqimNB_KiucNqWD8P1",
-      "Quizzes and Midterms": "18Z_wm2wKBHVy1uTw80D_TUPdq5w7WDd7"
+      "id": "0B5c1_0cbw7-UODA2ZmNyeDFCZDA",
+      "Homework and Notes": "16etQRBhtF7VwGCifiUzQKXxrFuSIelsg",
+      "Other": "1jCmInLktSMUzMMI4ge-ohJn6uM516jGi",
+      "Quizzes and Midterms": "17ZsppQdxQDUBUkn-oJoKhLLpW-cIrE-i"
+    }
+  },
+  "AE": {
+    "AE 2010": {
+      "id": "1qV6R1cNOMAuu48hBfZsDdhv90VyOr1IZ",
+      "Homework and Notes": "1SsmzdV_EVVlaDIQsa3TTPvd7gmRaAmE6",
+      "Other": "1Y7jnEYabLG83JRc7yNJ66QAoJ39OERc6",
+      "Quizzes and Midterms": "1UEHi5mD5430H_htU8jU3KqhMn9-p--Ou"
+    },
+    "AE 1601": {
+      "id": "0B5c1_0cbw7-UeFZwU2psWU9BNDg",
+      "Other": "1spVxs0ofcLFPX3K6ckpVmz1-cKafySF2",
+      "Quizzes and Midterms": "10zRsGdMmMg8mVRsOL0B9y3V_-yOX_lA0",
+      "Homework and Notes": "0B5c1_0cbw7-UTDUyTmZqTm1Ycm8"
+    },
+    "AE 3125": {
+      "id": "0B5c1_0cbw7-ULXltMzhyUS11cHM",
+      "Other": "1L1fLwwQJNVBdta-8uOrgoVDiSjaI4V8P",
+      "Quizzes and Midterms": "1rG3kKmoygkztD83FNOsVlYtEAtBuvlcO",
+      "Homework and Notes": "0B5c1_0cbw7-URHRIdG1FUllGM00"
+    },
+    "AE 4451": {
+      "id": "0B5c1_0cbw7-ULUIxR2VDTjRESms",
+      "Homework and Notes": "1q7-cyYu8dMBHBcco9eJER7ghWPzAdOsy",
+      "Other": "1YCuNaQp2aLr0zlqnXOvoUEE9Rg0U-5v3",
+      "Quizzes and Midterms": "1UpF7Mx9c_lcUUXZLpIrZaPNZspNRT6lS"
+    },
+    "AE 4351": {
+      "id": "0B5c1_0cbw7-USmVJVDQwcE92V0U",
+      "Other": "1-tZibumU12xE0OYf_9_cFezAdnSvaEUF",
+      "Quizzes and Midterms": "1a4Xoz3oNFmumkzBUdpkCX7wjRVtRCrrQ",
+      "Homework and Notes": "0B5c1_0cbw7-UMjJIVUdwLWFUUEE"
+    },
+    "AE 4350": {
+      "id": "0B5c1_0cbw7-UaEVxa202RDNISTQ",
+      "Other": "1T9FK-OWBNij2YOf5BOK_-YpZ-7FW6536",
+      "Quizzes and Midterms": "1c6goKx9m3lMmswhaPMQKkpbFWOKL55J_",
+      "Homework and Notes": "0B5c1_0cbw7-UV0pLUTlvYlFQMVk"
+    },
+    "AE 4220": {
+      "id": "0B5c1_0cbw7-UWVktY0xHbG1WQVk",
+      "Other": "1rtlPL051mv773Pxm8jHdowL7_eqVeDdh",
+      "Quizzes and Midterms": "11JNb6_zqs3aqIa0wyAQx7rty6xEG2dOy",
+      "Homework and Notes": "0B5c1_0cbw7-USDlqYmlLYzVwT1U"
+    },
+    "AE 3450": {
+      "id": "0B5c1_0cbw7-UT1VzX0NTbzVwYTg",
+      "Homework and Notes": "1k86r-hP4M58nk-R9tLJx1X-S2yAlpUHr",
+      "Other": "1gpo4VPtmsCdiRTumuB-rLk8yLf3ZXwzx",
+      "Quizzes and Midterms": "16cXQK6USx_LlwOCLx06vUMjDdKsLDusN"
+    },
+    "AE 3310": {
+      "id": "0B5c1_0cbw7-UTEhsUGpKVEpDSDQ",
+      "Homework and Notes": "1GWHoB2YmxnnPbkkg4qV4aPqL4ox-LfaR",
+      "Other": "1PAObCVuBj_r2sWw1K2jpHsjD6K-iRg9B",
+      "Quizzes and Midterms": "10BpDUOjziDG2bM6crSFS2uH1sSsRggxT"
+    },
+    "AE 3122": {
+      "id": "0B5c1_0cbw7-UaUZQdmJkQ0pDZGc",
+      "Other": "1FhXyv2Lz-TtIFG9GCMfikEqkGHxiDq4N",
+      "Quizzes and Midterms": "1koPttvXjWO7NZK0X3INf-kjEPsvxvpvQ",
+      "Homework and Notes": "0B5c1_0cbw7-UMXhEYU1wOVBBYjQ"
+    },
+    "AE 3120": {
+      "id": "0B5c1_0cbw7-UVHN1SUtzRzBFZm8",
+      "Homework and Notes": "1842-Eak4oztBl23n8VE0cWc4oVDxTQZx",
+      "Other": "1Ac6K3AO8NpToXrjsdg_U61FVs9NX2ev1",
+      "Quizzes and Midterms": "1SWF8F4HPH7pZWCCgSJWWBpxVdzz3l9si"
+    },
+    "AE 3021": {
+      "id": "0B5c1_0cbw7-UajNOdF9OaDlXYjg",
+      "Homework and Notes": "1NRTVgViYBo5DzzIZVc5FdEeKCH7QYj78",
+      "Other": "1-YRo56ZEUJiZT6TtoS1ZAoFg9wVDb3DD",
+      "Quizzes and Midterms": "1dkYaEWcOJl_GFrFgzDG577R4VmCXkG1w"
+    },
+    "AE 3012": {
+      "id": "0B5c1_0cbw7-UczJ6UGRYaE5TS0E",
+      "Other": "1oyFSq5PiA-zFKUGt2FKPklsBTgIEDQ6i",
+      "Quizzes and Midterms": "16A-D98Qg_31S5SpFtlrR5vy5oh8yU7c5",
+      "Homework and Notes": "0B5c1_0cbw7-UUkxVdmtITW1XVGM"
+    },
+    "AE 2220": {
+      "id": "0B5c1_0cbw7-UQ0EwUFJIQm82U1k",
+      "Homework and Notes": "1omZt0gFkZiXUxqywp9L2iQwTZqgG-zkT",
+      "Other": "19wrSEqmG2DFgdSmF3GjJPFsoy7JCkc3a",
+      "Quizzes and Midterms": "15dpUiygpH7vcJ0mgwdBUKscak-xKW4i5"
+    },
+    "AE 2020": {
+      "id": "0B5c1_0cbw7-UcXUwaGkwbWR4ems",
+      "Homework and Notes": "15iHduVhINYsBQNPyMEvL1tr6Y9OihoNC",
+      "Other": "16RpaKRQ18XofCnl2W_ahFdjSQxc_qH2U",
+      "Quizzes and Midterms": "1IjhDOfphsA1dAfdOPMX6wXeu2QRvPJU5"
+    },
+    "AE 1350": {
+      "id": "0B5c1_0cbw7-Ucl9Rd0dMeElkdjg",
+      "Homework and Notes": "18q0rKM3KcTHNElGeH6eCe7D9WEmS4g6x",
+      "Other": "1zTnRVdTHLhy2BbDdbuQAyOvgDjILnHv_",
+      "Quizzes and Midterms": "1KWq0y6rGkH2yD3sch1LCqFGABfqEOPt3"
+    }
+  },
+  "ACCT": {
+    "ACCT 2102": {
+      "id": "0B5c1_0cbw7-UZjJMQ2NzLUlNcWc",
+      "Homework and Notes": "1XYq8P1l1d7T_5m_0GIzkwxMvr0eR7RwG",
+      "Other": "1VIQvIe9CP-WyvV0ok9orl-vm9vmdHEJ9",
+      "Quizzes and Midterms": "1bQGXwiMFTVgf3N7I31Bq3bdTX_Yy3Ri9"
+    },
+    "ACCT 2101": {
+      "id": "0B5c1_0cbw7-UQ2VMdkh5UHRVSzA",
+      "Homework and Notes": "1mo3U0a2onQOo4RI_Ah1ektF0jjB6XRUb",
+      "Other": "1ud-4LsDp8DVbYkv5l0yk-8bWkPm0eNKk",
+      "Quizzes and Midterms": "1sVm_BQhMIO6wS6bEdMHKILRaiinmfmg9"
     }
   }
 }

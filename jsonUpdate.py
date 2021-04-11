@@ -6,7 +6,7 @@ import json
 class CreateJson:
     def __init__(self, drive):
         self.drive = drive
-        self.courseRefresh("1b5sxUu2RZQCfs_RdBAfofcFjxX0x3dyn")
+        self.courseRefresh("0B5c1_0cbw7-USnk4eG5FQ0hwR1k")
 
 
     def getCourses(self, idSHPE_Folder, drive):
@@ -22,21 +22,23 @@ class CreateJson:
             courseTitle = title.split()[0]
             code = title[1:len(courseTitle) - 1]
             alias[code] = [title, file['id']]
-
             coursesInFile = drive.ListFile({'q': "'%s' in parents and trashed=false" % (file['id'])}).GetList()
             for courses in coursesInFile:
-                newDict = {}
-                newDict['id'] = courses['id']
-                # this for now
-                docTypes = drive.ListFile({'q': "'%s' in parents and trashed=false" % (courses['id'])}).GetList()
-                for doc in docTypes:
-                    if doc['title'] == 'Homework and Notes':
-                        newDict['Homework and Notes'] = doc['id']
-                    elif doc['title'] == 'Other':
-                        newDict['Other'] = doc['id']
-                    elif doc['title'] == 'Quizzes and Midterms':
-                        newDict['Quizzes and Midterms'] = doc['id']
-                temp[courses['title']] = newDict
+                try:
+                    newDict = {}
+                    newDict['id'] = courses['id']
+                    # this for now
+                    docTypes = drive.ListFile({'q': "'%s' in parents and trashed=false" % (courses['id'])}).GetList()
+                    for doc in docTypes:
+                        if doc['title'] == 'Homework and Notes':
+                            newDict['Homework and Notes'] = doc['id']
+                        elif doc['title'] == 'Other':
+                            newDict['Other'] = doc['id']
+                        elif doc['title'] == 'Quizzes and Midterms':
+                            newDict['Quizzes and Midterms'] = doc['id']
+                    temp[courses['title']] = newDict
+                except:
+                    continue
 
             ToDo[code] = temp
             # go inside the folder and get all the courses numbers
@@ -56,3 +58,8 @@ class CreateJson:
 
         print("Courses Updated")
 
+
+gauth = GoogleAuth()
+gauth.LocalWebserverAuth()
+drive = GoogleDrive(gauth)
+CreateJson(drive)

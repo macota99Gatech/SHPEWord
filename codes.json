@@ -1,50 +1,150 @@
 {
+  "SOC": [
+    "(SOC) Sociology",
+    "1_SiktFhOu7gSF-6Uk6bPYRvHYTpLOEyt"
+  ],
+  "MGT": [
+    "(MGT) Management",
+    "1JD75LO6sTORgQ0xu9YRRltkMbUMVyr3Y"
+  ],
+  "POL": [
+    "(POL) Policy",
+    "0B5c1_0cbw7-UQldYWGI3QmF3a2c"
+  ],
+  "NRE": [
+    "(NRE) Nuclear and Radiological Engineering",
+    "0B5c1_0cbw7-UOG55d1pqb2ZiMjg"
+  ],
+  "SPAN": [
+    "(SPAN) Spanish",
+    "0B5c1_0cbw7-UR01adk9JZ0l3dUU"
+  ],
+  "PSYC": [
+    "(PSYC) Psychology",
+    "0B5c1_0cbw7-UU3lVYnByNVMyS0k"
+  ],
+  "PHYS": [
+    "(PHYS) Physics",
+    "0B5c1_0cbw7-UcTVpQ19kZlBfQkE"
+  ],
+  "PHIL": [
+    "(PHIL) Philosophy",
+    "0B5c1_0cbw7-USjJrMEdaY1FPMXM"
+  ],
+  "MUSI": [
+    "(MUSI) Music",
+    "0B5c1_0cbw7-UMGZELXJhck4yS3M"
+  ],
+  "ME": [
+    "(ME) Mechanical Engineering",
+    "0B5c1_0cbw7-UbFlJNEZqWGVaanc"
+  ],
+  "MATH": [
+    "(MATH) Mathematics",
+    "0B5c1_0cbw7-UMDZOSWhiZktzTTA"
+  ],
+  "MSE": [
+    "(MSE) Materials Science & Engineering",
+    "0B5c1_0cbw7-UZTR4MVd5VlpiMnc"
+  ],
+  "LMC": [
+    "(LMC) Literature, Media & Communication",
+    "0B5c1_0cbw7-Ubmd1TVAxVEE0WDQ"
+  ],
+  "INTA": [
+    "(INTA) International Affairs",
+    "0B5c1_0cbw7-USDRUX1p0TW1wXzg"
+  ],
+  "ISYE": [
+    "(ISYE) Industrial & Systems Engineering",
+    "0B5c1_0cbw7-UREVTU3NOVi1pRjQ"
+  ],
+  "ID": [
+    "(ID) Industrial Design",
+    "0B5c1_0cbw7-UcXhEOVUyamNOam8"
+  ],
+  "HTS": [
+    "(HTS) History, Technology, & Society",
+    "0B5c1_0cbw7-ULU03a2FtSFpXWDA"
+  ],
+  "HIST": [
+    "(HIST) History",
+    "0B5c1_0cbw7-UTGVBc2dCUGZlRmM"
+  ],
+  "GRMN": [
+    "(GRMN) German",
+    "0B5c1_0cbw7-UZEp3RVNuWE9FMk0"
+  ],
+  "GT": [
+    "(GT) Georgia Tech",
+    "0B5c1_0cbw7-UYW5qWFBNeGRrU3M"
+  ],
+  "FREN": [
+    "(FREN) French",
+    "0B5c1_0cbw7-UaTdNLVlkdlZNWEk"
+  ],
+  "ENGL": [
+    "(ENGL) English",
+    "0B5c1_0cbw7-UZWxhZ3VmX3RWckk"
+  ],
+  "ECE": [
+    "(ECE) Electrical & Computer Engineering",
+    "0B5c1_0cbw7-UMzJmN1paSWI3Q1U"
+  ],
+  "ECON": [
+    "(ECON) Economics",
+    "0B5c1_0cbw7-UNjNoTkctWERCVzA"
+  ],
   "EAS": [
     "(EAS) Earth and Atmospheric Sciences",
-    "1_j6ejp5BT6jr1KmR9zuv4j17gLhXEfP-"
+    "0B5c1_0cbw7-UdEhCX01qSEI3SUE"
   ],
   "CS": [
     "(CS) Computer Science",
-    "1GAkViiqIS0b7FwrTUar99Z3De6dNQWH0"
+    "0B5c1_0cbw7-URmYtdkpiUWNPX2M"
   ],
-  "ECE": [
-    "(ECE) Electrical _ Computer Engineering",
-    "1P0iOhvDbd7JLLRnI-SdNK7QyTdJU3XZ4"
+  "COE": [
+    "(COE) College of Engineering",
+    "0B5c1_0cbw7-UMjhGMzFBNU9QSGM"
   ],
-  "CHEM": [
-    "(CHEM) Chemistry",
-    "1v8-Ii72evC5dkl4woB20XR_qJFtqCpwF"
-  ],
-  "CHBE": [
-    "(CHBE) Chemical _ Biomolecular Engineering",
-    "1sGjadr4yinFNaJ7OZBXRYVrttlezsQXV"
+  "COA": [
+    "(COA) College of Architecture",
+    "0B5c1_0cbw7-UWEhkenpqaTdFaDA"
   ],
   "CEE": [
     "(CEE) Civil and Environmental Engineering",
-    "15qoIMO1Z0ww4vYigAayAf9zpXO6t54k7"
+    "0B5c1_0cbw7-UNmxncUlONklHZGM"
+  ],
+  "CHEM": [
+    "(CHEM) Chemistry",
+    "0B5c1_0cbw7-UT1pxdWh3TjlfaXM"
+  ],
+  "CHBE": [
+    "(CHBE) Chemical & Biomolecular Engineering",
+    "0B5c1_0cbw7-UX0FJMDBDSDRRdkk"
   ],
   "BMED": [
     "(BMED) Biomedical Engineering",
-    "1kc0OQVZ_ly9pzD4MtMay1YM6IU4-kFBB"
-  ],
-  "ARCH": [
-    "(ARCH) Architecture",
-    "1rpgNuot5fiaWGiHsOcE1Kh60sG-nIb-0"
+    "0B5c1_0cbw7-UWXRzcGhsV3JiZUE"
   ],
   "BIOL": [
     "(BIOL) Biology",
-    "1aaQJbCrfI7ywTN7Vy9qqnTxVyUhuW8IA"
+    "0B5c1_0cbw7-UX3lENTk1VXRVd3c"
   ],
-  "AE": [
-    "(AE) Aerospace Engineering",
-    "1mH4ZjWf3VGqG73Zn3D_KyPxe3CNCa88t"
-  ],
-  "ACCT": [
-    "(ACCT) Accounting",
-    "1cWubYK1ZDeckPCemuyFqEonN50jxTlhf"
+  "ARCH": [
+    "(ARCH) Architecture",
+    "0B5c1_0cbw7-Ub2YzWjEwTmdRLTg"
   ],
   "APPH": [
     "(APPH) Applied Physiology",
-    "1sTL8D1-ZtSHLEvsoJvmuugMWiQx7j0sq"
+    "0B5c1_0cbw7-UMUhjUkI5LVhhdUE"
+  ],
+  "AE": [
+    "(AE) Aerospace Engineering",
+    "0B5c1_0cbw7-Uejc4LWUyMkZzSWM"
+  ],
+  "ACCT": [
+    "(ACCT) Accounting",
+    "0B5c1_0cbw7-USDFtbC1RaHZiUnc"
   ]
 }

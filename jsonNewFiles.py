@@ -9,12 +9,12 @@ def newFiles(name):
     dic = defaultdict(dict)
 
     for _,row in data.iterrows():
-        for i in range(5):
+        for i in range(1,6):
             try:
                 course = row["Course Name {0}".format(i)]
                 major = row["Course Name {0}".format(i)].split()[0]
                 document_type = row["Document Type {0}".format(i)]
-                id = row["Document Upload {0}"].split("=")[1]
+                id = row["Document Upload {0}".format(i)].split("id=")[1]
                 if course not in dic[major]:
                     dic[major][course] = {"Quizzes and Midterms": [], "Homework and Notes": [], "Other": []}
                 if document_type == "Tests and Quizzes":

@@ -30,15 +30,16 @@ class Uploader:
                     self.docType = t
                     for i in list:
                         self.document = i
-                        # as of now, we only upload this specific file that we have acces t
-                        if self.document == "1ndNpGGgHrUXtoREvOojYBUDcc1WrryP6":
-                            self.insertFile()
+                        with open('filesUploaded.json') as f:
+                            fileSet = json.load(f)
+                            if i not in fileSet:
+                                self.insertFile()
+                            # else:
+                            #     print(self.document + " already in json")
 
 
     def getMainFolder(self):
-        file_list = self.drive.ListFile({'q': "title = 'GT-SHPE Word Dev' and trashed=false"}).GetList()
-        return "1b5sxUu2RZQCfs_RdBAfofcFjxX0x3dyn"
-        # return file['id']
+        return "0B5c1_0cbw7-USnk4eG5FQ0hwR1k"
 
 
     def getIdMajor(self):
@@ -104,6 +105,14 @@ class Uploader:
                                           'parents': [{'kind': 'drive#fileLink', 'id': id}]})
             file.SetContentFile(string)
             file.Upload()
+
+            with open("filesUploaded.json") as f:
+                files = json.load(f)
+
+            files[self.document] = ""
+
+            with open("filesUploaded.json", "w") as f:
+                json.dump(files, f, indent=2)
 
             # deletes the file from computer
             os.remove(string)
