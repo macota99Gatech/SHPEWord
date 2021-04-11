@@ -175,7 +175,7 @@ class Uploader:
         print("Courses Updated")
 
     def refreshJson(self, info):
-        print("Started updating json file")
+        print("Started updating json file \n")
         with open('courses.json') as f:
             oldDict = json.load(f)
 
@@ -185,7 +185,7 @@ class Uploader:
         with open('courses.json', 'w') as f:
             json.dump(oldDict, f, indent=2)
 
-        print("Finish updating json file")
+        print("Finish updating json files \n")
 
 
 if __name__ == '__main__':
@@ -195,4 +195,4 @@ if __name__ == '__main__':
 
     # after initializing, start the upload
     x.initUpload()
-    print("process finished")
+    print("process finished, all files uploaded")
