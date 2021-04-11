@@ -6,7 +6,7 @@ import json
 class CreateJson:
     def __init__(self, drive):
         self.drive = drive
-        courseRefresh("1b5sxUu2RZQCfs_RdBAfofcFjxX0x3dyn")
+        self.courseRefresh("1b5sxUu2RZQCfs_RdBAfofcFjxX0x3dyn")
 
 
     def getCourses(self, idSHPE_Folder, drive):

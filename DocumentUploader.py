@@ -29,8 +29,7 @@ class Uploader:
                 for t, list in typeFiles.items():
                     self.docType = t
                     for i in list:
-                        self.document = i[0]
-                        self.prof = i[1]
+                        self.document = i
                         # as of now, we only upload this specific file that we have acces t
                         if self.document == "1ndNpGGgHrUXtoREvOojYBUDcc1WrryP6":
                             self.insertFile()
