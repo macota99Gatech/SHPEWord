@@ -19,8 +19,6 @@ class Uploader:
         self.newFiles = jsonNewFiles.newFiles(csvFile)
 
         # loads the json file with all the ids from the possible needed folders
-        with open('courses.json') as f:
-            self.todo = json.load(f)
 
     def initUpload(self):
         # start the uploading proccess for each file
@@ -34,8 +32,8 @@ class Uploader:
                         self.document = i[0]
                         self.prof = i[1]
                         # as of now, we only upload this specific file that we have acces t
-
-                        self.insertFile()
+                        if self.document == "1ndNpGGgHrUXtoREvOojYBUDcc1WrryP6":
+                            self.insertFile()
 
 
     def getMainFolder(self):
@@ -56,6 +54,8 @@ class Uploader:
 
     def insertFile(self):
         refresh_json = False
+        with open('courses.json') as f:
+            self.todo = json.load(f)
 
         # gets the id from the GT-SHPE folder
         self.idSHPE_Folder = self.getMainFolder()
@@ -79,16 +79,16 @@ class Uploader:
                     self.uploadDoc(info['Other'])
 
             else:
-                refresh_json = True
+                # refresh_json = True
                 print("the folder for the major doesn't exist")
                 # create the major folder, check for name, maybe dictionary?
                 # how? if we only got the letters and not the full name of the major
 
         # entered only if a major is created or a new course is created
         if refresh_json:
-
             # refresh the json file with the new ids
-            self.courseRefresh()
+            # self.courseRefresh()
+            self.refreshJson(info)
 
 
     def uploadDoc(self, id):
@@ -116,6 +116,7 @@ class Uploader:
         folderNew = self.drive.CreateFile({'title': self.course, 'mimeType': 'application/vnd.google-apps.folder',
                                       'parents': [{'id': self.idMajorFolder}]})
         folderNew.Upload()
+        self.newFolderID = folderNew["id"]
         wanted = ['Quizzes and Midterms', 'Other', 'Homework']
         id = {}
         id['id'] = folderNew['id']
@@ -172,6 +173,19 @@ class Uploader:
             json.dump(dataCode, f, indent=2)
 
         print("Courses Updated")
+
+    def refreshJson(self, info):
+        print("Started updating json file")
+        with open('courses.json') as f:
+            oldDict = json.load(f)
+
+        major = self.course.split()[0]
+        oldDict[major][self.course] = info
+
+        with open('courses.json', 'w') as f:
+            json.dump(oldDict, f, indent=2)
+
+        print("Finish updating json file")
 
 
 if __name__ == '__main__':

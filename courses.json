@@ -194,11 +194,6 @@
     }
   },
   "AE": {
-    "AE 1350": {
-      "id": "1ZgquZl_LsrKIClbyB8OQle7hfCN62kui",
-      "Other": "1QlmZC2IEU4Y6xi9slc_e_fr5_rVsjk52",
-      "Quizzes and Midterms": "1N_PqmMDNXaiedgu-QYObsUaxF297lLNb"
-    },
     "AE 2020": {
       "id": "1usG4IYRwxmv7cd-xCsC_1xwbAffhHJQ5",
       "Other": "1fij4cd0NL8ND3rJrf7zqGeMeYU9uOw0P",
@@ -225,6 +220,12 @@
       "Other": "17DSW4f1LafMiDl-YB9epw2_bvWctJSLT",
       "Quizzes and Midterms": "1BHnRhhEJCynrI4r0zBgbro0Is_D4wZMw",
       "Homework and Notes": "1hOA8iSj19YiXG1d05Bm2f34cxDr8Dy_0"
+    },
+    "AE 1350": {
+      "id": "1EUUcyJdjDPk7ruG5FyPh_PLjhvmc3xq5",
+      "Quizzes and Midterms": "1ria47vaTwkJeXRRM14T3LiTIAG6_QOtW",
+      "Other": "1D1JBG6Gyti6NqgLZqOH4QGP5HoWWEWWK",
+      "Homework": "1JihdU0AhOUhjwkOAi7EaQ8yYN1IcT0l2"
     }
   },
   "ACCT": {
