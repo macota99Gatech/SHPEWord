@@ -1,6 +1,5 @@
 import pandas as pd
 from collections import defaultdict
-import numpy as np
 import json
 
 # reads the csv file and transform it into a json file / dictionary
@@ -17,7 +16,7 @@ def newFiles(name):
                 id = row["Document Upload {0}".format(i)].split("id=")[1]
                 if course not in dic[major]:
                     dic[major][course] = {"Quizzes and Midterms": [], "Homework and Notes": [], "Other": []}
-                if document_type == "Tests and Quizzes":
+                if document_type == "Quizzes and Midterms":
                     dic[major][course]["Quizzes and Midterms"].append(id)
                 elif document_type == "Homework and Notes":
                     dic[major][course]["Homework and Notes"].append(id)
@@ -25,7 +24,6 @@ def newFiles(name):
                     dic[major][course]["Other"].append(id)
             except AttributeError:
                 continue
-                # do break for everything or just the row?
 
     data = json.loads(json.dumps(dic))
     with open('newFiles.json', 'w') as f:

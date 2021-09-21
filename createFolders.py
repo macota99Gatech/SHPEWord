@@ -33,7 +33,7 @@ for file in fileChild:
 
             for name in wanted:
                 if name not in names:
-                    #create the file in coureId with the name
+                    #create the file in courseId with the name
                     folderNew = drive.CreateFile({'title': name, 'mimeType': 'application/vnd.google-apps.folder',
                                                   'parents': [{'id': courseId}]})
                     folderNew.Upload()

@@ -1,6 +1,5 @@
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
-import pandas as pd
 import sys
 import os
 import jsonNewFiles
@@ -21,7 +20,7 @@ class Uploader:
         # loads the json file with all the ids from the possible needed folders
 
     def initUpload(self):
-        # start the uploading proccess for each file
+        # start the uploading process for each file
         for m, courses in self.newFiles.items():
             self.major = m
             for c, typeFiles in courses.items():
@@ -81,13 +80,10 @@ class Uploader:
             else:
                 # refresh_json = True
                 print("the folder for the major doesn't exist")
-                # create the major folder, check for name, maybe dictionary?
-                # how? if we only got the letters and not the full name of the major
 
         # entered only if a major is created or a new course is created
         if refresh_json:
             # refresh the json file with the new ids
-            # self.courseRefresh()
             self.refreshJson(info)
 
 
@@ -96,7 +92,8 @@ class Uploader:
             idDoc = self.document
 
             file = self.drive.CreateFile({'id': idDoc})
-            string = file['title']
+            #removes peoples' names from file names
+            string = file['title'].split(" - ")[0]
             # get downloads the file into the computer
             file.GetContentFile(string)
 
@@ -153,7 +150,6 @@ class Uploader:
             for courses in coursesInFile:
                 newDict = {}
                 newDict['id'] = courses['id']
-                # this for now
                 docTypes = drive.ListFile({'q': "'%s' in parents and trashed=false" % (courses['id'])}).GetList()
                 for doc in docTypes:
                     if doc['title'] == 'Homework and Notes':
